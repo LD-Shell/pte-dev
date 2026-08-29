@@ -1,0 +1,913 @@
+{
+ "no": 9,
+ "title": "Practice Test 9",
+ "source": "hand-written",
+ "format": "PTE Academic, 2025 revision (22 task types)",
+ "speaking": [
+  {
+   "type": "ra",
+   "text": "Satellite navigation would fail within minutes if relativity were ignored. Clocks aboard the satellites run faster than clocks on the ground because gravity is weaker at altitude, and slower because the satellites are moving quickly. The two effects do not cancel, and the residual difference must be corrected continuously."
+  },
+  {
+   "type": "ra",
+   "text": "Beavers alter landscapes more thoroughly than any animal except ourselves. A single family will fell trees, dam a stream and flood several hectares, creating wetland that supports species which could not otherwise live there. Where beavers have been removed, the habitat they maintained disappears within a decade."
+  },
+  {
+   "type": "ra",
+   "text": "The Beaufort scale described the sea rather than the wind. Its categories were written for officers who had no instrument, and each one specifies what a sailing vessel could carry and how the water behaved. Converting those descriptions into wind speeds came much later and remains approximate."
+  },
+  {
+   "type": "ra",
+   "text": "Parchment is made from skin rather than plant fibre, and it survives conditions that would destroy paper entirely. Manuscripts have been recovered legible from damp cellars and even from fire damage, which is one reason the written record of the early medieval period is far better preserved than that of some later centuries."
+  },
+  {
+   "type": "ra",
+   "text": "Desalination is limited less by the energy required to separate salt from water than by what is done with the concentrated brine left behind. Discharged into a shallow bay it sinks and remains, and the resulting layer of dense salt water can extinguish life on the seabed for a considerable distance."
+  },
+  {
+   "type": "ra",
+   "text": "Pencils have never contained lead. The material is graphite, misidentified when a large deposit was discovered in Cumbria in the sixteenth century, and the mistake survives in several European languages. The graphite was so valuable that the mine was flooded deliberately between extractions to prevent theft."
+  }
+ ],
+ "repeat": [
+  {
+   "type": "rs",
+   "text": "The next meeting has been moved to the first week of April."
+  },
+  {
+   "type": "rs",
+   "text": "Participants were asked to complete the survey within seven days."
+  },
+  {
+   "type": "rs",
+   "text": "Access to the roof is restricted to authorised technical staff."
+  },
+  {
+   "type": "rs",
+   "text": "Two chapters of the thesis remain to be written."
+  },
+  {
+   "type": "rs",
+   "text": "The exhibition closes at the end of the month."
+  },
+  {
+   "type": "rs",
+   "text": "His interpretation depends heavily on a single ambiguous passage."
+  },
+  {
+   "type": "rs",
+   "text": "Please label all specimens clearly before storing them."
+  },
+  {
+   "type": "rs",
+   "text": "Funding covers travel but not accommodation or subsistence."
+  },
+  {
+   "type": "rs",
+   "text": "The programme has been running successfully for over a decade."
+  },
+  {
+   "type": "rs",
+   "text": "Response rates were considerably lower than the team had hoped."
+  }
+ ],
+ "images": [
+  {
+   "type": "di",
+   "chart": {
+    "kind": "pie",
+    "title": "Global protein supply by source",
+    "labels": [
+     "Cereals",
+     "Meat",
+     "Dairy and eggs",
+     "Pulses and nuts",
+     "Fish and seafood",
+     "Other"
+    ],
+    "values": [
+     38,
+     21,
+     17,
+     12,
+     7,
+     5
+    ],
+    "summary": "Cereals supply the largest share of protein at 38 per cent, well ahead of meat at 21 and dairy and eggs at 17. Plant sources overall, cereals plus pulses and nuts, account for half the total. Fish and seafood contribute only 7 per cent despite their prominence in discussion of food supply. A strong answer groups plant against animal sources rather than only listing the slices, gives the leading figure, and notes that fish is among the smallest contributors."
+   }
+  },
+  {
+   "type": "di",
+   "chart": {
+    "kind": "bar",
+    "title": "Greenhouse gas emissions per passenger-kilometre by mode",
+    "unit": "grams CO2 equivalent per passenger-kilometre",
+    "xLabel": "Mode",
+    "categories": [
+     "Domestic flight",
+     "Petrol car, one occupant",
+     "Petrol car, four occupants",
+     "Coach",
+     "Rail",
+     "Cycling"
+    ],
+    "series": [
+     {
+      "name": "Emissions",
+      "values": [
+       246,
+       171,
+       43,
+       27,
+       35,
+       0
+      ]
+     }
+    ],
+    "summary": "A domestic flight is the highest at 246 grams, roughly nine times the coach figure of 27. A petrol car carrying one person emits 171, but the same car with four occupants falls to 43, close to rail at 35 and below it per person in some comparisons. Coach is the lowest motorised option at 27 and cycling is zero. A strong answer emphasises that occupancy changes the car figure fourfold, which is a larger effect than switching mode, and does not simply rank the bars."
+   }
+  },
+  {
+   "type": "di",
+   "chart": {
+    "kind": "map",
+    "title": "Land loss in a river delta, 1970 and 2020",
+    "legend": "Extent of vegetated land in 1970 above, 2020 below",
+    "panels": [
+     {
+      "label": "1970",
+      "features": [
+       {
+        "t": "water",
+        "x": 0,
+        "y": 76,
+        "w": 100,
+        "h": 24,
+        "name": "Open sea"
+       },
+       {
+        "t": "park",
+        "x": 4,
+        "y": 18,
+        "w": 90,
+        "h": 54,
+        "name": "Marsh and farmland"
+       },
+       {
+        "t": "water",
+        "x": 40,
+        "y": 18,
+        "w": 10,
+        "h": 58,
+        "name": "Main channel"
+       },
+       {
+        "t": "block",
+        "x": 8,
+        "y": 4,
+        "w": 26,
+        "h": 10,
+        "name": "Town"
+       }
+      ]
+     },
+     {
+      "label": "2020",
+      "features": [
+       {
+        "t": "water",
+        "x": 0,
+        "y": 58,
+        "w": 100,
+        "h": 42,
+        "name": "Open sea"
+       },
+       {
+        "t": "park",
+        "x": 6,
+        "y": 20,
+        "w": 34,
+        "h": 34,
+        "name": "Remaining marsh"
+       },
+       {
+        "t": "park",
+        "x": 62,
+        "y": 22,
+        "w": 26,
+        "h": 30,
+        "name": "Remaining marsh"
+       },
+       {
+        "t": "water",
+        "x": 40,
+        "y": 20,
+        "w": 20,
+        "h": 38,
+        "name": "Widened channel"
+       },
+       {
+        "t": "block",
+        "x": 8,
+        "y": 4,
+        "w": 26,
+        "h": 10,
+        "name": "Town"
+       }
+      ]
+     }
+    ],
+    "summary": "Two plans of the same delta fifty years apart. In 1970 a continuous band of marsh and farmland runs across the delta, cut by a single narrow channel. By 2020 the sea has advanced roughly twenty per cent further inland, the continuous band has broken into two separated fragments, and the main channel has roughly doubled in width. The town is unchanged and is now much closer to open water. A strong answer compares the two directly, quantifies the retreat of the coastline and the fragmentation of the marsh, and notes that the town has not moved while its exposure has increased."
+   }
+  }
+ ],
+ "lecture": [
+  {
+   "type": "rl",
+   "transcript": "I want to use the collapse of the Newfoundland cod fishery as a case study, because it is unusually well documented and because almost everyone involved could see it coming. Cod had been fished off Newfoundland for five centuries. Catches were enormous and stable for most of that period, and the industry supported entire communities with no meaningful alternative employment. Through the nineteen sixties and seventies, factory trawlers arrived, and the annual catch rose dramatically. Then it began to fall, and the scientific advice recommended sharp reductions in quota. What happened next is the interesting part. The quotas were set, repeatedly, above the level scientists advised, and the reason is not simple corruption. Fisheries science estimates stock size partly from catch data supplied by the fleet, and when the fleet becomes more efficient at finding the remaining fish, catch per unit effort stays high even as the stock collapses. So the instrument used to measure the problem was concealing it. Meanwhile the political cost of a reduced quota was immediate, concentrated and vocal, while the benefit was distant and diffuse. In 1992 the Canadian government closed the fishery entirely. Around forty thousand people lost their work in a single announcement. Now, the part that matters most for policy: the stock has not recovered. Thirty years of near-total closure has produced only partial return, apparently because the ecosystem reorganised around the absence of cod, and the species that replaced them prey on young cod. A system pushed past a certain point does not simply reverse when the pressure is removed.",
+   "key": [
+    "cod supported Newfoundland communities for five centuries at stable catch levels",
+    "factory trawlers raised catches sharply from the 1960s before the stock declined",
+    "quotas were repeatedly set above scientific advice",
+    "catch per unit effort stayed high as fleets got better at finding remaining fish, concealing the collapse",
+    "political costs of cuts were immediate and concentrated while benefits were distant",
+    "the 1992 closure cost about forty thousand jobs and the stock has still not recovered because the ecosystem reorganised"
+   ]
+  },
+  {
+   "type": "rl",
+   "transcript": "Today I want to look at how the form of the novel was shaped by the way novels were sold. In the middle of the nineteenth century a great deal of fiction appeared first in monthly or weekly parts, and this was not a marketing afterthought. It determined the structure of what was written. Consider what serialisation requires. Each instalment must be roughly the same length, because the printer has fixed pages to fill. Each must end at a point that makes the reader buy the next one, which produces the cliffhanger as a structural necessity rather than a stylistic choice. And because the earlier parts were published before the later ones were written, the author could adjust in response to sales. Dickens did this openly, expanding characters that proved popular and quietly reducing those that did not. Now, several features of Victorian fiction that literary critics used to treat as failings look different in this light. The large casts, the subplots that recur at intervals, the recapitulation that modern readers find repetitive: all are solutions to the problem of a reader who last encountered these people four weeks ago. The three-volume format that followed had its own logic, driven by the circulating libraries, which charged per volume and therefore preferred long books split three ways. When that system collapsed in the eighteen nineties, the single-volume novel became standard within about two years. The form did not evolve for aesthetic reasons. It followed the economics, and then the aesthetics were constructed around it afterwards.",
+   "key": [
+    "much Victorian fiction appeared first in weekly or monthly parts",
+    "fixed instalment length and the need to sell the next part made the cliffhanger structural",
+    "authors could adjust to sales because later parts were unwritten; Dickens did so openly",
+    "large casts, recurring subplots and recapitulation served readers with four-week gaps",
+    "the three-volume format suited circulating libraries charging per volume",
+    "when that system collapsed the single-volume novel took over within about two years, so form followed economics"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "type": "asq",
+   "q": "What do we call the person who writes a book?",
+   "a": [
+    "author",
+    "an author",
+    "writer",
+    "a writer"
+   ]
+  },
+  {
+   "type": "asq",
+   "q": "If a substance is described as flammable, does it burn easily or resist burning?",
+   "a": [
+    "burns easily",
+    "it burns easily",
+    "easily",
+    "burns"
+   ]
+  },
+  {
+   "type": "asq",
+   "q": "Which planet is closest to the sun?",
+   "a": [
+    "mercury"
+   ]
+  },
+  {
+   "type": "asq",
+   "q": "What is the term for the amount of money charged to enter a museum or an exhibition?",
+   "a": [
+    "admission",
+    "admission fee",
+    "entrance fee",
+    "entry fee",
+    "admission charge"
+   ]
+  },
+  {
+   "type": "asq",
+   "q": "Is a container that lets no liquid escape described as leaking or sealed?",
+   "a": [
+    "sealed"
+   ]
+  }
+ ],
+ "discussion": [
+  {
+   "type": "sgd",
+   "turns": [
+    {
+     "speaker": "Hugo",
+     "text": "Anonymous marking is presented as obviously fair, but it removes the marker's knowledge of the student, and for a dissertation that knowledge is most of what makes the feedback useful."
+    },
+    {
+     "speaker": "Tara",
+     "text": "The feedback and the mark are separable. Mark anonymously, then reveal the identity before writing comments."
+    },
+    {
+     "speaker": "Hugo",
+     "text": "Which means marking twice, essentially. And the mark is already influenced by the context you can't unsee once you know whose it is."
+    },
+    {
+     "speaker": "Tara",
+     "text": "That's precisely the argument for anonymity. You've just made my case."
+    },
+    {
+     "speaker": "Hugo",
+     "text": "I have, actually. My worry is narrower than I've been stating it: I don't want a student who has struggled all year to receive comments that ignore that."
+    },
+    {
+     "speaker": "Jae",
+     "text": "Then separate them properly. Anonymous mark, sealed. Then open the file, write comments knowing everything, and the mark can't move."
+    },
+    {
+     "speaker": "Tara",
+     "text": "That works, and it's also a rule we could actually audit, which the current arrangement is not."
+    }
+   ],
+   "key": [
+    "Hugo argues anonymous marking removes contextual knowledge that makes dissertation feedback useful",
+    "Tara proposes separating the mark from the comments",
+    "Hugo notes that context influences the mark once known, then concedes this supports anonymity",
+    "Hugo narrows his concern to feedback that ignores a student's difficult year",
+    "Jae proposes sealing the anonymous mark before revealing identity for comments; Tara adds that this is auditable"
+   ]
+  },
+  {
+   "type": "sgd",
+   "turns": [
+    {
+     "speaker": "Naomi",
+     "text": "Migrating off this platform will cost us a term of disruption, and I want us to be honest that the reason is not the software. It's that we no longer control the terms."
+    },
+    {
+     "speaker": "Felix",
+     "text": "The terms have been the same for six years. What's changed is that the price went up, and every alternative will also raise its price once we've moved."
+    },
+    {
+     "speaker": "Naomi",
+     "text": "Not if the format is open. The cost of moving is the whole leverage they have, and it exists because our data is in a format only they can read."
+    },
+    {
+     "speaker": "Felix",
+     "text": "Open formats are a real advantage and they are not free. Someone has to maintain the export tooling, and that someone is us, forever."
+    },
+    {
+     "speaker": "Sanjay",
+     "text": "Could we require an open export as a condition of renewal rather than migrating now? We keep the platform and remove the lock-in."
+    },
+    {
+     "speaker": "Felix",
+     "text": "They'd probably agree to that. It costs them very little this year and a great deal in five."
+    },
+    {
+     "speaker": "Naomi",
+     "text": "Which is exactly why we should ask for it while we still look like we might leave."
+    }
+   ],
+   "key": [
+    "Naomi argues the case for migrating is loss of control rather than software quality",
+    "Felix replies that alternatives will raise prices once the switch is made",
+    "Naomi says the lock-in comes from a proprietary data format; Felix notes open formats carry ongoing maintenance cost",
+    "Sanjay proposes requiring an open export as a renewal condition instead of migrating",
+    "Naomi adds that the request has force only while departure looks credible"
+   ]
+  }
+ ],
+ "situation": [
+  {
+   "type": "rts",
+   "situation": "You cancelled a gym membership four months ago by email and received an acknowledgement, but the payments have continued every month since. You have called twice and been told the cancellation is being processed.",
+   "task": "Telephone the gym again.",
+   "key": [
+    "summarises the timeline and the two previous calls concisely",
+    "states clearly that you have written confirmation of the cancellation",
+    "asks for a specific outcome including the refund, not just an assurance",
+    "asks who you are speaking to and what happens next",
+    "remains firm and civil rather than aggressive"
+   ]
+  },
+  {
+   "type": "rts",
+   "situation": "A former manager wrote you a reference two years ago. You are applying for a new post and the reference describes a role you have since outgrown considerably. You left the organisation on good terms.",
+   "task": "Speak to your former manager.",
+   "key": [
+    "makes the request clearly and gives the reason",
+    "summarises what has changed since the original reference",
+    "offers to supply an updated summary to make it easy for them",
+    "gives a realistic deadline",
+    "acknowledges that this is a favour and keeps a warm professional register"
+   ]
+  }
+ ],
+ "swt": [
+  {
+   "type": "swt",
+   "passage": "Copyright was originally a short, practical grant and has become something close to permanent, and the extension has occurred without any evidence that it produces more work. The first English statute in 1710 gave fourteen years, renewable once, and the reasoning was explicit: an author needed enough time to profit from a work, after which the public gained a resource it could build upon freely. The term is now typically the life of the author plus seventy years, which for a young writer may exceed a century and a half. The economic argument for extension has always been that longer protection increases the incentive to create, and it fails on inspection, since no author's decision to write can plausibly be influenced by revenue accruing to their grandchildren's estate. What extension does reliably accomplish is to keep existing valuable works out of the public domain, which benefits current rights holders rather than future creators. The cost falls in a place that is difficult to see: the works that were never made because permission could not be obtained or traced. Studies of digitisation projects consistently find that the majority of twentieth-century books are commercially unavailable and still in copyright, held by owners nobody can locate, which is a category that the original statute would have found unintelligible.",
+   "key": [
+    "the 1710 statute gave fourteen years renewable once, with an explicit public-domain rationale",
+    "terms are now typically life plus seventy years, potentially over a century and a half",
+    "the incentive argument fails because revenue to distant heirs cannot influence a decision to write",
+    "extension mainly keeps valuable existing works from the public domain, benefiting current holders",
+    "the hidden cost is works never made because permission could not be traced",
+    "most twentieth-century books are commercially unavailable yet still in copyright with untraceable owners"
+   ]
+  },
+  {
+   "type": "swt",
+   "passage": "Regression to the mean is among the most reliable sources of false conclusions in policy evaluation, and it is invisible to anyone not looking for it. The phenomenon is purely statistical: any measurement containing a random component will, if it is extreme on one occasion, tend to be less extreme on the next, simply because the random component is unlikely to be extreme twice in the same direction. The trouble arises because interventions are targeted at extremes. Road safety schemes are installed at junctions that recorded an unusually high number of accidents in the preceding year; remedial teaching is given to pupils who scored unusually badly; inspection is directed at hospitals with unusually poor outcomes. In every case the subsequent measurement improves, and in every case some of that improvement would have occurred with no intervention whatsoever. The effect is large enough to have produced apparent successes for schemes later shown to do nothing. The remedy is not complicated, since a comparison group selected on the same criterion but left untreated will regress by the same amount, and the difference between the two is the real effect. What makes the error persistent is that the naive analysis produces a flattering result and the correct one frequently does not.",
+   "key": [
+    "extreme measurements tend to be less extreme on repetition because random components rarely repeat",
+    "interventions are targeted at extremes: accident blackspots, low-scoring pupils, poorly performing hospitals",
+    "subsequent improvement partly occurs without any intervention",
+    "the effect has produced apparent successes for schemes that did nothing",
+    "the remedy is a comparison group selected on the same criterion but left untreated",
+    "the error persists because the naive analysis flatters and the correct one often does not"
+   ]
+  }
+ ],
+ "essay": [
+  {
+   "type": "we",
+   "prompt": "A number of cities have banned or heavily restricted private cars in their central districts. Supporters say this improves air quality and makes cities more liveable, while opponents argue it harms local businesses and people who have no practical alternative. Discuss both views and give your own opinion. Write 200-300 words."
+  }
+ ],
+ "reading": [
+  {
+   "type": "rwfib",
+   "text": "A pidgin is a simplified system that ___0___ when speakers with no common language need to trade. It has no native speakers by definition, and its grammar is minimal. What happens next is remarkable: when children grow up hearing a pidgin as the ___1___ language around them, they produce something far more complex, with consistent tense marking and subordination that was never ___2___ to them. The result is called a creole, and its emergence is among the strongest ___3___ that grammatical structure is supplied by the learner rather than only absorbed.",
+   "blanks": [
+    {
+     "options": [
+      "arises",
+      "arrives",
+      "arrests",
+      "arranges"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "principal",
+      "principle",
+      "precedent",
+      "preceding"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "modelled",
+      "moderated",
+      "modified",
+      "mobilised"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "indications",
+      "inclinations",
+      "inventions",
+      "initiatives"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "type": "rwfib",
+   "text": "Leaves do not turn colour in autumn so much as ___0___ the colour they already contained. Yellow and orange pigments are present throughout the growing season and are simply masked by the far more ___1___ green of chlorophyll. When the tree withdraws nutrients before leaf fall, the chlorophyll ___2___ first and the remaining pigments become visible. Red is the exception: it is manufactured ___3___ during the process, and why a tree should invest in a pigment it is about to discard is still debated.",
+   "blanks": [
+    {
+     "options": [
+      "reveal",
+      "revive",
+      "revise",
+      "reverse"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "abundant",
+      "abrupt",
+      "absolute",
+      "adjacent"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "degrades",
+      "descends",
+      "detaches",
+      "deviates"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "afresh",
+      "afloat",
+      "afield",
+      "aloud"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "type": "rwfib",
+   "text": "A suspension bridge works because a cable can only be pulled, never ___0___. Steel is far stronger in tension than in compression, so a design that keeps the main span hanging uses the material at its best, and the towers carry the load ___1___ downward where compression is efficient. This is why suspension bridges achieve spans that no beam could ___2___, and also why they must be stiffened against wind, since a structure that is ___3___ in tension has very little resistance to twisting.",
+   "blanks": [
+    {
+     "options": [
+      "pushed",
+      "placed",
+      "packed",
+      "paused"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "straight",
+      "strait",
+      "strict",
+      "stretched"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "approach",
+      "approve",
+      "appoint",
+      "appraise"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "held",
+      "hidden",
+      "heated",
+      "hinged"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "type": "rwfib",
+   "text": "The claim that skating works because pressure melts the ice is ___0___ but largely wrong. The pressure exerted by a blade lowers the melting point by a fraction of a degree, which is nowhere near enough at the temperatures of an outdoor rink. Two other ___1___ do most of the work: friction generates heat as the blade moves, and the surface of ice carries a ___2___ layer of disordered molecules even well below freezing. Ice is slippery when ___3___ still, which pressure alone cannot explain.",
+   "blanks": [
+    {
+     "options": [
+      "appealing",
+      "apparent",
+      "appalling",
+      "appointed"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "mechanisms",
+      "measurements",
+      "monuments",
+      "movements"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "thin",
+      "think",
+      "thick",
+      "third"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "standing",
+      "standard",
+      "standby",
+      "stranded"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "type": "rwfib",
+   "text": "The fork was regarded as an ___0___ affectation in northern Europe for several centuries after it was common in Italy. Contemporary critics objected that fingers were given to us for the ___1___ and that an implement between hand and food implied a squeamishness bordering on ___2___. What eventually carried the fork was not persuasion but a change in clothing: wide starched collars made it awkward to ___3___ toward a plate, and an implement that brought the food upward became convenient.",
+   "blanks": [
+    {
+     "options": [
+      "absurd",
+      "absolute",
+      "abundant",
+      "abrupt"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "purpose",
+      "proposal",
+      "provision",
+      "procession"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "insult",
+      "insight",
+      "instinct",
+      "instance"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "lean",
+      "leap",
+      "lend",
+      "leak"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "type": "rmcma",
+   "passage": "Smart city projects are marketed on the promise that better data produces better decisions, and the record so far suggests the relationship is considerably weaker than that. Sensor networks generate enormous quantities of information about traffic, air quality and energy use, and a great deal of it is never examined, because the constraint on municipal decision-making is rarely a shortage of measurement. It is more often the absence of any authority able to act across the departments a problem crosses. A city that installs air quality monitors on every arterial road learns, in more detail, something it already knew, and the department holding the data typically cannot alter traffic routing, planning consent or bus procurement. There are genuine successes, and they share a feature: the data was collected for a decision that had already been identified, by a body that could implement the outcome. Projects that begin by installing sensors and then look for uses have a poor record, and vendors have an obvious interest in the second model, since it sells more hardware.",
+   "q": "Which of the following are stated or clearly implied by the passage?",
+   "options": [
+    "Much data collected by sensor networks is never examined.",
+    "The main constraint on municipal decisions is often institutional rather than informational.",
+    "Successful projects tend to collect data for a decision already identified.",
+    "The author concludes that urban sensor data has no legitimate use.",
+    "Vendors benefit from the model that begins with installing hardware."
+   ],
+   "answers": [
+    0,
+    1,
+    2,
+    4
+   ]
+  },
+  {
+   "type": "ro",
+   "paras": [
+    "The Mary Rose sank in the Solent in 1545, in full view of the king, while turning to engage a French fleet.",
+    "Early salvage attempts failed, and the wreck settled into soft silt that buried the starboard side almost completely.",
+    "That burial is the reason anything survived: the sediment excluded oxygen, and the timbers and their contents were preserved for four centuries.",
+    "When the hull was raised in 1982 it contained some nineteen thousand objects, from longbows to a barber-surgeon's complete instrument chest.",
+    "The port side, which had remained exposed to the water, had been consumed by marine organisms and was almost entirely gone."
+   ]
+  },
+  {
+   "type": "ro",
+   "paras": [
+    "The potato reached Europe in the sixteenth century and was treated for over a hundred years as an ornamental curiosity.",
+    "Resistance was partly botanical, since the plant belongs to a family containing several poisons, and partly social, as a crop grown underground carried associations that grain did not.",
+    "What changed opinion was warfare: an army could burn a field of wheat but could not easily destroy a buried harvest.",
+    "Governments accordingly promoted the crop, and yields per hectare far exceeding those of cereals did the rest.",
+    "Within a century entire populations had come to depend on a single species with almost no genetic variation among the varieties planted."
+   ]
+  },
+  {
+   "type": "rfib",
+   "text": "The cost of sequencing a human genome has fallen faster than almost any technology on ___0___. The first draft consumed roughly a decade and something close to three billion dollars; the same work is now performed overnight for a few hundred. What has not fallen at the same rate is the cost of ___1___ what the sequence means, which requires comparison against large populations and clinical follow-up. The consequence is a growing ___2___ between what can be measured and what can be understood, and clinicians increasingly receive results of ___3___ significance that they must nevertheless ___4___ to a patient.",
+   "bank": [
+    "record",
+    "interpreting",
+    "gap",
+    "uncertain",
+    "explain",
+    "history",
+    "obtaining",
+    "distance",
+    "obvious",
+    "report"
+   ],
+   "answers": [
+    "record",
+    "interpreting",
+    "gap",
+    "uncertain",
+    "explain"
+   ]
+  },
+  {
+   "type": "rfib",
+   "text": "European eels begin and end their lives in the Sargasso Sea, and no adult has ever been ___0___ making the journey there. Larvae drift on the current for a year or more before reaching European rivers, where they remain for up to twenty years before ___1___ back. The route is inferred from the distribution of larvae by ___2___, from tagging studies that lose contact partway, and from the fact that no other explanation ___3___. That a species fished commercially for centuries should have a life cycle still partly ___4___ is a useful corrective to assumptions about how much is known.",
+   "bank": [
+    "observed",
+    "migrating",
+    "size",
+    "fits",
+    "unknown",
+    "recorded",
+    "swimming",
+    "depth",
+    "works",
+    "studied"
+   ],
+   "answers": [
+    "observed",
+    "migrating",
+    "size",
+    "fits",
+    "unknown"
+   ]
+  },
+  {
+   "type": "rfib",
+   "text": "Seed banks are usually described as ___0___ against catastrophe, and the vault built into permafrost on Svalbard is the best known. The more routine ___1___, though, is agricultural rather than apocalyptic: commercial breeding has narrowed the varieties in cultivation dramatically, and a bank preserves the diversity from which future ___2___ to a new disease may be drawn. Seeds do not keep indefinitely, so collections must be periodically grown out and ___3___, which is expensive and requires land. A bank that is merely ___4___ is slowly failing without appearing to.",
+   "bank": [
+    "insurance",
+    "purpose",
+    "resistance",
+    "replaced",
+    "frozen",
+    "protection",
+    "problem",
+    "recovery",
+    "recorded",
+    "stored"
+   ],
+   "answers": [
+    "insurance",
+    "purpose",
+    "resistance",
+    "replaced",
+    "frozen"
+   ]
+  },
+  {
+   "type": "rfib",
+   "text": "Hadrian's Wall is often assumed to have been a ___0___ line, and its design suggests something more complicated. A defensive barrier does not normally include gateways at every Roman ___1___, yet the wall did, and the garrison was too thin to hold a continuous front against a serious ___2___. What the structure does accomplish is control: it channels movement through points where people and goods can be counted, ___3___ and turned back if required. The wall may therefore be better understood as a customs and surveillance ___4___ than as a fortification.",
+   "bank": [
+    "defensive",
+    "mile",
+    "assault",
+    "taxed",
+    "apparatus",
+    "military",
+    "fort",
+    "attack",
+    "stopped",
+    "barrier"
+   ],
+   "answers": [
+    "defensive",
+    "mile",
+    "assault",
+    "taxed",
+    "apparatus"
+   ]
+  },
+  {
+   "type": "rmcsa",
+   "passage": "The idea of the digital native, a generation supposedly fluent with technology by virtue of having grown up alongside it, has been influential in education policy and does not survive contact with evidence. Young people are indeed comfortable with a narrow set of consumer applications, and this comfort has consistently been mistaken for general capability. Studies assessing information literacy, the ability to evaluate a source, construct a search or understand what a platform does with data, find no advantage for younger cohorts and frequently find a deficit, apparently because interfaces designed to require no understanding produce users who have none. The policy consequence has been unfortunate: instruction in these skills was reduced on the assumption that it was no longer needed, at precisely the point when it became most necessary.",
+   "q": "What is the author's main argument about digital natives?",
+   "options": [
+    "Familiarity with consumer applications has been mistaken for broader digital capability.",
+    "Younger people are consistently more skilled at evaluating online sources than older people.",
+    "Technology instruction should be removed from the curriculum entirely.",
+    "Digital skills cannot be taught effectively in a classroom setting."
+   ],
+   "answer": 0
+  },
+  {
+   "type": "rmcsa",
+   "passage": "Parkinson's law, that work expands to fill the time available, is usually quoted as a joke about bureaucracy and is treated in some management circles as a justification for aggressive deadlines. The empirical picture is more particular. Shortening a deadline does reliably reduce the time spent, and for tasks with a clear completion criterion this often costs nothing in quality, since the additional hours were being spent on refinement with little effect. For tasks whose quality is difficult to observe, the same pressure produces work that is finished on time and worse, and the deterioration is not detected precisely because it is unobservable. This asymmetry means the law is a poor general principle and a reasonable local one: it applies where completion can be judged, and imposing it elsewhere merely moves the cost from the schedule to the output.",
+   "q": "What distinction does the author draw?",
+   "options": [
+    "Tight deadlines work where completion can be judged and hide quality loss where it cannot.",
+    "Parkinson's law has been shown to be false in all workplace settings.",
+    "Longer deadlines consistently produce higher quality work of every kind.",
+    "Bureaucratic organisations are uniquely resistant to deadline pressure."
+   ],
+   "answer": 0
+  }
+ ],
+ "listening": [
+  {
+   "type": "sst",
+   "transcript": "I want to talk about something called the Flynn effect, which is one of the more awkward findings in psychology because nobody has satisfactorily explained it. Here is the observation. Scores on intelligence tests rose steadily throughout the twentieth century in every country where long-run data exists, at roughly three points per decade. The tests are periodically restandardised so that the average is always set to one hundred, which is why the rise is invisible to test takers, but if you score a modern population on a test from the nineteen thirties, the average comes out around one hundred and thirty. James Flynn, who documented this most thoroughly, was clear that the obvious interpretation is untenable. People are not becoming dramatically more intelligent every generation; if they were, the intellectual achievements of the nineteen twenties would be incomprehensible to us, and they are not. So what is rising? The gains are not evenly distributed across the subtests. Arithmetic and general knowledge have barely moved. The large increases are concentrated in the abstract, non-verbal sections: classifying objects by category, completing visual patterns, reasoning about hypothetical premises. Flynn's own explanation was that modernity trains a particular habit of mind. A pre-industrial worker asked what dogs and rabbits have in common might answer that you use dogs to hunt rabbits, which is practical and, in the terms of the test, wrong. The expected answer, that both are mammals, requires treating the world as a system of abstract categories rather than of concrete uses, and schooling, bureaucratic work and scientific vocabulary have made that habit ordinary. What the tests may be measuring, in other words, is not intelligence rising but a particular style of thinking becoming universal, which is a considerably more interesting finding and a much less flattering one.",
+   "key": [
+    "test scores rose about three points per decade through the twentieth century wherever long-run data exists",
+    "restandardisation hides the rise; a modern population scores about 130 on a 1930s test",
+    "Flynn rejected the interpretation that people are becoming far more intelligent",
+    "gains concentrate in abstract non-verbal subtests, not arithmetic or general knowledge",
+    "his explanation was that modernity trains abstract categorisation rather than concrete practical reasoning",
+    "the tests may measure a style of thinking becoming universal rather than intelligence rising"
+   ]
+  },
+  {
+   "type": "lmcma",
+   "transcript": "Some notes about the laboratory move over the vacation. All benches must be cleared by the twelfth, including anything in the cupboards underneath, which have historically been treated as permanent storage and will not be moved as they are. Chemicals cannot be transported by the removal contractor; the technical staff will handle those, and you need to have submitted your inventory by the fifth so they can plan it. Frozen samples are the one category we cannot guarantee, because the new freezers will not be commissioned until the fifteenth, so if you have material that cannot tolerate a gap, arrange alternative storage yourself now. Computers will be moved and reconnected, but not reconfigured, so any instrument-specific software will need reinstalling by whoever normally maintains it. And the new building has no cold room, which several people have been surprised to learn.",
+   "q": "According to the speaker, which of the following are true?",
+   "options": [
+    "Cupboards beneath the benches must also be emptied.",
+    "Chemical inventories must be submitted before the technical staff can plan.",
+    "The removal contractor will transport chemicals.",
+    "Researchers must arrange their own storage for sensitive frozen material.",
+    "Instrument software will be reinstalled by the removal team."
+   ],
+   "answers": [
+    0,
+    1,
+    3
+   ]
+  },
+  {
+   "type": "lfib",
+   "transcript": "A sonic boom is not produced at the moment an aircraft crosses the speed of [sound], which is the commonest misunderstanding. Pressure waves that cannot outrun the aircraft pile up into a single shock front, and that front trails behind the aircraft continuously for as long as it remains [supersonic]. An observer on the ground hears the boom when the cone sweeps over them, which may be several minutes after the aircraft has [passed]. The width of the affected corridor is roughly proportional to the [altitude] of the flight, which is why supersonic flight over land has been [prohibited] in many countries."
+  },
+  {
+   "type": "lfib",
+   "transcript": "Paper yellows because of what remains in it after [manufacture]. Wood pulp contains lignin, the compound that makes a tree [rigid], and cheap paper retains most of it. Lignin reacts with oxygen and light to form coloured compounds, which is why a newspaper darkens in [days] while a book printed on rag paper stays pale for centuries. Conservators can slow the reaction by controlling light and [humidity], but the only real remedy is to remove the lignin during [production]."
+  },
+  {
+   "type": "hcs",
+   "transcript": "A word about lemmings, because the story is worth knowing for what it says about the sources we trust. It is widely believed that lemmings periodically hurl themselves off cliffs in a mass suicide to control their own population. They do not. Lemming numbers do fluctuate dramatically, and during population peaks the animals disperse in large numbers and some drown attempting to cross water, which is dispersal gone wrong rather than deliberate death. The vivid version comes from a nature documentary made in 1958, in which the sequence was staged: the animals were transported to the location and driven off the cliff by the film crew using a turntable. That footage won an Academy Award and taught a false fact to two generations, which is a reminder that a moving image feels like evidence in a way that a sentence does not.",
+   "options": [
+    "Lemmings do not commit mass suicide; their numbers fluctuate and some drown while dispersing, and the familiar image comes from a 1958 documentary in which the sequence was staged by the film crew.",
+    "Lemmings genuinely do leap from cliffs during population peaks, a behaviour first captured accurately by documentary filmmakers in 1958 and confirmed by later research.",
+    "The speaker argues that lemming populations remain stable year to year and that reports of dramatic fluctuations were fabricated alongside the footage.",
+    "Documentary evidence of lemming behaviour was destroyed after the Academy Award, which is why the question has never been satisfactorily settled."
+   ],
+   "answer": 0
+  },
+  {
+   "type": "lmcsa",
+   "transcript": "Something about note-taking that the evidence supports more strongly than most study advice. Typing notes on a laptop produces a more complete record than writing by hand, and consistently worse recall. The reason appears to be that most people can type nearly as fast as a lecturer speaks, which allows verbatim transcription without any processing at all. Writing by hand is too slow for that, so the writer is forced to decide continuously what matters and to compress it, and that compression is itself the learning. The practical implication is not that laptops are forbidden. It is that if you use one, you have to impose artificially the constraint that handwriting imposes naturally, which in practice means closing the lecture slides and writing in your own sentences.",
+   "q": "Why does handwriting produce better recall according to the speaker?",
+   "options": [
+    "Its slowness forces continuous decisions about what matters and how to compress it.",
+    "Handwritten notes produce a more complete record of the lecture.",
+    "Laptops distract students with other applications during lectures.",
+    "Handwriting improves memory through physical movement of the hand."
+   ],
+   "answer": 0
+  },
+  {
+   "type": "smw",
+   "transcript": "An instrument can be extremely precise and consistently wrong. Precision describes how closely repeated measurements agree with one another; accuracy describes how close they are to the true value. A balance that reads two grams heavy every single time is highly precise and inaccurate, and no amount of repetition will reveal the problem, because repetition only tests [BEEP].",
+   "options": [
+    "precision",
+    "accuracy",
+    "reliability",
+    "tolerance"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "hiw",
+   "spoken": "Tardigrades survive conditions that kill almost everything else, including vacuum, extreme radiation and temperatures near absolute zero. They do this by expelling most of their body water and replacing it with a sugar that turns the cell contents into a glass halting chemical activity entirely. In this state the animal is not dormant but effectively suspended, and individuals have been revived after decades The ability evolved for drying ponds, not for space which is why the tolerance to radiation appears to be incidental.",
+   "swaps": {
+    "5": "nearly",
+    "11": "heat",
+    "21": "losing",
+    "40": "solid,",
+    "52": "sleeping",
+    "62": "years.",
+    "71": "vacuum,"
+   }
+  },
+  {
+   "type": "hiw",
+   "spoken": "The moon is thought to have formed when a body roughly the size of Mars struck the early earth. The evidence is chemical: lunar rock has almost exactly the same oxygen isotope signature as the earth's mantle, which is difficult to explain if the moon were captured from elsewhere. The impact would have thrown a disc of vaporised material into orbit, and that disc coalesced within perhaps a century. The moon has been receding from the earth ever since, at about four centimetres a year.",
+   "swaps": {
+    "14": "Venus",
+    "27": "precisely",
+    "39": "impossible",
+    "57": "molten",
+    "64": "condensed",
+    "73": "retreating"
+   }
+  },
+  {
+   "type": "wfd",
+   "text": "Applications must be supported by two academic references."
+  },
+  {
+   "type": "wfd",
+   "text": "The equipment should be returned to the store before the weekend."
+  },
+  {
+   "type": "wfd",
+   "text": "Analysis of the second dataset produced remarkably consistent results."
+  }
+ ]
+}
