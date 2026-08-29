@@ -1,0 +1,852 @@
+{
+ "no": 7,
+ "title": "Practice Test 7",
+ "source": "hand-written",
+ "format": "PTE Academic, 2025 revision (22 task types)",
+ "speaking": [
+  {
+   "type": "ra",
+   "text": "Rubber was a curiosity for a century before it became useful. Untreated, it turned brittle in cold weather and sticky in heat, so its applications were limited to erasers and waterproofing. Vulcanisation, the addition of sulphur under heat, produced a material stable across ordinary temperatures and made the pneumatic tyre possible."
+  },
+  {
+   "type": "ra",
+   "text": "Peat bogs accumulate at roughly a millimetre a year, so a metre of peat represents a thousand years of growth. Because the waterlogged conditions prevent decay, the layers preserve pollen, ash and occasionally human remains in sequence, making a bog one of the most detailed environmental archives available to us."
+  },
+  {
+   "type": "ra",
+   "text": "Public clocks preceded personal ones by several centuries, and their faces originally carried only an hour hand. A minute hand would have been meaningless, since no mechanism of the period could hold accuracy to a minute over a day, and no ordinary activity required that degree of precision in any case."
+  },
+  {
+   "type": "ra",
+   "text": "Whales descend from land mammals that returned to the sea some fifty million years ago, and their skeletons still record the journey. The bones of a hand remain inside the fin, the nostrils have migrated to the top of the skull, and a few species retain the vestigial remnants of a pelvis attached to nothing at all."
+  },
+  {
+   "type": "ra",
+   "text": "Statistical significance was never intended as a threshold for publication. Its originator described it as a rough guide for deciding which results deserved a second look, and he assumed that anything important would be repeated. Treating a single test as a verdict inverts the purpose of a tool designed to prompt further work."
+  },
+  {
+   "type": "ra",
+   "text": "Barbed wire transformed the American plains faster than any legal instrument could have. Timber for fencing was unavailable across most of the region, so open grazing persisted until a cheap way of enclosing land appeared. Within twenty years of its patent the open range had effectively ceased to exist."
+  }
+ ],
+ "repeat": [
+  {
+   "type": "rs",
+   "text": "The workshop is intended for postgraduate students in their first year."
+  },
+  {
+   "type": "rs",
+   "text": "A full list of references should be included at the end."
+  },
+  {
+   "type": "rs",
+   "text": "Two of the samples were damaged during transport to the laboratory."
+  },
+  {
+   "type": "rs",
+   "text": "The museum acquired the collection from a private donor."
+  },
+  {
+   "type": "rs",
+   "text": "Weather conditions prevented the survey from being completed on time."
+  },
+  {
+   "type": "rs",
+   "text": "Please confirm your attendance by replying to the invitation."
+  },
+  {
+   "type": "rs",
+   "text": "Her lecture attracted the largest audience of the entire series."
+  },
+  {
+   "type": "rs",
+   "text": "The building will remain closed until further notice is given."
+  },
+  {
+   "type": "rs",
+   "text": "Most of the responses came from students in the science faculty."
+  },
+  {
+   "type": "rs",
+   "text": "There is considerable disagreement about how the term should be defined."
+  }
+ ],
+ "images": [
+  {
+   "type": "di",
+   "chart": {
+    "kind": "line",
+    "title": "Annual hours worked per employed person, four countries",
+    "unit": "hours per year",
+    "xLabel": "Year",
+    "categories": [
+     "1970",
+     "1985",
+     "2000",
+     "2015",
+     "2024"
+    ],
+    "series": [
+     {
+      "name": "South Korea",
+      "values": [
+       2800,
+       2760,
+       2510,
+       2080,
+       1870
+      ]
+     },
+     {
+      "name": "United States",
+      "values": [
+       1900,
+       1830,
+       1830,
+       1790,
+       1800
+      ]
+     },
+     {
+      "name": "France",
+      "values": [
+       1960,
+       1660,
+       1540,
+       1480,
+       1490
+      ]
+     },
+     {
+      "name": "Germany",
+      "values": [
+       1990,
+       1690,
+       1450,
+       1370,
+       1340
+      ]
+     }
+    ],
+    "summary": "South Korea starts far highest at 2800 hours and falls most steeply to 1870, a drop of over 900 hours, yet remains the highest throughout. Germany falls furthest below the others, from 1990 to 1340. France follows a similar path to Germany but levels off after 2000. The United States is almost flat across the whole period, from 1900 to 1800, and moves from second-lowest in 1970 to second-highest by 2024 without changing much itself. A strong answer notes that the American position changes through others' movement rather than its own."
+   }
+  },
+  {
+   "type": "di",
+   "chart": {
+    "kind": "pie",
+    "title": "Reasons given for choosing a postgraduate course",
+    "labels": [
+     "Career prospects",
+     "Interest in the subject",
+     "Reputation of the department",
+     "Location",
+     "Funding available"
+    ],
+    "values": [
+     34,
+     28,
+     18,
+     12,
+     8
+    ],
+    "summary": "Career prospects lead at 34 per cent and interest in the subject follows closely at 28, so the two together account for nearly two thirds. Departmental reputation is 18 per cent, location 12 and funding only 8, the smallest despite being the factor most often discussed in policy. A strong answer contrasts the two leading motives as nearly equal, groups the three institutional and practical factors, and observes that funding ranks lowest."
+   }
+  },
+  {
+   "type": "di",
+   "chart": {
+    "kind": "process",
+    "title": "How a scientific paper reaches publication",
+    "steps": [
+     "Submission to journal",
+     "Editor screens for scope",
+     "Sent to peer reviewers",
+     "Revision by authors",
+     "Second review or acceptance",
+     "Typesetting and publication"
+    ],
+    "summary": "Six stages from submission to publication. Note that the editorial screen precedes peer review, so many papers are rejected without ever reaching a reviewer, and that revision sits between the two review stages, making the process a loop rather than a straight line. A strong answer follows the sequence with connecting language, identifies the editorial screen as a filter before review, and points out that the path can return to review after revision."
+   }
+  }
+ ],
+ "lecture": [
+  {
+   "type": "rl",
+   "transcript": "I want to talk about why the metric of gross domestic product survives despite everyone agreeing that it measures the wrong thing. Start with what it is. GDP is the market value of goods and services produced in a country over a period. It was designed in the nineteen thirties, largely by Simon Kuznets, to help governments understand the depression and then to plan wartime production, and for those purposes it was excellent. Kuznets himself warned, in the report that introduced it, that the welfare of a nation could scarcely be inferred from such a measure. The objections are familiar. It counts a car crash as economic activity, because repairs and medical treatment are purchased. It ignores unpaid work entirely, so a country where more childcare is done at home appears poorer than one where the same care is bought. It says nothing about distribution, so an economy in which all growth accrues to a hundred people looks identical to one in which it is shared. And it treats the depletion of a forest as income rather than as the liquidation of an asset. Dozens of alternatives have been proposed, several of them well constructed. Almost none has been adopted. And the reason, I think, is not conspiracy or inertia in the usual sense. It is that GDP is calculated the same way in almost every country, has been for seventy years, and therefore permits comparison across space and time. A better measure that only three countries compute is less useful to a finance minister than a flawed measure that everybody computes. Standardisation, once achieved, is extremely difficult to displace, and that is a lesson that reaches well beyond economics.",
+   "key": [
+    "GDP was designed in the 1930s by Kuznets for depression analysis and wartime planning",
+    "Kuznets warned that national welfare could not be inferred from it",
+    "it counts destructive activity as output, ignores unpaid work, says nothing about distribution and treats resource depletion as income",
+    "many well-constructed alternatives exist but almost none has been adopted",
+    "GDP survives because it is computed identically everywhere and permits comparison across space and time",
+    "a flawed universal standard beats a better measure that few countries calculate"
+   ]
+  },
+  {
+   "type": "rl",
+   "transcript": "Today I want to look at how buildings were made to stand up before anyone could calculate whether they would. Structural engineering as a mathematical discipline is about two hundred years old. Gothic cathedrals are three times that, and they are considerably more daring than most modern buildings in their ratio of height to material. So how was it done? Not by calculation, because the mathematics did not exist. It was done by geometry and by precedent. Master masons worked from proportional rules: if the nave is this wide, the buttress is this fraction of that width, the vault springs at this height. These rules were transmitted within lodges, often as closely guarded property, and they were empirical in the strict sense. They encoded what had stood and what had fallen. And a great deal had fallen. Beauvais cathedral attempted the tallest vault ever built and the choir collapsed twelve years after completion; the tower came down later. What we see surviving is a filtered sample, and the failures are largely invisible to us because a collapsed building tends not to be studied. Now here is the part I want to emphasise. When engineers in the twentieth century finally analysed these structures with modern methods, they found that the proportional rules produce results remarkably close to what the calculations recommend, for the specific case of masonry under compression. The rules were not arbitrary. They were a compressed record of several centuries of trial and error, which is a perfectly respectable form of knowledge, and the only real difference is that it cannot tell you what will happen in a situation nobody has tried.",
+   "key": [
+    "structural engineering as mathematics is only about two centuries old, far younger than Gothic cathedrals",
+    "master masons used proportional geometric rules transmitted within lodges",
+    "the rules were empirical, encoding what had stood and what had fallen",
+    "failures such as Beauvais are largely invisible, so surviving buildings are a filtered sample",
+    "modern analysis found the proportional rules approximate correct calculations for masonry in compression",
+    "such rules are a compressed record of trial and error but cannot predict untried situations"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "type": "asq",
+   "q": "What do we call the frozen water that forms on the inside of a freezer?",
+   "a": [
+    "ice",
+    "frost"
+   ]
+  },
+  {
+   "type": "asq",
+   "q": "If two lines never meet, are they parallel or perpendicular?",
+   "a": [
+    "parallel"
+   ]
+  },
+  {
+   "type": "asq",
+   "q": "Which document do you normally need in order to travel to another country?",
+   "a": [
+    "passport",
+    "a passport"
+   ]
+  },
+  {
+   "type": "asq",
+   "q": "What is the name for a scientist who studies living organisms?",
+   "a": [
+    "biologist",
+    "a biologist"
+   ]
+  },
+  {
+   "type": "asq",
+   "q": "Is a payment made every month described as monthly or yearly?",
+   "a": [
+    "monthly"
+   ]
+  }
+ ],
+ "discussion": [
+  {
+   "type": "sgd",
+   "turns": [
+    {
+     "speaker": "Tomas",
+     "text": "Publishing the module evaluation scores in full would let students choose better, and I can't see a principled argument against transparency."
+    },
+    {
+     "speaker": "Sian",
+     "text": "The principled argument is that the scores measure satisfaction, not learning, and those two come apart in a very specific way. Hard modules that teach the most score worst."
+    },
+    {
+     "speaker": "Tomas",
+     "text": "That's an argument about how to read the numbers, not for hiding them."
+    },
+    {
+     "speaker": "Sian",
+     "text": "It's an argument about what publication does. Once the score is public it becomes a target, and the fastest way to raise it is to lower the demands."
+    },
+    {
+     "speaker": "Otto",
+     "text": "Could we publish the free-text comments in summary rather than the scores? Students say useful things about a module that a number can't carry."
+    },
+    {
+     "speaker": "Sian",
+     "text": "Summarised by whom, though? Whoever writes the summary controls the impression, and it would be the module leader."
+    },
+    {
+     "speaker": "Tomas",
+     "text": "Then have the student representatives write it. That answers your objection and mine at once."
+    }
+   ],
+   "key": [
+    "Tomas argues for publishing module evaluation scores on grounds of transparency",
+    "Sian objects that scores measure satisfaction rather than learning, penalising demanding modules",
+    "Tomas replies this concerns interpretation, not disclosure; Sian counters that a published score becomes a target",
+    "Otto proposes publishing summarised free-text comments instead of numbers",
+    "Sian questions who would write the summary; Tomas proposes student representatives"
+   ]
+  },
+  {
+   "type": "sgd",
+   "turns": [
+    {
+     "speaker": "Elin",
+     "text": "Holding the conference online halves the cost and cuts the carbon almost to nothing. I don't think we can justify flying two hundred people any more."
+    },
+    {
+     "speaker": "Marc",
+     "text": "I've been to four online conferences and I couldn't tell you one person I met at any of them. The talks are fine online. The talks are not the point."
+    },
+    {
+     "speaker": "Elin",
+     "text": "That's true for people who already have the network. For a first-year doctoral student with no travel funding, an online conference they can attend beats an in-person one they can't."
+    },
+    {
+     "speaker": "Marc",
+     "text": "That's the strongest version of the argument and I don't have a good answer to it."
+    },
+    {
+     "speaker": "Jun",
+     "text": "Hybrid, then. In person for those who can, with a properly staffed online track rather than a camera pointed at the room."
+    },
+    {
+     "speaker": "Marc",
+     "text": "Properly staffed is the whole issue. Every hybrid event I've seen treats the online audience as an afterthought, and it shows within ten minutes."
+    },
+    {
+     "speaker": "Elin",
+     "text": "Then budget for it explicitly as a line item. If it isn't funded it isn't a track, it's a webcam."
+    }
+   ],
+   "key": [
+    "Elin argues for an online conference on cost and carbon grounds",
+    "Marc replies that the value is in the informal networking, not the talks",
+    "Elin counters that online access benefits those without travel funding; Marc concedes this is the strongest argument",
+    "Jun proposes a hybrid format with a properly staffed online track",
+    "Marc warns hybrid events treat online attendees as an afterthought; Elin proposes funding it as an explicit budget line"
+   ]
+  }
+ ],
+ "situation": [
+  {
+   "type": "rts",
+   "situation": "You have been offered a place on a course you applied to months ago, but you have since accepted a place elsewhere and no longer wish to take it. The admissions tutor spent considerable time with you at an open day.",
+   "task": "Telephone the admissions tutor to decline.",
+   "key": [
+    "declines clearly and early rather than delaying",
+    "thanks them specifically for the time they gave",
+    "gives a brief honest reason without over-explaining",
+    "avoids false promises about future applications",
+    "keeps a courteous register appropriate to someone who helped you"
+   ]
+  },
+  {
+   "type": "rts",
+   "situation": "A neighbour has been leaving rubbish bags in the shared hallway for several weeks. Other residents have complained to each other but nobody has spoken to them. You do not know them well.",
+   "task": "Speak to your neighbour.",
+   "key": [
+    "opens without accusation, since you do not know the circumstances",
+    "states the specific problem and where it occurs",
+    "avoids speaking on behalf of unnamed others as a form of pressure",
+    "proposes a practical solution rather than only complaining",
+    "keeps a neighbourly register that allows the relationship to continue"
+   ]
+  }
+ ],
+ "swt": [
+  {
+   "type": "swt",
+   "passage": "The argument that automation destroys employment has been made in almost identical terms in every industrialising economy for two centuries, and has been wrong about the aggregate every time while being correct about particular people. Mechanised weaving genuinely did eliminate handloom weaving as an occupation, and the weavers who protested were not mistaken about their own prospects; many never worked at their trade again. What did not happen was a permanent reduction in the total demand for labour, because the falling price of cloth increased the quantity purchased, and because the wealth released by cheaper goods was spent on things that had not previously existed. The distinction matters because it determines what policy should address. If aggregate employment is the concern, the historical record is reassuring and intervention is hard to justify. If the concern is the distribution of adjustment costs, the record is alarming, since those costs have consistently fallen on specific occupations, in specific regions, over a period longer than a working life. Retraining programmes have a poor evaluation record precisely because they are designed for the first problem while the people using them are experiencing the second, and a forty-eight-year-old machine operator in a town with one employer is not helped by an accurate observation about the economy as a whole.",
+   "key": [
+    "the claim that automation destroys jobs has been wrong about aggregates and right about individuals",
+    "mechanised weaving eliminated an occupation without reducing total labour demand",
+    "cheaper goods increased quantity purchased and released wealth spent on new things",
+    "the aggregate record is reassuring; the distributional record is alarming",
+    "adjustment costs fall on specific occupations and regions over longer than a working life",
+    "retraining fails because it addresses the aggregate problem while users face the distributional one"
+   ]
+  },
+  {
+   "type": "swt",
+   "passage": "Peer review of grant applications consumes an enormous quantity of researcher time, and several studies have questioned whether it earns it. The core finding is that reviewer agreement is low. When the same proposals are sent to independent panels, the correlation between their rankings is modest, and for applications in the broad middle of the distribution it approaches what would be expected by chance. Panels reliably identify the worst proposals and, less reliably, the strongest few; between those extremes the process is largely allocating by a mechanism nobody would defend if it were described honestly. The time cost is substantial: one analysis estimated that the effort spent preparing applications for a single Australian funding round exceeded the working time the awarded funding would purchase. Proposed alternatives include shortening applications drastically, awarding a baseline sum to every qualified researcher, and explicitly randomising among proposals judged to be above a quality threshold. The last of these attracts the strongest objections and has the best theoretical case, since a lottery among comparable applications at least does not consume months of expert time producing a ranking that a second panel would not reproduce.",
+   "key": [
+    "reviewer agreement on grant applications is low, approaching chance for mid-ranked proposals",
+    "panels reliably identify the worst and less reliably the best",
+    "preparation time for one Australian round exceeded the research time the funding would buy",
+    "alternatives include shorter applications, baseline funding for all qualified researchers, and randomisation above a threshold",
+    "randomisation is most objected to but best supported, since it avoids producing an unreproducible ranking"
+   ]
+  }
+ ],
+ "essay": [
+  {
+   "type": "we",
+   "prompt": "Some governments are considering restricting social media access for children under the age of sixteen. Supporters argue this protects young people during a vulnerable period, while opponents argue it removes an important means of connection and is unlikely to be enforceable. Discuss both views and give your own opinion. Write 200-300 words."
+  }
+ ],
+ "reading": [
+  {
+   "type": "rwfib",
+   "text": "Aspirin has an unusually long ___0___, having been used in the form of willow bark for at least two thousand years before its active compound was isolated. The bark works but ___1___ the stomach severely, and the nineteenth-century modification that made it tolerable was ___2___ rather than fundamental. What is more remarkable is that the mechanism by which it acts was not ___3___ until the nineteen seventies, some eight decades after the drug entered general use.",
+   "blanks": [
+    {
+     "options": [
+      "history",
+      "hierarchy",
+      "hesitation",
+      "horizon"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "irritates",
+      "imitates",
+      "initiates",
+      "indicates"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "chemical",
+      "chronic",
+      "classical",
+      "critical"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "established",
+      "estimated",
+      "escalated",
+      "estranged"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "type": "rwfib",
+   "text": "The idea that a photograph constitutes ___0___ has been weakening for longer than most people assume. Darkroom manipulation was routine from the eighteen sixties, and images were retouched, combined and staged well before any digital tool existed. What has changed is not the ___1___ of alteration but its cost: a convincing composite once required a skilled technician and several days, and now requires ___2___. Courts have responded by placing more weight on the ___3___ of custody than on the image itself.",
+   "blanks": [
+    {
+     "options": [
+      "evidence",
+      "evidently",
+      "evasion",
+      "elevation"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "possibility",
+      "popularity",
+      "plurality",
+      "polarity"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "neither",
+      "none",
+      "nobody",
+      "nothing"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "chain",
+      "charge",
+      "chance",
+      "chart"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "type": "rwfib",
+   "text": "Wind turbines are limited by a theoretical ___0___ that has nothing to do with engineering quality. A turbine extracts energy by slowing the air passing through it, but if it slowed that air completely the air would ___1___ moving and nothing further could pass. The optimum lies between these extremes, and the calculation shows that no turbine can capture more than about fifty-nine per cent of the available energy, a ___2___ that modern designs already approach quite ___3___.",
+   "blanks": [
+    {
+     "options": [
+      "ceiling",
+      "cushion",
+      "citation",
+      "circuit"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "stop",
+      "start",
+      "stay",
+      "steer"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "figure",
+      "fixture",
+      "fissure",
+      "feature"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "closely",
+      "clearly",
+      "cleanly",
+      "coldly"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "type": "rwfib",
+   "text": "Sourcing timber sustainably is harder than certification schemes ___0___. A label on a plank tells you about the forest it left, but a single container may ___1___ wood from a dozen origins, and the documentation travels separately from the material. Investigations have repeatedly found certified consignments ___2___ with uncertified timber at the processing stage, which is difficult to detect because the two are physically ___3___ once cut and planed.",
+   "blanks": [
+    {
+     "options": [
+      "imply",
+      "impose",
+      "impair",
+      "impress"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "combine",
+      "commence",
+      "commend",
+      "commute"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "mixed",
+      "marked",
+      "mounted",
+      "matched"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "indistinguishable",
+      "indispensable",
+      "indeterminate",
+      "indifferent"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "type": "rwfib",
+   "text": "Sign languages are not ___0___ versions of the spoken languages around them. British and American sign languages are mutually unintelligible despite both countries speaking English, because each ___1___ independently within its own deaf community. They possess full grammatical ___2___, including devices for tense and subordination that have no equivalent in the surrounding spoken language, and children acquire them on the same developmental ___3___ as speech.",
+   "blanks": [
+    {
+     "options": [
+      "gestural",
+      "genuine",
+      "general",
+      "gradual"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "emerged",
+      "emitted",
+      "embraced",
+      "embarked"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "systems",
+      "symptoms",
+      "syllables",
+      "summaries"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "timetable",
+      "turnover",
+      "territory",
+      "tendency"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "type": "rmcma",
+   "passage": "Predictive policing systems allocate patrols to areas where crime is forecast, using historical incident data, and they have produced a well-documented feedback problem. The model directs officers to a district; more officers detect more offences, particularly minor ones that would otherwise go unrecorded; those records enter the training data; the model becomes more confident about the district. Nothing about the underlying rate of offending need have changed for the forecast to appear vindicated. The effect is strongest for offences whose recorded frequency depends heavily on enforcement effort, such as drug possession, and weakest for those reported by victims regardless of patrol patterns, such as burglary. Vendors have argued that the problem is a data quality issue that better inputs will resolve. The more careful criticism is that it is structural: any system whose outputs influence the generation of its own future inputs will drift in this way, and the remedy has to be architectural, such as training only on victim-reported categories, rather than a matter of cleaning the data.",
+   "q": "Which of the following are stated or clearly implied by the passage?",
+   "options": [
+    "Increased patrols can raise recorded offences without any change in actual offending.",
+    "The feedback effect is stronger for offences whose recording depends on enforcement effort.",
+    "The author accepts the vendors' view that better data will resolve the problem.",
+    "Burglary figures are less affected because they depend on victim reporting.",
+    "Training on victim-reported categories is offered as a structural remedy."
+   ],
+   "answers": [
+    0,
+    1,
+    3,
+    4
+   ]
+  },
+  {
+   "type": "ro",
+   "paras": [
+    "When the first photographs of the Earth from space were published, they were expected to be of interest mainly to scientists.",
+    "The image that became famous was taken almost casually, by an astronaut who was not scheduled to photograph the planet at all.",
+    "Within a few years it had appeared on the cover of environmental publications across the world, usually with no caption and no explanation.",
+    "Several historians have argued that the picture did more for the emerging environmental movement than any argument published in the same decade.",
+    "Whether an image can carry a political claim on its own remains disputed, but the timing is difficult to dismiss as coincidence."
+   ]
+  },
+  {
+   "type": "ro",
+   "paras": [
+    "Tea reached Britain as a luxury so expensive that it was kept in locked wooden caddies.",
+    "Duties of well over one hundred per cent made smuggling extraordinarily profitable, and by the seventeen seventies most of the tea drunk in the country had never passed through customs.",
+    "The government's eventual response was not stricter enforcement but a drastic cut in the duty itself.",
+    "Legal tea immediately undercut the smugglers, the illicit trade collapsed within a few years, and total revenue rose despite the lower rate.",
+    "The episode is still cited whenever a government argues that a lower tax may collect more than a higher one."
+   ]
+  },
+  {
+   "type": "rfib",
+   "text": "The oldest living organisms are far less conspicuous than the oldest ___0___ ones. A bristlecone pine may reach five thousand years, but clonal colonies, in which a single genetic individual ___1___ new stems indefinitely, are older still, and one aspen colony in Utah is estimated at tens of thousands of years. Defining the ___2___ of such an organism is genuinely difficult, since no individual stem is ancient and the root system has been continuously ___3___. The question of what counts as one organism turns out to be a matter of ___4___ rather than of measurement.",
+   "bank": [
+    "visible",
+    "produces",
+    "age",
+    "renewed",
+    "definition",
+    "obvious",
+    "supports",
+    "size",
+    "preserved",
+    "observation"
+   ],
+   "answers": [
+    "visible",
+    "produces",
+    "age",
+    "renewed",
+    "definition"
+   ]
+  },
+  {
+   "type": "rfib",
+   "text": "Roman roads were built straight not from any love of ___0___ but because a straight line is the easiest route to survey and the cheapest to ___1___. Curves require a surveying instrument to be reset repeatedly, and each reset introduces ___2___. The Romans deviated readily where the terrain demanded it, and the impression of unbending straightness comes partly from the fact that the surviving ___3___ are on level ground, where deviation was never ___4___.",
+   "bank": [
+    "symmetry",
+    "maintain",
+    "error",
+    "stretches",
+    "necessary",
+    "precision",
+    "construct",
+    "delay",
+    "routes",
+    "possible"
+   ],
+   "answers": [
+    "symmetry",
+    "maintain",
+    "error",
+    "stretches",
+    "necessary"
+   ]
+  },
+  {
+   "type": "rfib",
+   "text": "Ports have been reshaped more by the size of ships than by any change in the goods they ___0___. A vessel that draws sixteen metres cannot enter a harbour dredged for twelve, and deepening a channel is expensive and must be ___1___ indefinitely against silting. Historic ports built on rivers have therefore been ___2___ by newer terminals on open coastline, often within a single ___3___, and the cranes and warehouses left behind are now among the most frequently ___4___ industrial buildings in Europe.",
+   "bank": [
+    "carry",
+    "repeated",
+    "overtaken",
+    "generation",
+    "converted",
+    "handle",
+    "reversed",
+    "surpassed",
+    "century",
+    "demolished"
+   ],
+   "answers": [
+    "carry",
+    "repeated",
+    "overtaken",
+    "generation",
+    "converted"
+   ]
+  },
+  {
+   "type": "rfib",
+   "text": "The Great Barrier Reef is often described as a single ___0___ and is more accurately a system of some three thousand separate reefs extending over two thousand kilometres. This matters for policy, because a threat that is ___1___ across the whole system, such as warming water, behaves quite differently from one that is ___2___, such as runoff from a particular river catchment. Management that treats the reef as one ___3___ tends to apply blanket measures where targeted ones would be more ___4___ and considerably cheaper.",
+   "bank": [
+    "structure",
+    "uniform",
+    "localised",
+    "unit",
+    "effective",
+    "organism",
+    "common",
+    "serious",
+    "area",
+    "visible"
+   ],
+   "answers": [
+    "structure",
+    "uniform",
+    "localised",
+    "unit",
+    "effective"
+   ]
+  },
+  {
+   "type": "rmcsa",
+   "passage": "There is a long tradition of treating the introduction of a new medium as a threat to attention, and the objections repeat with striking fidelity. Socrates argued that writing would destroy memory, since a student who could consult a text would not trouble to internalise it. Early critics of the novel warned that immersive fiction would leave readers unable to attend to real obligations. Radio, television and the telephone each attracted the same complaint in turn. What is interesting is not that the critics were always wrong, because in a limited sense Socrates was right: literate cultures do not train memory as oral ones do. It is that the loss is invariably described as a decline rather than as an exchange, and the capacity gained is invisible to the generation that did not have to acquire it.",
+   "q": "What is the author's main argument?",
+   "options": [
+    "Complaints about new media describe a genuine loss but overlook the capacities gained in exchange.",
+    "Critics of new media have consistently been proven wrong about their effects.",
+    "Literate cultures have superior memory training compared with oral cultures.",
+    "Each new medium has caused a measurable decline in overall human attention."
+   ],
+   "answer": 0
+  },
+  {
+   "type": "rmcsa",
+   "passage": "Urban tree planting programmes are among the most popular environmental interventions available to a city government, and among the most frequently mismanaged. The planting itself is cheap, photogenic and completed within a single political term. Establishment is neither: a street tree requires watering through several summers, protection from vehicles, and formative pruning, and the failure rate for trees left to fend for themselves exceeds half within five years. Cities that report planting figures without survival figures are therefore reporting an input rather than an outcome, and the two can diverge dramatically. The most effective programmes spend a substantial majority of their budget on the years after planting, which produces far fewer trees announced and considerably more trees standing a decade later.",
+   "q": "What does the passage identify as the main weakness of tree planting programmes?",
+   "options": [
+    "Budgets and reporting favour planting over the aftercare that determines survival.",
+    "Street trees are unsuited to urban conditions and rarely survive regardless of care.",
+    "Cities plant species that are inappropriate for their local climate.",
+    "Tree planting is too expensive to complete within a single political term."
+   ],
+   "answer": 0
+  }
+ ],
+ "listening": [
+  {
+   "type": "sst",
+   "transcript": "I want to spend this session on why big infrastructure projects overrun, because the pattern is so consistent that it demands a systematic explanation rather than a series of individual excuses. The figures are striking. Across several hundred large projects studied internationally, around nine in ten exceed their budget, and the average overrun for rail projects is something like forty-five per cent. Now, the obvious explanation is that estimating is hard and that unforeseen problems occur. That cannot be the whole story, because if estimation error were random the overruns would be roughly symmetrical, with as many projects coming in under budget as over. They are not. The distribution is heavily skewed in one direction, and that asymmetry is the thing requiring explanation. Two accounts compete. The first is psychological: optimism bias, a well-documented tendency to underestimate durations and costs even when a person has been burned before. The second is political, and Bent Flyvbjerg has argued for it forcefully. On this account the underestimation is not an error at all but strategic misrepresentation. A project that is honestly costed does not get approved, because it competes against projects that are dishonestly costed. Selection therefore operates on the forecast rather than on the project, and the winner is systematically the one with the most optimistic numbers. Notice that this predicts something the psychological account does not: overruns should be worse where competition for funding is more intense, and that is broadly what the data show. The proposed remedy is called reference class forecasting. Instead of estimating a project from its own details, you find the distribution of outcomes for similar completed projects and place yours within it. It works, and it is unpopular, because it reliably produces a number that makes the project harder to approve.",
+   "key": [
+    "around nine in ten large projects exceed budget, with rail averaging about forty-five per cent",
+    "random estimation error would produce symmetrical overruns, but the distribution is heavily skewed",
+    "one explanation is optimism bias, a psychological tendency to underestimate",
+    "Flyvbjerg argues for strategic misrepresentation: honest costings do not get approved",
+    "selection operates on the forecast, so the most optimistic numbers win, predicting worse overruns where competition is fiercer",
+    "reference class forecasting places a project in the distribution of similar completed ones, and is unpopular because it works"
+   ]
+  },
+  {
+   "type": "lmcma",
+   "transcript": "A few points about the examination itself. You may bring a printed dictionary but not an annotated one, and invigilators will check; several were confiscated last year. Calculators must be from the approved list, which is on the module page, and a calculator that is not on the list will be removed rather than substituted, so check now rather than on the morning. You will not be permitted to leave in the final fifteen minutes even if you have finished. Rough work should be done in the answer booklet and crossed through, not on separate paper, which will not be collected. And if you arrive more than thirty minutes late you will not be admitted at all, which is a university regulation rather than a departmental one and cannot be waived by me.",
+   "q": "According to the speaker, which of the following are true?",
+   "options": [
+    "Dictionaries are permitted only if they contain no annotations.",
+    "A non-approved calculator will be taken away without a replacement being provided.",
+    "Candidates may leave at any point once they have finished.",
+    "Rough work should be done in the answer booklet and crossed out.",
+    "Late arrival within an hour is permitted at the department's discretion."
+   ],
+   "answers": [
+    0,
+    1,
+    3
+   ]
+  },
+  {
+   "type": "lfib",
+   "transcript": "Glass is not, as is frequently claimed, a liquid that flows very [slowly]. The belief rests on medieval church windows being thicker at the bottom, which is usually attributed to centuries of gradual [flow]. The actual explanation is manufacturing: crown glass was spun into discs of uneven [thickness], and glaziers sensibly installed each pane with the heavy edge downward. Calculations show that at room temperature any measurable flow would require a period longer than the age of the [universe]. Glass is properly described as an amorphous [solid]."
+  },
+  {
+   "type": "lfib",
+   "transcript": "The common swift spends almost its entire life in the [air]. Instruments fitted to individual birds have shown that some remain aloft continuously for ten [months], landing only to breed. They feed on airborne insects, drink by skimming the surface of water in [flight], and mate on the wing. Sleep appears to occur during long glides at [altitude], usually shortly after dusk. The species has consequently lost most of the capacity to [walk], and a swift grounded on flat ground struggles to launch itself again."
+  },
+  {
+   "type": "hcs",
+   "transcript": "A word about the claim that we only ever see one side of the moon because it does not rotate. The moon does rotate; it simply completes one rotation in exactly the time it takes to orbit the earth, which is what produces the constant face. This is called tidal locking and it is not a coincidence. Tidal forces from the earth deformed the moon slightly, and the friction of that deformation acted as a brake on whatever rotation it originally had, until the two periods matched and the deformation stopped shifting. The same process is operating on the earth, slowing our own rotation by a couple of milliseconds a century, and it is why the day is measurably longer now than it was when the earliest tidal deposits were laid down.",
+   "options": [
+    "The moon does rotate, but its rotation period matches its orbital period because tidal friction gradually braked it into that state, a process now slowly lengthening the earth's day as well.",
+    "The moon does not rotate at all, which is the reason a single hemisphere permanently faces the earth and the far side was never observed until the space age.",
+    "The moon's rotation and orbit happen to coincide by chance, and astronomers expect the alignment to drift apart over the next few million years.",
+    "Tidal forces from the moon have accelerated the earth's rotation over geological time, making the modern day considerably shorter than it once was."
+   ],
+   "answer": 0
+  },
+  {
+   "type": "lmcsa",
+   "transcript": "Something about literature searching that took me far too long to learn. The instinct when you begin a project is to read forwards: find a recent paper, then read the newer things that cite it. That is useful, but the more productive direction early on is backwards. Take the best recent review you can find and work through its reference list, then take the most cited items in that list and work through theirs. Within three or four rounds you will keep arriving at the same twenty papers from different directions, and that convergence is the signal that you have found the core of the field. Reading forwards from a single starting point gives you a branch. Reading backwards from several gives you the trunk, and you cannot judge whether a new paper matters until you know what it is departing from.",
+   "q": "What does the speaker recommend for early literature searching?",
+   "options": [
+    "Work backwards through reference lists until the same core papers recur.",
+    "Begin with the newest publications and read forwards through citations.",
+    "Read only recent review articles and avoid older primary sources.",
+    "Search using as many different databases as possible before reading anything."
+   ],
+   "answer": 0
+  },
+  {
+   "type": "smw",
+   "transcript": "Archives face a difficulty that grows rather than shrinks with time. Material arrives faster than it can be catalogued, and uncatalogued material is effectively invisible, since nobody can request what is not listed. Several national collections now hold decades of accessions that no researcher has ever seen. The limiting resource in an archive is therefore not storage but [BEEP].",
+   "options": [
+    "description",
+    "acquisition",
+    "funding",
+    "security"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "hiw",
+   "spoken": "Penguins have solid bones, unlike almost all other birds. The lightweight skeleton that makes flight possible is a disadvantage underwater, where buoyancy must be overcome with every stroke. Denser bones allow a penguin to dive with far less effort and the deepest recorded dive by an emperor penguin exceeded five hundred metres The same adaptation appears independently in other diving birds, which is a clear example of convergent evolution.",
+   "swaps": {
+    "2": "hollow",
+    "10": "heavier",
+    "24": "reduced",
+    "38": "energy,",
+    "51": "fathoms.",
+    "64": "common"
+   }
+  },
+  {
+   "type": "hiw",
+   "spoken": "Fireflies produce light with almost no waste heat, converting close to ninety per cent of the energy involved into visible light. An incandescent bulb manages around five per cent, losing the remainder as warmth The reaction depends on an enzyme called luciferase, which is now used routinely in laboratories as a marker because the light produced is proportional to the quantity of the substance being measured.",
+   "swaps": {
+    "6": "excess",
+    "11": "eighty",
+    "33": "radiation.",
+    "51": "indicator",
+    "60": "volume"
+   }
+  },
+  {
+   "type": "wfd",
+   "text": "The library will be relocated to a temporary building during the refurbishment."
+  },
+  {
+   "type": "wfd",
+   "text": "Preliminary findings suggest a stronger relationship than researchers expected."
+  },
+  {
+   "type": "wfd",
+   "text": "All fieldwork must be approved by the ethics committee in advance."
+  }
+ ]
+}
