@@ -1,0 +1,847 @@
+{
+ "no": 4,
+ "title": "Practice Test 4",
+ "source": "hand-written",
+ "format": "PTE Academic, 2025 revision (22 task types)",
+ "speaking": [
+  {
+   "type": "ra",
+   "text": "Permafrost is defined not by ice but by duration. Ground that has remained below freezing for two consecutive years qualifies, whether or not it contains water. This matters because thawing releases carbon that has been locked away since before agriculture began, and the process, once started, generates the warmth that continues it."
+  },
+  {
+   "type": "ra",
+   "text": "Vaccines lose their effectiveness if they are allowed to warm, so the greatest obstacle to immunisation in remote regions has rarely been the vaccine itself. It has been the refrigerated chain of vehicles, generators and cold boxes required to carry the dose from the factory to a village at the end of an unpaved road."
+  },
+  {
+   "type": "ra",
+   "text": "Birds of the same species sing differently in different places, and the variations are learned rather than inherited. A young bird raised in isolation produces a crude, unstructured song, while one raised within earshot of adults acquires the local dialect, complete with regional features that persist across generations."
+  },
+  {
+   "type": "ra",
+   "text": "Aluminium was once more valuable than gold. The metal is abundant in the earth's crust but bound so tightly to oxygen that no ordinary process could separate it. Only when cheap electricity became available could the bond be broken economically, and a precious substance became the material of drink cans within a single lifetime."
+  },
+  {
+   "type": "ra",
+   "text": "Legal deposit requires a publisher to send a copy of every book to a designated national library, whether anyone wishes to read it or not. The obligation looks like a tax on publishing, but it has preserved a great deal of ephemeral printing that nobody at the time considered worth keeping."
+  },
+  {
+   "type": "ra",
+   "text": "The domestic cat is unusual among domesticated animals in that it appears to have domesticated itself. Grain stores attracted rodents, rodents attracted wildcats, and the least fearful individuals gained a reliable food supply. No selective breeding was required for the arrangement to become permanent."
+  }
+ ],
+ "repeat": [
+  {
+   "type": "rs",
+   "text": "The tutorial groups have been reorganised for the second semester."
+  },
+  {
+   "type": "rs",
+   "text": "Please submit your funding application through the online portal."
+  },
+  {
+   "type": "rs",
+   "text": "The evidence suggests a much earlier date than previously assumed."
+  },
+  {
+   "type": "rs",
+   "text": "Access to the archive requires written permission from the curator."
+  },
+  {
+   "type": "rs",
+   "text": "Nearly half the respondents failed to complete the questionnaire."
+  },
+  {
+   "type": "rs",
+   "text": "The lecture theatre will be unavailable during the building works."
+  },
+  {
+   "type": "rs",
+   "text": "She published three papers on the subject before finishing her doctorate."
+  },
+  {
+   "type": "rs",
+   "text": "Attendance records are reviewed at the end of every month."
+  },
+  {
+   "type": "rs",
+   "text": "The experiment produced results that nobody had anticipated."
+  },
+  {
+   "type": "rs",
+   "text": "Copies of the handout are available at the front of the room."
+  }
+ ],
+ "images": [
+  {
+   "type": "di",
+   "chart": {
+    "kind": "line",
+    "title": "Median age of population, three countries, 1980-2050 (projected from 2025)",
+    "unit": "years",
+    "xLabel": "Year",
+    "categories": [
+     "1980",
+     "1995",
+     "2010",
+     "2025",
+     "2040",
+     "2050"
+    ],
+    "series": [
+     {
+      "name": "Japan",
+      "values": [
+       32,
+       40,
+       45,
+       49,
+       52,
+       54
+      ]
+     },
+     {
+      "name": "Brazil",
+      "values": [
+       20,
+       24,
+       29,
+       35,
+       41,
+       44
+      ]
+     },
+     {
+      "name": "Nigeria",
+      "values": [
+       17,
+       17,
+       18,
+       18,
+       20,
+       22
+      ]
+     }
+    ],
+    "summary": "Japan is consistently the oldest, rising from 32 to a projected 54. Brazil rises fastest, from 20 to 44, a gain of 24 years that nearly closes the gap with Japan. Nigeria is almost flat, moving from 17 to 22 across seventy years. A strong answer identifies Japan as oldest throughout, Brazil as the steepest climb, and Nigeria as essentially static, and notes that the gap between Japan and Brazil narrows from 12 years to 10 while the gap to Nigeria widens sharply."
+   }
+  },
+  {
+   "type": "di",
+   "chart": {
+    "kind": "pie",
+    "title": "Where adults report getting most of their news",
+    "labels": [
+     "Online news sites",
+     "Social media",
+     "Television",
+     "Radio",
+     "Printed newspapers"
+    ],
+    "values": [
+     31,
+     26,
+     24,
+     11,
+     8
+    ],
+    "summary": "The two digital categories together, online news sites at 31 per cent and social media at 26, account for 57 per cent, more than twice television's 24. Radio takes 11 per cent and printed newspapers only 8, the smallest share. A strong answer groups digital against broadcast and print rather than only listing slices, states that no single source reaches a third, and notes that print is now the least used of the five."
+   }
+  },
+  {
+   "type": "di",
+   "chart": {
+    "kind": "process",
+    "title": "Stages in municipal drinking water treatment",
+    "steps": [
+     "Screening of debris",
+     "Coagulation and flocculation",
+     "Sedimentation",
+     "Sand filtration",
+     "Disinfection",
+     "Storage and distribution"
+    ],
+    "summary": "Six stages from screening to distribution. Coarse debris is removed first, then chemicals cause fine particles to clump so they can settle out, then sand filtration removes what remains, then disinfection kills pathogens immediately before storage. A strong answer follows the sequence with connecting language, explains that coagulation exists to make sedimentation possible, and notes that disinfection comes last so the water is protected during distribution."
+   }
+  }
+ ],
+ "lecture": [
+  {
+   "type": "rl",
+   "transcript": "The neutrino is worth studying as an example of how physics proceeds when the evidence runs out. In the 1920s, beta decay presented a serious problem. When a nucleus decayed, the emitted electron carried away less energy than the reaction should have released, and the amount missing varied from decay to decay. This was not a small discrepancy. It appeared to violate conservation of energy, which is about as fundamental as physics gets. Niels Bohr was prepared to abandon conservation of energy at the subatomic scale, which tells you how serious the difficulty seemed. Wolfgang Pauli took the other route. In 1930 he proposed that an undetected particle was carrying the missing energy away, and he was candid about what he had done. He wrote that he had done something a theorist should never do: postulate a particle that could not be observed, in order to rescue a principle. The particle would have to be electrically neutral, essentially massless, and interact so weakly with matter that detecting it might be permanently impossible. And for twenty-six years it was. Detection finally came in 1956, from a reactor experiment that recorded a handful of interactions out of an unimaginable flux. The lesson is not simply that Pauli was right. It is that he specified in advance what his invented particle must do, which made the proposal testable rather than merely convenient, and that is the distinction between a hypothesis and an excuse.",
+   "key": [
+    "beta decay appeared to violate energy conservation, with a variable amount missing",
+    "Bohr was willing to abandon conservation of energy at the subatomic scale",
+    "Pauli instead postulated an undetectable particle and admitted the impropriety",
+    "the particle had to be neutral, nearly massless and extremely weakly interacting",
+    "detection came only in 1956, twenty-six years later",
+    "specifying in advance what the particle must do made it a testable hypothesis rather than an excuse"
+   ]
+  },
+  {
+   "type": "rl",
+   "transcript": "I want to explain why cities specialise, because the answer is less obvious than it first appears. You might assume that a city becomes a centre for, say, film or finance because of some natural advantage: a climate, a harbour, a resource. Occasionally that is true. Far more often the initial reason is accidental and long since irrelevant, and what sustains the specialisation is something quite different. Consider what an established cluster offers. First, a labour pool. If there are two hundred firms doing similar work in one place, a specialist worker can change employer without moving house, and a firm can hire quickly when it wins a contract. Both sides are insured against the other's failure, and that insurance is worth a great deal. Second, suppliers. A concentration of demand supports specialised suppliers who could not survive on the custom of a single firm anywhere else. Third, and hardest to measure, is the movement of information. People who work in adjacent firms meet, talk, change jobs, and carry knowledge that no company deliberately transmits. Alfred Marshall wrote in 1890 that in such places the secrets of the trade are in the air, and economists still quote it because nobody has improved on the description. Now, the important implication. Because these advantages come from concentration rather than from geography, they are self-reinforcing, and they explain why clusters are so hard to create deliberately and so hard to dislodge once they exist.",
+   "key": [
+    "cities specialise for reasons often accidental, not natural advantage",
+    "an established cluster provides a shared labour pool that insures workers and firms against each other's failure",
+    "concentrated demand supports specialised suppliers that could not otherwise survive",
+    "informal knowledge spreads between adjacent firms; Marshall's 'secrets of the trade are in the air'",
+    "because the advantages come from concentration rather than geography they are self-reinforcing",
+    "this explains why clusters resist both deliberate creation and displacement"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "type": "asq",
+   "q": "How many sides does a hexagon have?",
+   "a": [
+    "six",
+    "6"
+   ]
+  },
+  {
+   "type": "asq",
+   "q": "What do we call the study of the past through written records and evidence?",
+   "a": [
+    "history"
+   ]
+  },
+  {
+   "type": "asq",
+   "q": "If a road is described as one-way, can traffic travel in both directions?",
+   "a": [
+    "no",
+    "no it cannot",
+    "one direction only",
+    "only one way"
+   ]
+  },
+  {
+   "type": "asq",
+   "q": "Which season comes immediately after summer?",
+   "a": [
+    "autumn",
+    "fall"
+   ]
+  },
+  {
+   "type": "asq",
+   "q": "What is the term for a doctor who performs operations?",
+   "a": [
+    "surgeon",
+    "a surgeon"
+   ]
+  }
+ ],
+ "discussion": [
+  {
+   "type": "sgd",
+   "turns": [
+    {
+     "speaker": "Owen",
+     "text": "If we cancel the printed course handbook we save four thousand a year, and almost nobody opens it. The download figures are there."
+    },
+    {
+     "speaker": "Grace",
+     "text": "Download figures measure the people who can already navigate the system. The students who need the handbook most are the ones who don't know it exists online."
+    },
+    {
+     "speaker": "Owen",
+     "text": "That's an argument for better induction, not for printing eight hundred copies."
+    },
+    {
+     "speaker": "Grace",
+     "text": "It's an argument for both, and we're only being offered the cut."
+    },
+    {
+     "speaker": "Tomas",
+     "text": "Could we print a short version? Twelve pages with deadlines, contacts and the appeals procedure, and leave the rest online."
+    },
+    {
+     "speaker": "Owen",
+     "text": "That would keep most of the saving. I'd want the page count fixed in writing or it grows back to sixty within two years."
+    },
+    {
+     "speaker": "Grace",
+     "text": "Agreed, provided the appeals procedure stays in print. That's the section people need when they're least able to go looking."
+    }
+   ],
+   "key": [
+    "Owen proposes cancelling the printed handbook to save money, citing low download figures",
+    "Grace argues download data only reflects students who can already navigate the system",
+    "Owen replies that induction, not printing, is the remedy",
+    "Tomas proposes a short printed version covering deadlines, contacts and appeals",
+    "Owen accepts with a fixed page count; Grace insists the appeals procedure stays in print"
+   ]
+  },
+  {
+   "type": "sgd",
+   "turns": [
+    {
+     "speaker": "Fen",
+     "text": "I don't think we should publish the dataset until the paper is accepted. If someone else gets to the analysis first we lose two years of work."
+    },
+    {
+     "speaker": "Joel",
+     "text": "That's a real risk and it's also exactly the argument that keeps data locked up permanently. There's always one more reason to wait."
+    },
+    {
+     "speaker": "Fen",
+     "text": "There's a difference between waiting indefinitely and waiting for a decision that's due in eight weeks."
+    },
+    {
+     "speaker": "Joel",
+     "text": "Fair. Though the funder's condition says release on publication, and 'publication' has been interpreted very loosely by people in this building."
+    },
+    {
+     "speaker": "Ama",
+     "text": "We could deposit it now under embargo, with the release date set automatically to acceptance. Nobody has to remember, and nobody has to decide again."
+    },
+    {
+     "speaker": "Fen",
+     "text": "That removes my objection entirely. My worry was the window, not the principle."
+    },
+    {
+     "speaker": "Joel",
+     "text": "And it means the decision is made once, now, rather than by whoever is busiest in eight weeks."
+    }
+   ],
+   "key": [
+    "Fen wants to delay releasing the dataset until the paper is accepted, fearing being scooped",
+    "Joel warns that such reasoning keeps data locked up indefinitely",
+    "Fen distinguishes an eight-week wait from an indefinite one",
+    "Joel notes the funder requires release on publication and that the term is loosely interpreted",
+    "Ama proposes depositing now under an automatic embargo tied to acceptance; both accept"
+   ]
+  }
+ ],
+ "situation": [
+  {
+   "type": "rts",
+   "situation": "You booked a room at a conference hotel months ago. On arrival you are told the room type you paid for is unavailable and you have been moved to a smaller room in a different building fifteen minutes away. You have an early presentation the next morning.",
+   "task": "Speak to the hotel receptionist.",
+   "key": [
+    "states the problem and its practical consequence clearly",
+    "remains firm without becoming hostile toward someone who did not cause it",
+    "refers to what was booked and paid for",
+    "asks for a specific remedy rather than a vague complaint",
+    "keeps a register appropriate to a service interaction with a stranger"
+   ]
+  },
+  {
+   "type": "rts",
+   "situation": "A classmate has messaged asking to copy your solutions to a problem set that is submitted for marks. They have been unwell and have genuinely missed two weeks of teaching.",
+   "task": "Reply to your classmate.",
+   "key": [
+    "declines the request itself clearly",
+    "acknowledges the genuine difficulty rather than lecturing them",
+    "distinguishes between helping them understand and giving them the answers",
+    "offers a specific alternative such as working through it together or pointing to support services",
+    "keeps a warm register that preserves the friendship"
+   ]
+  }
+ ],
+ "swt": [
+  {
+   "type": "swt",
+   "passage": "The Dunning-Kruger effect is among the most widely cited findings in modern psychology and among the most widely misdescribed. In popular accounts it holds that incompetent people believe themselves to be experts, a claim that is both flattering to the reader and stronger than the data support. What the original studies found was narrower: across the whole range of ability, self-assessment is compressed toward the middle. Weak performers overestimate themselves, but strong performers underestimate themselves by a comparable margin, and neither group is confidently wrong so much as insufficiently differentiated. There is also a statistical objection that has proved difficult to dismiss. Any two imperfectly correlated measures will produce this pattern automatically, because those scoring lowest on one measure will tend to score closer to average on the other. Several researchers have shown that randomly generated data reproduces the classic graph. This does not establish that the effect is illusory, since there are good reasons to expect that assessing one's own competence requires the very skills being assessed. It does mean the confident version circulating online rests on considerably less than its confidence suggests, which is an irony the finding's popularisers have not generally acknowledged.",
+   "key": [
+    "the popular version, that incompetent people think they are experts, overstates the finding",
+    "the original result showed self-assessment compressed toward the middle across all ability levels",
+    "strong performers underestimate themselves by a comparable margin",
+    "a statistical artefact can reproduce the pattern from random data",
+    "the effect may still be real but the confident popular version is poorly supported"
+   ]
+  },
+  {
+   "type": "swt",
+   "passage": "Attempts to reduce road deaths concentrated for decades on changing driver behaviour, through education, penalties and publicity, with results that were consistently disappointing. The approach that has worked, now known as Safe System, begins from an assumption that sounds defeatist and is not: people will continue to make mistakes, and a transport system in which a mistake is fatal has been badly designed. The practical consequences are specific. Speed limits are set according to the impact a human body can survive rather than what a road can physically accommodate, which is why thirty kilometres per hour has become standard where vehicles and pedestrians share space. Junctions are rebuilt as roundabouts, because a collision at an angle is survivable while one at ninety degrees frequently is not. Crash barriers are placed to redirect rather than stop. None of this reduces the number of errors drivers make; it changes what an error costs. Countries adopting the framework comprehensively have reduced road deaths by more than half while traffic volumes rose, an outcome that decades of exhortation never approached. The underlying principle generalises well beyond roads: where human error is inevitable, engineering the consequences is more effective than demanding better humans.",
+   "key": [
+    "decades of driver-focused education and enforcement produced disappointing results",
+    "Safe System assumes errors are inevitable and designs so they are not fatal",
+    "speed limits are set by survivable impact, junctions rebuilt as roundabouts, barriers redirect rather than stop",
+    "the approach changes the cost of errors rather than their frequency",
+    "adopting countries halved road deaths while traffic grew; the principle generalises beyond roads"
+   ]
+  }
+ ],
+ "essay": [
+  {
+   "type": "we",
+   "prompt": "Some universities are replacing traditional written examinations with continuous assessment, arguing that it measures learning more fairly. Others maintain that examinations remain the only reliable safeguard of academic standards. Discuss both views and give your own opinion. Write 200-300 words."
+  }
+ ],
+ "reading": [
+  {
+   "type": "rwfib",
+   "text": "Traffic congestion behaves in ways that ___0___ intuition. Adding a lane to a busy motorway typically fails to relieve it, because journeys that were not worth making at the old speed become worth making at the new one, and the additional capacity is ___1___ within a few years. Conversely, closing a road sometimes ___2___ traffic overall rather than displacing it, as some drivers simply stop making the journey. Planners now treat road capacity as a ___3___ of demand rather than a response to it.",
+   "blanks": [
+    {
+     "options": [
+      "defy",
+      "defer",
+      "define",
+      "deface"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "absorbed",
+      "absolved",
+      "abstracted",
+      "abandoned"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "reduces",
+      "recedes",
+      "retracts",
+      "reflects"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "determinant",
+      "deterrent",
+      "detachment",
+      "deterioration"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "type": "rwfib",
+   "text": "Fermentation was practised for thousands of years before anyone understood what ___0___ it. Bread rose, milk soured and grape juice became wine, and the explanations offered were ___1___ chemical rather than biological. Pasteur's demonstration that living organisms were responsible met considerable ___2___, partly because it implied that these familiar processes depended on creatures too small to see, and partly because it ___3___ an established theory that spontaneous decomposition required no agent at all.",
+   "blanks": [
+    {
+     "options": [
+      "caused",
+      "ceased",
+      "chased",
+      "charged"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "uniformly",
+      "unfairly",
+      "unwillingly",
+      "unusually"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "resistance",
+      "resemblance",
+      "reluctance",
+      "remittance"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "contradicted",
+      "contributed",
+      "contracted",
+      "contrasted"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "type": "rwfib",
+   "text": "Institutional memory is unusually ___0___ in organisations that rely on informal knowledge. When an experienced member of staff leaves, the documented procedures survive but the reasons behind them ___1___ with the person, and a successor who cannot see why a rule exists is likely to ___2___ it as bureaucratic obstruction. Some organisations now record not only what is done but why, on the ___3___ that the second is what actually decays.",
+   "blanks": [
+    {
+     "options": [
+      "fragile",
+      "frugal",
+      "fractional",
+      "fragrant"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "depart",
+      "deposit",
+      "depict",
+      "deplete"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "dismiss",
+      "dismount",
+      "disperse",
+      "dispatch"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "assumption",
+      "assertion",
+      "assignment",
+      "assessment"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "type": "rwfib",
+   "text": "The colour of a bird's plumage may come from pigment or from ___0___. Melanin and carotenoids absorb particular wavelengths, but the blues of a jay contain no blue pigment whatsoever; the effect arises from microscopic ___1___ in the feather that scatter short wavelengths. This is why a crushed blue feather turns ___2___ while a crushed red one does not, and why structural colours are far more ___3___ to fading in sunlight.",
+   "blanks": [
+    {
+     "options": [
+      "structure",
+      "stricture",
+      "strategy",
+      "stratum"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "cavities",
+      "calamities",
+      "casualties",
+      "capacities"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "brown",
+      "brighter",
+      "bluer",
+      "blank"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "resistant",
+      "reluctant",
+      "redundant",
+      "resonant"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "type": "rwfib",
+   "text": "Weather forecasting improved less through better models than through better ___0___. A forecast is a calculation projected forward from a description of the current atmosphere, and small errors in that description ___1___ rapidly, which is why accuracy collapses beyond about ten days. Satellites, ocean buoys and aircraft reports narrowed the initial uncertainty, and each ___2___ in observation bought roughly a day of additional useful ___3___.",
+   "blanks": [
+    {
+     "options": [
+      "observation",
+      "obligation",
+      "occupation",
+      "operation"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "compound",
+      "compose",
+      "compress",
+      "compile"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "advance",
+      "advantage",
+      "adventure",
+      "adherence"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "range",
+      "rank",
+      "rate",
+      "ratio"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "type": "rmcma",
+   "passage": "Open-plan offices were adopted on the argument that removing walls would increase collaboration, and the claim was rarely tested before the walls came down. When it was finally measured, using sensors and email logs to track interaction before and after a conversion, the result inverted the prediction: face-to-face interaction fell by roughly seventy per cent while electronic messaging rose. The proposed explanation is that people deprived of privacy construct it for themselves, through headphones, screens and a shared convention of not interrupting a visibly working colleague. Defenders of the design point out that the studies examined conversions rather than purpose-built spaces, and that layout is only one variable among many. That is a reasonable objection. It does not, however, rescue the original claim, which was not that open plan could work under favourable conditions but that removing barriers would straightforwardly increase collaboration. The evidence indicates the opposite, and the design's persistence is better explained by the floor space it saves than by the interaction it was supposed to produce.",
+   "q": "Which of the following are stated or clearly implied by the passage?",
+   "options": [
+    "Measured face-to-face interaction fell substantially after offices were converted to open plan.",
+    "Electronic messaging increased following the conversions.",
+    "The author accepts that studying conversions rather than purpose-built offices is a fair objection.",
+    "The author concludes that open-plan design has been vindicated by the evidence.",
+    "Cost savings on floor space may better explain the design's popularity."
+   ],
+   "answers": [
+    0,
+    1,
+    2,
+    4
+   ]
+  },
+  {
+   "type": "ro",
+   "paras": [
+    "The clay tablets excavated at Knossos in 1900 were covered in a script that resembled no known writing system.",
+    "For half a century the language behind it remained unidentified, and most scholars assumed it could not be Greek.",
+    "Michael Ventris, an architect working on the problem in his spare time, approached it as a cipher rather than a language.",
+    "By tabulating which symbols appeared in which positions he established the grid of syllables, and the words that emerged were recognisably Greek after all.",
+    "The decipherment pushed the documented history of the language back some five hundred years."
+   ]
+  },
+  {
+   "type": "ro",
+   "paras": [
+    "Before the French Revolution, a single country might contain hundreds of incompatible units of length, each defined locally.",
+    "The reformers who proposed a universal standard wanted it grounded in nature rather than in the body of any monarch.",
+    "They defined the metre as one ten-millionth of the distance from the equator to the North Pole, and despatched two astronomers to measure the meridian through Paris.",
+    "The survey took seven years and produced a figure that later work showed to be very slightly wrong.",
+    "The error was never corrected, because by then too much had been built to the original standard, and the metre remains defined by a mistake."
+   ]
+  },
+  {
+   "type": "rfib",
+   "text": "The idea that Vikings wore horned helmets has no archaeological ___0___ at all. Not a single helmet of the period has been ___1___ with horns, and the practical objections are obvious to anyone who has considered fighting in one. The image was largely ___2___ by a costume designer for a production of Wagner in the eighteen seventies, and it spread so quickly that within a generation it appeared in school ___3___ as though it were established fact. Popular history frequently ___4___ its imagery from the theatre rather than the trench.",
+   "bank": [
+    "basis",
+    "recovered",
+    "invented",
+    "textbooks",
+    "borrows",
+    "record",
+    "reported",
+    "discovered",
+    "libraries",
+    "removes"
+   ],
+   "answers": [
+    "basis",
+    "recovered",
+    "invented",
+    "textbooks",
+    "borrows"
+   ]
+  },
+  {
+   "type": "rfib",
+   "text": "Deep-sea creatures are frequently described as living under crushing ___0___, but pressure alone poses them little difficulty. An organism composed largely of water is nearly ___1___ and therefore experiences no net stress, which is why many species migrate through thousands of metres in a single night. The genuine ___2___ are darkness, cold and the scarcity of food. Animals brought to the surface are damaged not by decompression of their tissues but by the ___3___ of gas in any cavity they possess, which is why so few survive ___4___.",
+   "bank": [
+    "pressure",
+    "incompressible",
+    "constraints",
+    "expansion",
+    "capture",
+    "weight",
+    "invisible",
+    "conditions",
+    "escape",
+    "transport"
+   ],
+   "answers": [
+    "pressure",
+    "incompressible",
+    "constraints",
+    "expansion",
+    "capture"
+   ]
+  },
+  {
+   "type": "rfib",
+   "text": "Machine translation improved dramatically once researchers stopped trying to encode ___0___. Early systems attempted to parse a sentence into its structure and rebuild it in the target language, and they failed on anything ___1___. Statistical methods abandoned understanding entirely and simply asked which output was most ___2___ given millions of examples of human translation. The result reads more ___3___ and errs in a different way: it rarely produces nonsense, but it will confidently render a passage it has entirely ___4___.",
+   "bank": [
+    "grammar",
+    "idiomatic",
+    "probable",
+    "naturally",
+    "misunderstood",
+    "meaning",
+    "technical",
+    "possible",
+    "slowly",
+    "translated"
+   ],
+   "answers": [
+    "grammar",
+    "idiomatic",
+    "probable",
+    "naturally",
+    "misunderstood"
+   ]
+  },
+  {
+   "type": "rfib",
+   "text": "Islands produce unusual animals with striking ___0___. Large species arriving on an island tend to become smaller over generations, because the food supply cannot ___1___ them, while small species tend to become larger in the ___2___ of the predators that constrained them on the mainland. The pattern is consistent enough to have its own name, and it explains both the dwarf elephants of Mediterranean islands and the giant ___3___ of the Galápagos. It also explains why island faunas are so ___4___ to introduced predators.",
+   "bank": [
+    "regularity",
+    "sustain",
+    "absence",
+    "tortoises",
+    "vulnerable",
+    "rarity",
+    "support",
+    "presence",
+    "lizards",
+    "resistant"
+   ],
+   "answers": [
+    "regularity",
+    "sustain",
+    "absence",
+    "tortoises",
+    "vulnerable"
+   ]
+  },
+  {
+   "type": "rmcsa",
+   "passage": "There is a persistent belief that eyewitness testimony is among the strongest forms of evidence, and juries treat it accordingly, particularly when a witness expresses confidence. Decades of research indicate that confidence and accuracy are only weakly related after the first identification, and that memory of a face is reconstructive rather than photographic. More troubling is that the procedures used to obtain identifications frequently contaminate them. A witness shown a lineup by an officer who knows which person is the suspect receives unintentional cues; a witness told after choosing that they identified the right person becomes markedly more confident, and will later report having had a clearer view than they originally described. The reforms that follow are mundane and effective: administer lineups double-blind, record the witness's confidence at the moment of first identification, and never confirm the choice.",
+   "q": "What does the passage identify as the central problem with eyewitness evidence?",
+   "options": [
+    "The procedures used to obtain identifications can inflate a witness's confidence after the fact.",
+    "Witnesses deliberately exaggerate their certainty when testifying in court.",
+    "Human memory is incapable of retaining any accurate detail about faces.",
+    "Juries are instructed to disregard eyewitness testimony in most jurisdictions."
+   ],
+   "answer": 0
+  },
+  {
+   "type": "rmcsa",
+   "passage": "The term 'food desert' entered policy vocabulary to describe neighbourhoods without accessible fresh food, and it prompted a straightforward remedy: subsidise supermarkets to open there. Where this has been evaluated, the effect on what residents actually eat has been small. Purchasing data collected before and after new stores opened showed households buying much the same basket as before, with diet quality tracking income and existing habit far more closely than proximity. This does not mean access is irrelevant; it means access was the tractable part of a problem whose larger components are price, time, cooking facilities and long-established preference. The label itself may have caused some of the trouble, since a desert implies that the missing element is supply, and the evidence points more toward demand.",
+   "q": "What is the author's main point about the food desert concept?",
+   "options": [
+    "It framed the problem as one of supply when the evidence points more toward demand.",
+    "New supermarkets in underserved areas have been shown to have no effect of any kind.",
+    "Physical access to fresh food is entirely irrelevant to diet quality.",
+    "The concept has been abandoned by researchers in favour of measuring income alone."
+   ],
+   "answer": 0
+  }
+ ],
+ "listening": [
+  {
+   "type": "sst",
+   "transcript": "I want to talk about the problem of dating things, because it turns out to be a much better window onto how science works than most people expect. Radiocarbon dating is the technique everyone has heard of. Living organisms take in carbon fourteen from the atmosphere at a constant rate, and when they die the intake stops and the isotope decays at a known rate. Measure how much is left and you know how long ago the organism died. Elegant, and it transformed archaeology in the nineteen fifties. But notice the assumption buried in it: that atmospheric carbon fourteen has been constant. It has not. It varies with solar activity and with the earth's magnetic field, and it was disturbed enormously by fossil fuel burning and then by atmospheric nuclear testing. So a raw radiocarbon date is not a date at all. It is a measurement that must be calibrated against an independent record, and the independent record comes from tree rings, which give an exact year for every ring going back more than twelve thousand years. Now here is what I find genuinely instructive. The calibration curve is not smooth. There are periods, and one around 800 to 400 BC is notorious, where atmospheric carbon fourteen fluctuated so much that a single measurement is consistent with several different calendar dates hundreds of years apart. Archaeologists call these plateaux, and no amount of laboratory precision resolves them, because the ambiguity is in the atmosphere rather than in the instrument. What this teaches is that a measurement is never self-interpreting. It depends on a chain of assumptions, and improving your instrument does nothing whatever about a limitation that lives somewhere else in that chain.",
+   "key": [
+    "radiocarbon dating measures the decay of carbon fourteen after an organism dies",
+    "it assumes constant atmospheric carbon fourteen, which is false: it varies with solar activity, magnetic field, fossil fuels and nuclear testing",
+    "raw dates must be calibrated against tree rings, which give exact years back over twelve thousand years",
+    "plateaux in the calibration curve, such as 800-400 BC, make one measurement consistent with several dates centuries apart",
+    "laboratory precision cannot resolve an ambiguity that lies in the atmosphere rather than the instrument",
+    "the general lesson is that measurements depend on a chain of assumptions"
+   ]
+  },
+  {
+   "type": "lmcma",
+   "transcript": "Some practical points about the dissertation before you start. The word limit is ten thousand words and it is a limit, not a target; a strong eight-thousand-word dissertation will be marked above a padded ten. The bibliography does not count toward it, but appendices do, which surprises people every year. Your supervisor is required to read one full draft, and only one, so choose when to submit it carefully; a draft sent in the final fortnight is of very little use to you. Ethics approval is needed only if you are collecting data from human participants, so a purely archival project does not require it. And the submission is electronic only. We stopped requiring bound copies three years ago, though the regulations still mention them, which is an error we have not yet managed to have corrected.",
+   "q": "According to the speaker, which of the following are true?",
+   "options": [
+    "Appendices count toward the word limit.",
+    "Supervisors will read only one complete draft.",
+    "Ethics approval is required for every dissertation regardless of method.",
+    "Submission is electronic and bound copies are no longer required.",
+    "The bibliography is included in the word count."
+   ],
+   "answers": [
+    0,
+    1,
+    3
+   ]
+  },
+  {
+   "type": "lfib",
+   "transcript": "Concrete does not dry out as it hardens; it undergoes a chemical [reaction] with water that continues for years. This is why a structure poured under water sets perfectly well and why premature [drying] is one of the commonest causes of weakness. Roman concrete has proved more [durable] than most modern equivalents partly because it incorporated volcanic ash, which reacts slowly with seawater to form new [crystals] within the cracks. The material effectively [repairs] itself, a property that engineers are now attempting to reproduce."
+  },
+  {
+   "type": "lfib",
+   "transcript": "The belief that water spirals down a drain in opposite directions in the two hemispheres is a [misunderstanding] of a real effect. The Coriolis force does deflect moving air and water, and it governs the rotation of [cyclones], which genuinely do turn in opposite directions north and south of the equator. But the force is extraordinarily [weak] at the scale of a basin, and it is overwhelmed by the shape of the bowl and by any residual [motion] left in the water. Under laboratory conditions, with a still tank left undisturbed for a day, the effect can be [demonstrated]."
+  },
+  {
+   "type": "hcs",
+   "transcript": "I want to correct a common account of how the Black Death ended. It is often said that the plague simply burned itself out, or that survivors developed immunity, and neither is quite right. Plague returned repeatedly for three hundred years after the initial pandemic, in waves that were locally devastating, so nothing burned out. What changed was the response. Cities developed quarantine, isolation hospitals and cordons around infected districts, and the evidence suggests these measures shortened outbreaks considerably even though nobody understood the cause. Rat and flea populations also shifted, and housing changed in ways that separated people from both. So the disease did not disappear because the biology altered. It receded because a set of institutions was built around it, largely by trial and error, and long before anyone knew what they were fighting.",
+   "options": [
+    "Plague did not simply burn out or produce immunity; it returned for three centuries, and receded mainly because cities built quarantine and isolation practices by trial and error before the cause was understood.",
+    "The Black Death ended when survivors of the initial pandemic developed inherited immunity that they passed to later generations across Europe.",
+    "The speaker argues that quarantine measures had no measurable effect and that changes in rat populations were the sole cause of plague's decline.",
+    "Plague disappeared from Europe within a generation of the first outbreak, largely because medical understanding of infection advanced rapidly during the period."
+   ],
+   "answer": 0
+  },
+  {
+   "type": "lmcsa",
+   "transcript": "A short warning about group work, because it goes wrong in the same way most years. The failure is almost never that someone does no work. It is that the group divides the task into four separate pieces at the first meeting, everyone goes away, and the pieces are stapled together the night before. What you submit then is four short essays with inconsistent terminology and no argument running through it, and it will be marked as what it is. The groups that do well meet a second time, in the middle, when there is something to discuss and still time to change direction. That middle meeting is the whole difference, and it is the one that always gets cancelled because everybody is busy.",
+   "q": "What does the speaker identify as the main cause of poor group work?",
+   "options": [
+    "Groups divide the work at the start and never reconvene while there is still time to change course.",
+    "One member of the group typically contributes nothing at all.",
+    "Groups meet too frequently and waste time in discussion.",
+    "Students choose topics that are too ambitious for the time available."
+   ],
+   "answer": 0
+  },
+  {
+   "type": "smw",
+   "transcript": "A curious feature of expertise is that experts are often worse than novices at explaining what they do. A skill that has become automatic no longer passes through conscious attention, so the practitioner has no access to the steps involved and reconstructs a plausible account instead. This is why teaching a subject well requires deliberately recovering a difficulty you have personally [BEEP].",
+   "options": [
+    "forgotten",
+    "mastered",
+    "encountered",
+    "described"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "hiw",
+   "spoken": "Salt marshes absorb wave energy far more effectively than a sea wall of comparable cost. The vegetation slows the water, the sediment settles, and the marsh grows upward as sea level rises which no engineered structure can do. Where marshes have been drained for agriculture, the cost of replacing them with concrete defences has frequently exceeded the value of the reclaimed land within a few decades",
+   "swaps": {
+    "7": "efficiently",
+    "17": "stops",
+    "31": "falls,",
+    "51": "stone",
+    "65": "centuries."
+   }
+  },
+  {
+   "type": "hiw",
+   "spoken": "The oldest surviving printed book with a date is Chinese rather than European, produced more than five centuries before Gutenberg. Woodblock printing spread widely through East Asia, and movable type was invented there too, in the eleventh century. What Europe contributed was not the idea but a combination of metal type, an oil-based ink and the screw press, together with an alphabet small enough to make casting individual letters economical.",
+   "swaps": {
+    "9": "Japanese",
+    "18": "after",
+    "31": "introduced",
+    "44": "concept",
+    "62": "simple"
+   }
+  },
+  {
+   "type": "wfd",
+   "text": "The conference will be held in the new science building this year."
+  },
+  {
+   "type": "wfd",
+   "text": "Participants were randomly assigned to one of three treatment groups."
+  },
+  {
+   "type": "wfd",
+   "text": "Additional funding has been secured for the second phase of research."
+  }
+ ]
+}
