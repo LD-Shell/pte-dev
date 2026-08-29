@@ -21,8 +21,6 @@ Writing are marked by a model, which needs an API key.
 
 That link is all anyone needs. It works on any desktop Chrome, on any machine.
 
-## What your friend gets without doing anything
-
 - All ten tests, full length, with real exam timing
 - Reading and Listening scored completely — every multiple choice, re-order,
   fill-in-the-blank, highlight and dictation item
