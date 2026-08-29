@@ -1,0 +1,876 @@
+{
+ "no": 10,
+ "title": "Practice Test 10",
+ "source": "hand-written",
+ "format": "PTE Academic, 2025 revision (22 task types)",
+ "speaking": [
+  {
+   "type": "ra",
+   "text": "Whistled languages exist wherever people needed to communicate across valleys too wide for shouting. They are not codes but full versions of the spoken language, with the pitch and rhythm of speech carried by a whistle that travels several kilometres. Speakers report understanding them as language rather than decoding them as signals."
+  },
+  {
+   "type": "ra",
+   "text": "Slime moulds have no nervous system and nonetheless solve problems that resemble planning. Placed in a maze with food at two exits, the organism withdraws from dead ends and leaves a connection along the shortest route. The behaviour emerges from simple local rules operating everywhere at once, with nothing coordinating them."
+  },
+  {
+   "type": "ra",
+   "text": "Guano was among the most valuable commodities of the nineteenth century, and the deposits accumulated over millennia were exhausted within about forty years. Nations went to war over islands consisting of little else, and the trade collapsed only when synthetic nitrogen fixation made the substance unnecessary."
+  },
+  {
+   "type": "ra",
+   "text": "Buildings designed to survive earthquakes are not built to be rigid. A structure that resists shaking absolutely must be immensely strong, whereas one designed to sway absorbs the energy and returns. Some modern towers rest on bearings that allow the ground to move beneath them while the building above stays comparatively still."
+  },
+  {
+   "type": "ra",
+   "text": "Before refrigeration, ice was cut from frozen lakes in winter, packed in sawdust, and shipped to tropical ports where it arrived largely intact. The trade seemed absurd to contemporaries and was extremely profitable, and it created an expectation of cold drinks that mechanical refrigeration was later invented to satisfy."
+  },
+  {
+   "type": "ra",
+   "text": "The safety razor was sold cheaply so that blades could be sold repeatedly, and the model has been imitated ever since. What is bought is not the object but access to a supply of consumables, and the profit sits entirely in the part that must be replaced rather than in the part that is kept."
+  }
+ ],
+ "repeat": [
+  {
+   "type": "rs",
+   "text": "The archive will be closed for cataloguing during the summer."
+  },
+  {
+   "type": "rs",
+   "text": "Each group should nominate one member to present the findings."
+  },
+  {
+   "type": "rs",
+   "text": "The original manuscript is held in a private collection abroad."
+  },
+  {
+   "type": "rs",
+   "text": "Temperature was recorded automatically at fifteen minute intervals."
+  },
+  {
+   "type": "rs",
+   "text": "Nobody has successfully replicated the result since it was published."
+  },
+  {
+   "type": "rs",
+   "text": "Please collect your marked scripts from the departmental office."
+  },
+  {
+   "type": "rs",
+   "text": "The scheme was abandoned after two years of disappointing results."
+  },
+  {
+   "type": "rs",
+   "text": "Students from all faculties are welcome to attend the lecture."
+  },
+  {
+   "type": "rs",
+   "text": "A detailed methodology should appear in the second chapter."
+  },
+  {
+   "type": "rs",
+   "text": "The region has experienced unusually dry conditions this year."
+  }
+ ],
+ "images": [
+  {
+   "type": "di",
+   "chart": {
+    "kind": "line",
+    "title": "Cost per unit of three technologies, index where 2010 equals 100",
+    "unit": "index (2010 = 100)",
+    "xLabel": "Year",
+    "categories": [
+     "2010",
+     "2013",
+     "2016",
+     "2019",
+     "2022",
+     "2025"
+    ],
+    "series": [
+     {
+      "name": "Solar modules",
+      "values": [
+       100,
+       44,
+       28,
+       19,
+       14,
+       11
+      ]
+     },
+     {
+      "name": "Lithium battery cells",
+      "values": [
+       100,
+       58,
+       36,
+       24,
+       16,
+       13
+      ]
+     },
+     {
+      "name": "Offshore wind",
+      "values": [
+       100,
+       88,
+       71,
+       54,
+       49,
+       46
+      ]
+     }
+    ],
+    "summary": "All three fall but at very different rates. Solar modules drop to 11 per cent of their 2010 cost, an 89 per cent decline, with the steepest fall in the first three years. Battery cells follow a similar curve to 13. Offshore wind falls far less, to 46, roughly halving rather than collapsing. A strong answer notes that solar and batteries follow near-identical trajectories while wind is a different case, and that the steepest declines occur early and then flatten for all three."
+   }
+  },
+  {
+   "type": "di",
+   "chart": {
+    "kind": "table",
+    "title": "Four proposed high-speed rail routes",
+    "headers": [
+     "Route",
+     "Length km",
+     "Cost bn",
+     "Journey saved",
+     "Forecast users m/yr"
+    ],
+    "rows": [
+     [
+      "Northern link",
+      "310",
+      "28.0",
+      "1h 40m",
+      "14.2"
+     ],
+     [
+      "Coastal",
+      "185",
+      "21.5",
+      "0h 35m",
+      "6.8"
+     ],
+     [
+      "Cross-border",
+      "470",
+      "33.0",
+      "2h 10m",
+      "9.1"
+     ],
+     [
+      "Airport spur",
+      "42",
+      "6.4",
+      "0h 12m",
+      "11.7"
+     ]
+    ],
+    "summary": "Cost does not track length. The Coastal route is the shortest of the three long options at 185 km yet costs 21.5 billion, nearly as much as the 310 km Northern link at 28. The Airport spur is only 42 km and saves just twelve minutes, but forecasts 11.7 million users a year, second highest. Cross-border is longest and dearest but forecasts fewer users than the spur. A strong answer states that neither length nor time saved predicts ridership, and identifies the Airport spur as the outlier on cost per passenger."
+   }
+  },
+  {
+   "type": "di",
+   "chart": {
+    "kind": "process",
+    "title": "Stages in producing a woven woollen cloth",
+    "steps": [
+     "Shearing the fleece",
+     "Scouring to remove grease",
+     "Carding to align fibres",
+     "Spinning into yarn",
+     "Weaving on the loom",
+     "Fulling and finishing"
+    ],
+    "summary": "Six stages from shearing to finishing. Scouring precedes carding because grease prevents fibres separating cleanly, and fulling comes last, deliberately shrinking and matting the woven cloth to make it dense and weather-resistant. A strong answer follows the order with connecting language, explains why scouring must precede carding, and notes that the final stage alters the fabric rather than merely tidying it."
+   }
+  }
+ ],
+ "lecture": [
+  {
+   "type": "rl",
+   "transcript": "I want to talk about queues, because almost every intuition people have about them is wrong, and the mathematics is genuinely surprising. Start with the central result. If arrivals at a service point are random rather than scheduled, the average waiting time does not rise gently as the system gets busier. It rises slowly up to about eighty per cent utilisation and then climbs almost vertically. At ninety-five per cent capacity, the average wait is roughly ten times what it was at fifty per cent, for the same service. This is why a hospital emergency department running at ninety-eight per cent occupancy is not slightly worse than one at eighty; it is in a completely different regime, and adding a small amount of capacity produces an enormous improvement. Now, the second counter-intuitive result concerns queue design. A single line feeding several servers is substantially better than separate lines for each server, even though the total staffing is identical. The reason is that separate lines allow one queue to stall behind a slow transaction while another server stands idle, and idle capacity in a congested system is pure waste. Banks and airports worked this out decades ago; supermarkets have mostly not, because customers dislike the appearance of a single long line even when it moves faster. And that is the third point, which is about perception rather than mathematics. Perceived waiting time depends heavily on whether the wait is occupied, whether it is explained, and whether people believe it is fair. An unexplained five-minute wait feels longer than an explained ten-minute one, and a queue that someone jumps generates complaints out of all proportion to the seconds lost.",
+   "key": [
+    "with random arrivals, waiting time climbs almost vertically above about eighty per cent utilisation",
+    "at ninety-five per cent capacity the average wait is roughly ten times that at fifty per cent",
+    "small capacity additions produce enormous improvements in a congested system",
+    "a single line feeding several servers beats separate lines with identical staffing, because idle servers are pure waste",
+    "supermarkets resist this because customers dislike the look of one long line",
+    "perceived wait depends on occupation, explanation and fairness rather than duration alone"
+   ]
+  },
+  {
+   "type": "rl",
+   "transcript": "Today I want to trace how colour photography arrived, because the delay tells you something about what a technical problem actually consists of. Black and white photography was practical by the eighteen forties. Colour did not become ordinary until the nineteen sixties, and the gap of well over a century was not caused by anyone failing to have the idea. Maxwell demonstrated the principle in 1861: photograph the same scene three times through red, green and blue filters, then project the three images through the same filters superimposed, and the eye reconstructs the colour. It worked, and it was useless for practical purposes, because it required three exposures, three plates and a projection apparatus. Every subsequent approach was an attempt to compress that into one operation. The Lumière brothers coated a plate with dyed potato starch grains acting as millions of tiny filters, which was ingenious, produced beautiful results, and was slow and could not be reprinted. What eventually solved it was not optics at all but chemistry: a film carrying three separate light-sensitive layers stacked on top of one another, each sensitive to a different part of the spectrum, with the dyes formed during development. That required synthesising compounds that would stay in their own layer and not wander during processing, and the wandering problem took roughly thirty years to solve. So the obstacle was never the principle. It was a materials problem disguised as an imaging problem, and I would suggest that this is more common in the history of technology than the tidy narratives allow.",
+   "key": [
+    "black and white was practical by the 1840s but colour only became ordinary in the 1960s",
+    "Maxwell demonstrated the three-filter principle in 1861, requiring three exposures and a projector",
+    "later approaches tried to compress this into one operation, such as the Lumière dyed starch plate",
+    "the eventual solution was a film with three stacked light-sensitive layers and dyes formed in development",
+    "the hard part was preventing dyes wandering between layers, which took about thirty years",
+    "the obstacle was a materials problem disguised as an imaging one"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "type": "asq",
+   "q": "What do we call the middle of the day, at twelve o'clock?",
+   "a": [
+    "noon",
+    "midday",
+    "twelve"
+   ]
+  },
+  {
+   "type": "asq",
+   "q": "If a train is described as direct, does it require changing?",
+   "a": [
+    "no",
+    "no it does not",
+    "no changes",
+    "it does not"
+   ]
+  },
+  {
+   "type": "asq",
+   "q": "Which gas do humans breathe in that is essential for staying alive?",
+   "a": [
+    "oxygen"
+   ]
+  },
+  {
+   "type": "asq",
+   "q": "What is the name for a list of things a person plans to buy at a shop?",
+   "a": [
+    "shopping list",
+    "a shopping list",
+    "list"
+   ]
+  },
+  {
+   "type": "asq",
+   "q": "Is a river that flows into another river called a tributary or an estuary?",
+   "a": [
+    "tributary",
+    "a tributary"
+   ]
+  }
+ ],
+ "discussion": [
+  {
+   "type": "sgd",
+   "turns": [
+    {
+     "speaker": "Cara",
+     "text": "Moving the exam online would let us use the software the students will actually work with, and I think that matters more than the invigilation problem everyone keeps raising."
+    },
+    {
+     "speaker": "Milo",
+     "text": "The invigilation problem isn't a detail. If we can't verify who did the work, the qualification stops meaning what it says on it."
+    },
+    {
+     "speaker": "Cara",
+     "text": "We can't fully verify that now either. We check a photograph against a face in a hall of three hundred people."
+    },
+    {
+     "speaker": "Milo",
+     "text": "That's a fair hit. Though the failure mode is different: impersonation in a hall requires physical nerve, and remotely it requires a browser tab."
+    },
+    {
+     "speaker": "Anouk",
+     "text": "What if the online paper were designed so that answers are individual? Give each student a different dataset. Copying becomes useless without understanding."
+    },
+    {
+     "speaker": "Milo",
+     "text": "That's a lot of question writing, and it makes the marking harder to standardise between students."
+    },
+    {
+     "speaker": "Cara",
+     "text": "Generate the datasets and the model answers together. The variation is mechanical, and the marking scheme comes with each one."
+    }
+   ],
+   "key": [
+    "Cara argues an online exam would let students use realistic professional software",
+    "Milo objects that identity cannot be verified remotely",
+    "Cara notes verification in a large hall is also weak; Milo concedes but distinguishes the failure modes",
+    "Anouk proposes individualised datasets so copying is useless without understanding",
+    "Milo raises writing and marking workload; Cara suggests generating datasets and model answers together"
+   ]
+  },
+  {
+   "type": "sgd",
+   "turns": [
+    {
+     "speaker": "Rhys",
+     "text": "A new sports centre would serve maybe fifteen per cent of students regularly. The same money spent on study space serves everyone."
+    },
+    {
+     "speaker": "Lea",
+     "text": "Fifteen per cent is a lot of people, and they're disproportionately the students who report the fewest mental health problems. That connection isn't nothing."
+    },
+    {
+     "speaker": "Rhys",
+     "text": "It's a correlation, and it probably runs the other way. Students who are already coping have the energy to go to the gym."
+    },
+    {
+     "speaker": "Lea",
+     "text": "Probably partly both. I'd accept that the evidence is weaker than I've been implying."
+    },
+    {
+     "speaker": "Tobias",
+     "text": "Could we refurbish rather than build? The existing hall is underused because it's unpleasant, not because there's no demand for it."
+    },
+    {
+     "speaker": "Rhys",
+     "text": "That's the option nobody costed, which is suspicious in itself given how much cheaper it would obviously be."
+    },
+    {
+     "speaker": "Lea",
+     "text": "Then let's ask for it to be costed before we take a position. I'd rather lose the argument on numbers than win it on absence of them."
+    }
+   ],
+   "key": [
+    "Rhys argues study space serves more students than a sports centre",
+    "Lea cites a link between sport and student wellbeing",
+    "Rhys challenges the causal direction; Lea concedes the evidence is weaker than she implied",
+    "Tobias proposes refurbishing the existing underused hall instead of building",
+    "the group agrees to request a costing for refurbishment before taking a position"
+   ]
+  }
+ ],
+ "situation": [
+  {
+   "type": "rts",
+   "situation": "You need to leave your rented flat two months before the end of the tenancy because you have been offered a place on a course in another city. Your contract requires two months' notice and you have given none.",
+   "task": "Telephone your landlord.",
+   "key": [
+    "states the situation and the date plainly at the start",
+    "acknowledges the notice requirement rather than avoiding it",
+    "proposes something practical, such as finding a replacement tenant",
+    "asks clearly what would be acceptable to them",
+    "keeps a courteous register given that you are asking for flexibility"
+   ]
+  },
+  {
+   "type": "rts",
+   "situation": "A colleague has been forwarding your emails to a wider group without asking, including one you had marked as a draft. Nothing serious has resulted so far, but you would rather it stopped.",
+   "task": "Speak to your colleague.",
+   "key": [
+    "raises it directly and early rather than after something goes wrong",
+    "names the specific instance rather than generalising",
+    "avoids implying bad intent, since the behaviour may be thoughtless",
+    "states clearly what you would like to happen instead",
+    "keeps the tone light enough to preserve an ordinary working relationship"
+   ]
+  }
+ ],
+ "swt": [
+  {
+   "type": "swt",
+   "passage": "Counting a population is treated as an administrative task and is in fact a series of contested judgements, each with consequences for who receives money and representation. The first difficulty is definitional: a census must decide who counts as resident, and every answer excludes somebody. Students are counted in one place and pay for services in another; people with no fixed address may be counted nowhere; those working abroad for part of the year fall into a category that different countries resolve differently. The second difficulty is that the people hardest to count are not randomly distributed. Undercount concentrates among renters, recent migrants, young men and households where nobody wishes to be visible to a government agency, and it is therefore geographically concentrated too. Since census figures determine funding allocations and electoral boundaries, a systematic undercount transfers resources away from precisely the districts that were undercounted. Statistical adjustment can correct the aggregate reasonably well, and its use has been litigated repeatedly, because a method that changes which districts receive money is never merely technical. Several countries have abandoned the traditional door-to-door census in favour of combining existing administrative registers, which is cheaper and more current, and which relocates rather than removes the question of who the state has recorded.",
+   "key": [
+    "defining residence is contested and every definition excludes somebody",
+    "students, homeless people and seasonal workers abroad are resolved differently between countries",
+    "undercount concentrates among renters, migrants and those avoiding official contact, so it is geographically clustered",
+    "census figures set funding and electoral boundaries, so undercount transfers resources away from those districts",
+    "statistical adjustment is repeatedly litigated because it is never merely technical",
+    "register-based censuses are cheaper and relocate rather than remove the question of who is recorded"
+   ]
+  },
+  {
+   "type": "swt",
+   "passage": "Open access publishing was intended to remove the paywall between publicly funded research and the public that funded it, and in its dominant form it has relocated the barrier rather than removing it. Under the arrangement that has become standard, the reader pays nothing and the author's institution pays a processing charge, frequently several thousand pounds per article. For a well-funded laboratory this is an accounting matter. For a researcher in a low-income country, an independent scholar, or a discipline where grants are small and rare, it is a barrier of exactly the kind the movement set out to abolish, differing only in which end of the transaction it sits at. Waiver schemes exist and are applied inconsistently, and applying for one requires declaring poverty to the organisation deciding whether to publish you. Alternatives have been proposed and several work well in practice: institutional repositories, journals funded directly by consortia of libraries, and platforms that charge nothing at either end. None has displaced the processing charge model, and the reason is not technical. Prestige remains concentrated in established titles, hiring committees continue to read the journal name before the article, and no individual researcher can afford to publish where the assessment system does not look.",
+   "key": [
+    "open access aimed to remove the reader paywall but relocated the barrier to authors",
+    "processing charges of several thousand pounds exclude poorly funded researchers and disciplines",
+    "waiver schemes are inconsistent and require declaring poverty to the publisher",
+    "working alternatives exist: repositories, library consortia funding and no-fee platforms",
+    "none has displaced the charge model because prestige remains with established titles",
+    "hiring committees read the journal name, so individuals cannot afford to publish elsewhere"
+   ]
+  }
+ ],
+ "essay": [
+  {
+   "type": "we",
+   "prompt": "Some universities require all students to complete a period of unpaid work experience before graduating. Supporters argue it improves employment prospects, while critics say it disadvantages students who cannot afford to work without pay. Discuss both views and give your own opinion. Write 200-300 words."
+  }
+ ],
+ "reading": [
+  {
+   "type": "rwfib",
+   "text": "Volcanic soils are among the most ___0___ in the world, which explains why dense populations persist on the slopes of active volcanoes despite the obvious ___1___. Ash weathers into clay minerals that hold nutrients and water unusually well, and the resulting fertility can ___2___ several harvests a year. The calculation made by farmers is not irrational: an eruption may come once in a lifetime, while the ___3___ arrives every season.",
+   "blanks": [
+    {
+     "options": [
+      "productive",
+      "protective",
+      "progressive",
+      "provisional"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "hazard",
+      "hurdle",
+      "hindrance",
+      "hesitance"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "sustain",
+      "sustains",
+      "subside",
+      "substitute"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "yield",
+      "yearn",
+      "yonder",
+      "yielding"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "type": "rwfib",
+   "text": "Legal systems distinguish between what a person intended and what they ___0___ have foreseen, and the second standard does most of the work in practice. Intention is a state of mind and therefore ___1___ to prove directly; foreseeability is assessed against what a reasonable person in the same position would have ___2___. Critics argue that the reasonable person is a fiction assembled from the assumptions of whoever is ___3___, and defenders reply that the alternative is a standard nobody could apply at all.",
+   "blanks": [
+    {
+     "options": [
+      "ought",
+      "aught",
+      "ought to",
+      "must"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "difficult",
+      "diffident",
+      "different",
+      "deficient"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "expected",
+      "exempted",
+      "expelled",
+      "expended"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "judging",
+      "joining",
+      "jostling",
+      "justifying"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "type": "rwfib",
+   "text": "Bird flight is limited by a ___0___ that becomes severe above a certain size. The power required to stay airborne rises faster with mass than the power a muscle can ___1___, so the largest flying birds operate close to their limit and rely on rising air rather than sustained flapping. Several extinct species exceeded any living bird in wingspan, and reconstructing how they became ___2___ at all remains a genuinely ___3___ problem.",
+   "blanks": [
+    {
+     "options": [
+      "constraint",
+      "constituent",
+      "construction",
+      "consultation"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "deliver",
+      "delegate",
+      "deliberate",
+      "delineate"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "airborne",
+      "aimless",
+      "abundant",
+      "ancient"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "unsolved",
+      "unspoken",
+      "unsuited",
+      "unsound"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "type": "rwfib",
+   "text": "Salvage archaeology is carried out under a ___0___ imposed by construction rather than by research questions. When a site is discovered during development, the excavation must finish before the concrete ___1___, and the resulting reports frequently record enormous quantities of material that nobody has had time to ___2___. Estimates suggest that the backlog of unanalysed finds in some countries now ___3___ everything held in the national collections.",
+   "blanks": [
+    {
+     "options": [
+      "deadline",
+      "deadlock",
+      "dateline",
+      "doorway"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "arrives",
+      "arises",
+      "arouses",
+      "arrests"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "interpret",
+      "intercept",
+      "interrupt",
+      "intervene"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "exceeds",
+      "excludes",
+      "excuses",
+      "exhausts"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "type": "rwfib",
+   "text": "Hedgerows were planted as boundaries and turned out to be ___0___ of an entirely different kind. A mature hedge is a strip of woodland edge, and woodland edge supports more species than either the wood or the field on ___1___ side of it. Removing them to enlarge fields for machinery ___2___ tens of thousands of kilometres of this habitat within a generation, and the replanting schemes that followed have found that a new hedge takes many decades to acquire the ___3___ of an old one.",
+   "blanks": [
+    {
+     "options": [
+      "infrastructure",
+      "interference",
+      "interpretation",
+      "introduction"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "either",
+      "neither",
+      "whether",
+      "together"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "eliminated",
+      "elevated",
+      "elaborated",
+      "elongated"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "complexity",
+      "complicity",
+      "compliance",
+      "composure"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "type": "rmcma",
+   "passage": "The distinction between a shortage of housing and a shortage of affordable housing is treated in public debate as a matter of emphasis, and it identifies two problems with different remedies. If the constraint is physical supply, then anything that increases the number of dwellings helps, including construction at the expensive end, since households moving into new stock vacate cheaper stock behind them. Evidence for this chain of moves is reasonably good in cities where it has been traced. If instead the constraint is that incomes at the lower end have fallen too far below any price at which building is profitable, additional market construction cannot reach those households at all, and the necessary instruments are subsidy, direct public building or income support. Most cities have both problems simultaneously and in different proportions, which is why the same policy produces contradictory results in different places. The debate becomes unproductive when each side generalises from a city where its own diagnosis happened to be correct, and neither position is unreasonable as a description of somewhere.",
+   "q": "Which of the following are stated or clearly implied by the passage?",
+   "options": [
+    "Building at the expensive end can help if the binding constraint is physical supply.",
+    "Chains of moves after new construction have been traced in some cities.",
+    "Where low incomes are the constraint, market construction alone cannot reach those households.",
+    "The author argues that subsidy is always the correct remedy.",
+    "The same policy can produce different results in different cities."
+   ],
+   "answers": [
+    0,
+    1,
+    2,
+    4
+   ]
+  },
+  {
+   "type": "ro",
+   "paras": [
+    "In 1900 a physicist attempting to explain the colour of hot objects found that classical theory predicted an impossible result.",
+    "Max Planck resolved the discrepancy by assuming that energy could only be emitted in discrete packets rather than continuously.",
+    "He regarded the assumption as a mathematical device with no physical meaning, and spent years attempting to derive the same answer without it.",
+    "Five years later Einstein took the packets literally, arguing that light itself arrives in units, and used the idea to explain an unrelated effect.",
+    "Planck's reluctance is a reminder that the person who introduces an idea is not always the person who believes it."
+   ]
+  },
+  {
+   "type": "ro",
+   "paras": [
+    "Overloading was the commonest cause of merchant shipping losses in the nineteenth century, and it was frequently deliberate.",
+    "A vessel insured for more than its worth was more profitable sunk than sailed, and crews had no legal means of refusing to board one.",
+    "Samuel Plimsoll spent years pressing Parliament on the matter, at one point being suspended from the House for calling shipowners villains.",
+    "The eventual legislation required a mark on the hull showing the depth beyond which a ship could not legally be loaded.",
+    "The mark is still painted on every merchant vessel afloat and still carries his name."
+   ]
+  },
+  {
+   "type": "rfib",
+   "text": "Almost all intercontinental data travels through cables lying on the ___0___ floor, not through satellites, which carry a negligible ___1___ of the total. The cables are surprisingly slender, roughly the thickness of a garden hose across open ocean, and they are cut with some ___2___ by fishing gear and anchors in shallow water. Repair requires a specialised ship to locate the fault, raise both ends and splice them, which takes days at ___3___. Redundancy rather than protection is what keeps the network running: traffic reroutes automatically, and most users never ___4___ that anything has happened.",
+   "bank": [
+    "ocean",
+    "fraction",
+    "regularity",
+    "best",
+    "notice",
+    "sea",
+    "number",
+    "difficulty",
+    "least",
+    "realise"
+   ],
+   "answers": [
+    "ocean",
+    "fraction",
+    "regularity",
+    "best",
+    "notice"
+   ]
+  },
+  {
+   "type": "rfib",
+   "text": "The human eye has a blind spot where the optic nerve leaves the ___0___, and it is surprisingly large, roughly the size of nine full moons held at arm's length. We never notice it because the brain ___1___ the missing area with whatever pattern surrounds it, a process that is entirely ___2___ and produces a seamless impression. The demonstration is easy to ___3___ with one eye closed and a mark on a page, and what it reveals is uncomfortable: a substantial part of what we experience as direct perception is ___4___.",
+   "bank": [
+    "retina",
+    "fills",
+    "automatic",
+    "perform",
+    "constructed",
+    "cornea",
+    "covers",
+    "voluntary",
+    "observe",
+    "accurate"
+   ],
+   "answers": [
+    "retina",
+    "fills",
+    "automatic",
+    "perform",
+    "constructed"
+   ]
+  },
+  {
+   "type": "rfib",
+   "text": "Restoring a wetland is far easier than restoring a ___0___ forest, and the difference is time. A marsh can reassemble most of its species within a decade if the water regime is ___1___, because the organisms concerned are mobile and their seeds persist in the soil. Ancient woodland cannot be recreated on that ___2___ at all: the soil fungi, the dead wood and the accumulated structure take centuries to develop, and a plantation on former farmland ___3___ resembles the thing it replaced. This is why ancient woodland is treated as ___4___ rather than as a habitat that can be relocated.",
+   "bank": [
+    "ancient",
+    "corrected",
+    "timescale",
+    "never",
+    "irreplaceable",
+    "managed",
+    "restored",
+    "budget",
+    "rarely",
+    "protected"
+   ],
+   "answers": [
+    "ancient",
+    "corrected",
+    "timescale",
+    "never",
+    "irreplaceable"
+   ]
+  },
+  {
+   "type": "rfib",
+   "text": "Sign systems for the deaf were actively ___0___ in many European schools for almost a century after an international congress voted in 1880 to teach speech ___1___. Children were punished for signing, deaf teachers were dismissed in large numbers, and educational ___2___ fell sharply by every measure that was subsequently examined. The policy was reversed only when linguists demonstrated that the signed languages being ___3___ possessed full grammatical structure. The episode is now taught as a case of a well-intentioned reform imposed without any ___4___ of what it was displacing.",
+   "bank": [
+    "suppressed",
+    "exclusively",
+    "attainment",
+    "forbidden",
+    "understanding",
+    "promoted",
+    "additionally",
+    "attendance",
+    "permitted",
+    "record"
+   ],
+   "answers": [
+    "suppressed",
+    "exclusively",
+    "attainment",
+    "forbidden",
+    "understanding"
+   ]
+  },
+  {
+   "type": "rmcsa",
+   "passage": "There is a widespread belief that creativity requires solitude, supported by a long tradition of describing the artist or scientist alone with a problem. Studies of how creative work is actually produced find a more particular pattern. The generation of unusual ideas does benefit from working alone, and group brainstorming reliably produces fewer distinct ideas than the same people thinking separately and pooling afterwards, largely because a group converges on the first plausible direction and because only one person can speak at a time. What groups do well is selection: judging which of a set of ideas is worth pursuing, a task at which individuals are markedly poorer because they are attached to their own. The practical conclusion is not that collaboration is overrated but that generation and evaluation are different activities, and the common practice of combining them in a single meeting does each of them badly.",
+   "q": "What does the passage conclude about creative work?",
+   "options": [
+    "Idea generation is better done alone and evaluation better done in groups, so combining them in one meeting harms both.",
+    "Solitude is necessary for every stage of creative work.",
+    "Group brainstorming reliably produces more distinct ideas than individuals working separately.",
+    "Individuals are better than groups at judging which ideas are worth pursuing."
+   ],
+   "answer": 0
+  },
+  {
+   "type": "rmcsa",
+   "passage": "The phrase 'correlation is not causation' is repeated so frequently that it has begun to do harm, because it is now used to dismiss evidence rather than to interrogate it. The statement is true and nearly empty on its own. What matters is which of the alternative explanations for a correlation can be ruled out in a particular case: reverse causation, a common cause, or selection into the sample. Epidemiology established that smoking causes lung cancer without any randomised trial, by systematically eliminating these alternatives across dozens of studies with different designs and different populations, each vulnerable to a different bias. A criticism that merely names the maxim contributes nothing; a criticism that specifies which alternative explanation survives, and why, contributes a great deal. The distinction separates scepticism from its imitation.",
+   "q": "What is the author's main point?",
+   "options": [
+    "Invoking the maxim is only useful when it names a specific alternative explanation that survives.",
+    "Correlational evidence should never be used to support causal claims.",
+    "Randomised trials are the only acceptable basis for establishing causation.",
+    "The link between smoking and lung cancer was established by randomised trials."
+   ],
+   "answer": 0
+  }
+ ],
+ "listening": [
+  {
+   "type": "sst",
+   "transcript": "I want to talk about why weather forecasting has a hard limit that no improvement in computing will remove. The story starts with Edward Lorenz in 1961, who was running a simple numerical weather model on an early computer. Wanting to repeat a run, he restarted it from the middle, typing in the numbers from a printout. The printout showed three decimal places while the machine held six, so the value he entered differed from the original by less than one part in a thousand. He expected a nearly identical result. What he got diverged completely within a simulated month or two. This was not a bug. It is a property of the equations. Systems of this kind amplify small differences exponentially, so that an error of any size, however tiny, grows until it dominates the forecast. Lorenz later illustrated it with the image of a butterfly, and the image has done some damage, because people take it to mean that the butterfly causes the storm. That is not the claim. The claim is that we cannot know the initial state of the atmosphere precisely enough, and that any imprecision, from any source, expands at a rate that sets a horizon of roughly two weeks. Now, the practical response has been interesting. Rather than pursuing a single forecast, meteorologists run the model dozens of times from slightly different starting conditions and look at the spread of results. If all fifty runs agree, confidence is high. If they scatter, it is low, and crucially the scatter itself is information about how predictable the situation is. So the discipline stopped trying to defeat the limit and started measuring it, which turned an insurmountable obstacle into a quantity that could be reported.",
+   "key": [
+    "Lorenz restarted a model with values rounded to three decimal places instead of six",
+    "the results diverged completely within a simulated month or two, and this was a property of the equations rather than a bug",
+    "such systems amplify small differences exponentially, so any imprecision comes to dominate",
+    "the butterfly image misleads: the claim is about unknowable initial conditions, not a butterfly causing a storm",
+    "the limit is a predictability horizon of roughly two weeks",
+    "forecasters now run ensembles from varied starting points and treat the spread itself as information"
+   ]
+  },
+  {
+   "type": "lmcma",
+   "transcript": "A few things about the summer school that differ from the printed brochure. The residential fee now includes evening meals, which it did not when the brochure went to press, so ignore the separate catering charge listed on page four. Places are allocated on a first-come basis rather than by academic merit, which several people have asked about; there is no selection process beyond meeting the entry requirement. The field excursion is optional and carries its own cost, and it will run regardless of numbers because the transport is already booked. Accommodation is single rooms only this year, with no shared option, which is why the fee is higher than last year's. And the certificate awarded does not carry academic credit, though a number of institutions have accepted it toward continuing professional development.",
+   "q": "According to the speaker, which of the following are true?",
+   "options": [
+    "Evening meals are now included in the residential fee.",
+    "Places are allocated on a first-come basis rather than by merit.",
+    "Shared accommodation is available at a lower rate.",
+    "The field excursion costs extra and is optional.",
+    "The certificate carries formal academic credit."
+   ],
+   "answers": [
+    0,
+    1,
+    3
+   ]
+  },
+  {
+   "type": "lfib",
+   "transcript": "Church bells are tuned by removing metal from the [inside] of the bell rather than the outside, which preserves the finished surface. A bell produces several notes at once, and the tuner adjusts each partial by cutting at a different [height] on the profile. The lowest of these, called the hum note, is normally tuned an octave below the [strike] note that a listener actually perceives. Curiously, the perceived pitch often corresponds to no partial physically [present] in the sound; the ear infers it from the spacing of the ones that are, a phenomenon known as the missing [fundamental]."
+  },
+  {
+   "type": "lfib",
+   "transcript": "Roman concrete used in harbour construction becomes stronger rather than weaker after prolonged exposure to [seawater], which is the opposite of modern behaviour. The mixture incorporated volcanic ash, and seawater percolating through it dissolves components and precipitates a rare [mineral] within the pores. This growth reinforces the structure and seals developing [cracks]. Modern marine concrete, by contrast, is designed to exclude water entirely, so once that barrier is [breached] deterioration is rapid. Researchers are now attempting to reproduce the ancient chemistry, though the volcanic ash itself is difficult to [source]."
+  },
+  {
+   "type": "hcs",
+   "transcript": "A brief word about why the seasons happen, because the wrong explanation is extremely widespread and it survives even among graduates of good universities. The common answer is that the earth is closer to the sun in summer. This cannot be right for a reason available to anyone: the southern hemisphere has summer when the northern has winter, and both hemispheres are at the same distance. In fact the earth is slightly nearer the sun in January, during northern winter. The actual cause is axial tilt. The earth's axis leans by about twenty-three degrees, so through part of the orbit one hemisphere is angled toward the sun, receiving light at a steeper angle and for more hours each day. Both factors matter, and the change in day length matters more at high latitudes than the change in angle does.",
+   "options": [
+    "Seasons are caused by the earth's axial tilt rather than its distance from the sun, as shown by the hemispheres having opposite seasons at the same distance, with both light angle and day length contributing.",
+    "Seasons occur because the earth's orbit brings it substantially closer to the sun during summer and further away during winter each year.",
+    "The speaker argues that axial tilt is only a minor factor and that orbital distance remains the principal cause of seasonal temperature change.",
+    "Both hemispheres experience summer simultaneously because the earth's distance from the sun changes over the course of the year."
+   ],
+   "answer": 0
+  },
+  {
+   "type": "lmcsa",
+   "transcript": "A practical word about reading difficult material, since several of you have said the theory papers are impenetrable. They are, on a first pass, and the mistake is to treat that as a failure of comprehension requiring you to slow down. Slowing down on a first reading of a hard paper is usually wasted effort, because you do not yet know which paragraphs matter. Read it quickly and badly, all the way through, accepting that most of it will not land. Then read it again knowing where it is going, and the second reading is a completely different experience because you can tell which sentences are load-bearing. Most people do the opposite: they read the first three pages four times and never reach the argument, and then conclude that the paper was too hard for them.",
+   "q": "What does the speaker recommend for reading difficult papers?",
+   "options": [
+    "Read quickly all the way through first, then reread knowing where the argument goes.",
+    "Read slowly and carefully from the beginning until each paragraph is understood.",
+    "Read only the introduction and conclusion of difficult papers.",
+    "Discuss the paper with others before attempting to read it."
+   ],
+   "answer": 0
+  },
+  {
+   "type": "smw",
+   "transcript": "A curious feature of very large organisations is that information reaching the top has been filtered at every level it passed through, and the filtering is rarely deliberate. Each layer summarises, and a summary necessarily omits, and what gets omitted is disproportionately what the person summarising expects will be unwelcome. By the time it arrives, the picture is not false so much as systematically [BEEP].",
+   "options": [
+    "optimistic",
+    "detailed",
+    "delayed",
+    "complex"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "hiw",
+   "spoken": "Naked mole rats live in colonies organised more like those of insects than of mammals, with a single breeding female and workers that never reproduce. They tolerate oxygen levels that would kill any other mammal within minutes, switching to a metabolism fuelled by fructose when air runs short in a blocked tunnel. They are also almost entirely resistant to cancer and individuals have lived beyond thirty years roughly ten times what a rodent of that size would predict.",
+   "swaps": {
+    "11": "termites",
+    "19": "queen",
+    "31": "harm",
+    "43": "glucose",
+    "59": "disease,",
+    "66": "decades,"
+   }
+  },
+  {
+   "type": "hiw",
+   "spoken": "The deepest point in the ocean lies almost eleven kilometres below the surface, which is greater than the height of the highest mountain above sea level. Fewer people have reached the bottom of the Mariana Trench than have walked on the moon. The pressure there exceeds a thousand times that at the surface, yet the sediment supports abundant microbial life and several species of amphipod, one of which builds a protective tube from grains of the surrounding mud.",
+   "swaps": {
+    "1": "lowest",
+    "18": "altitude",
+    "38": "stood",
+    "48": "fold",
+    "57": "considerable",
+    "70": "armoured"
+   }
+  },
+  {
+   "type": "wfd",
+   "text": "A summary of the discussion will be circulated later this afternoon."
+  },
+  {
+   "type": "wfd",
+   "text": "Nearly all the participants completed both parts of the assessment."
+  },
+  {
+   "type": "wfd",
+   "text": "The results contradict several assumptions made in earlier studies."
+  }
+ ]
+}
