@@ -88,5 +88,4 @@ tests/
 ```
 
 Built to the PTE Academic format as revised by Pearson in August 2025: 22 task
-types, three parts, 52–64 scored items per form. Check Pearson's current
-scored-item table before relying on any timing.
+types, three parts, 52–64 scored items per form.
