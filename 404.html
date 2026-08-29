@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Page not found — PTE Academic Practice</title>
+<style>
+:root{
+  --bg:#eef0f3; --surface:#fff; --surface-2:#f7f8fa;
+  --ink:#161a1f; --ink-2:#4a5058; --ink-3:#767d86;
+  --rule:#d5d9df; --accent:#1f4e79;
+  --sans:ui-sans-serif,"Segoe UI",system-ui,Arial,sans-serif;
+}
+*{box-sizing:border-box}
+html,body{margin:0;padding:0;height:100%}
+body{background:var(--bg);color:var(--ink);font:15px/1.55 var(--sans);
+     display:flex;flex-direction:column;-webkit-font-smoothing:antialiased}
+.shell{height:52px;background:var(--accent);color:#fff;display:flex;align-items:center;
+       padding:0 16px;flex:none;font-weight:600;letter-spacing:.02em}
+main{flex:1;display:flex;align-items:center;justify-content:center;padding:28px}
+.card{background:var(--surface);border:1px solid var(--rule);border-radius:2px;
+      padding:40px 44px;max-width:560px;width:100%}
+.code{font:600 13px var(--sans);letter-spacing:.09em;text-transform:uppercase;color:var(--ink-3)}
+h1{margin:8px 0 12px;font:600 26px/1.25 var(--sans);letter-spacing:-.01em}
+p{margin:0 0 14px;color:var(--ink-2)}
+ul{margin:0 0 20px;padding-left:20px;color:var(--ink-2)}
+li{margin-bottom:5px}
+.btn{display:inline-block;border:1px solid var(--accent);background:var(--accent);
+     color:#fff;padding:9px 18px;border-radius:2px;text-decoration:none;font-size:15px}
+.btn:hover{background:#1a4267}
+.btn-plain{background:var(--surface);color:var(--ink);border-color:var(--rule);margin-left:8px}
+.btn-plain:hover{background:var(--surface-2)}
+.hr{height:1px;background:var(--rule);border:0;margin:24px 0 18px}
+.small{font-size:13px;color:var(--ink-3)}
+</style>
+</head>
+<body>
+<div class="shell">PTE Academic Practice</div>
+<main>
+  <div class="card">
+    <div class="code">Error 404</div>
+    <h1>That page does not exist</h1>
+    <p>There is only one page in this app, so a link to anything else was either
+       mistyped or has changed.</p>
+    <ul>
+      <li>Check the address for a stray character.</li>
+      <li>If you followed a link from somewhere else, it may be out of date.</li>
+      <li>If you bookmarked a page mid-test, go back to the start instead — progress
+          is saved in your browser, not in the address.</li>
+    </ul>
+    <a class="btn" id="home" href="/">Go to the practice tests</a>
+    <a class="btn btn-plain" href="javascript:history.back()">Back</a>
+    <hr class="hr">
+    <p class="small">Your saved attempts, settings and API key are stored in this
+       browser and are unaffected by this error.</p>
+  </div>
+</main>
+<script>
+// A project site lives under /<repo>/, a user site at the domain root, and the
+// failing URL alone cannot tell them apart. Assume the root, then confirm whether
+// the first path segment is really a project before switching to it.
+(function(){
+  var link  = document.getElementById('home');
+  var parts = location.pathname.split('/').filter(Boolean);
+  if(!parts.length) return;
+  var candidate = '/' + parts[0] + '/';
+  fetch(candidate + 'tests/manifest.json', {method:'HEAD'})
+    .then(function(r){ if(r.ok) link.setAttribute('href', candidate); })
+    .catch(function(){});
+})();
+</script>
+</body>
+</html>
