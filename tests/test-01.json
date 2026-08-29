@@ -1,0 +1,962 @@
+{
+ "no": 1,
+ "title": "Practice Test 1",
+ "source": "hand-written",
+ "format": "PTE Academic, 2025 revision (22 task types)",
+ "speaking": [
+  {
+   "type": "ra",
+   "text": "Coastal wetlands absorb carbon at rates far exceeding those of tropical forests, storing it in waterlogged soils where decomposition proceeds slowly. When these habitats are drained for agriculture or development, centuries of accumulated carbon are released within a few decades."
+  },
+  {
+   "type": "ra",
+   "text": "The invention of the mechanical clock reorganised European working life long before industrialisation. Once labour could be measured in uniform hours rather than by the completion of a task, employers gained a new instrument for calculating the value of a working day."
+  },
+  {
+   "type": "ra",
+   "text": "Antibiotic resistance does not arise because bacteria learn to withstand treatment. It emerges because resistant individuals already present in a population survive and reproduce while susceptible ones die, an ordinary case of natural selection accelerated by heavy clinical use."
+  },
+  {
+   "type": "ra",
+   "text": "Cartographers have never simply recorded terrain. Every projection distorts something, and the choice of what to preserve, area, shape, or direction, reflects the purposes the map was drawn to serve rather than any neutral property of the earth itself."
+  },
+  {
+   "type": "ra",
+   "text": "Volcanic ash layers provide archaeologists with unusually precise chronological markers. Because a single eruption deposits chemically distinctive ash across an entire region within days, sites separated by hundreds of kilometres can be correlated with remarkable confidence."
+  },
+  {
+   "type": "ra",
+   "text": "Peer review was not a founding feature of scientific publishing. For much of the nineteenth century editors decided alone what merited print, and the anonymous referee system familiar to researchers today became standard only after the Second World War."
+  }
+ ],
+ "repeat": [
+  {
+   "type": "rs",
+   "text": "The seminar has been moved to the lecture theatre on the second floor."
+  },
+  {
+   "type": "rs",
+   "text": "Please submit your literature review before the end of next week."
+  },
+  {
+   "type": "rs",
+   "text": "Most of the samples were contaminated during transport to the laboratory."
+  },
+  {
+   "type": "rs",
+   "text": "Attendance at the fieldwork briefing is compulsory for all first-year students."
+  },
+  {
+   "type": "rs",
+   "text": "The findings contradict the assumptions made in the original proposal."
+  },
+  {
+   "type": "rs",
+   "text": "Applications for research funding close at midnight on Friday."
+  },
+  {
+   "type": "rs",
+   "text": "She argued that the evidence was too fragmentary to support the conclusion."
+  },
+  {
+   "type": "rs",
+   "text": "The library will remain open during the examination period."
+  },
+  {
+   "type": "rs",
+   "text": "Participants were asked to record their sleep patterns for a fortnight."
+  },
+  {
+   "type": "rs",
+   "text": "There is little agreement among economists about the cause of the decline."
+  }
+ ],
+ "images": [
+  {
+   "type": "di",
+   "chart": {
+    "kind": "bar",
+    "title": "Household waste by disposal method, 2015 and 2024",
+    "unit": "% of total household waste",
+    "xLabel": "Disposal method",
+    "categories": [
+     "Landfill",
+     "Recycling",
+     "Composting",
+     "Incineration"
+    ],
+    "series": [
+     {
+      "name": "2015",
+      "values": [
+       48,
+       27,
+       11,
+       14
+      ]
+     },
+     {
+      "name": "2024",
+      "values": [
+       29,
+       36,
+       18,
+       17
+      ]
+     }
+    ],
+    "summary": "Landfill fell sharply from 48 to 29 per cent while recycling rose from 27 to 36 and composting rose from 11 to 18. Incineration was nearly flat at 14 then 17. A strong answer names the largest change (landfill down 19 points), the direction of the two rises, and the one category that barely moved.",
+    "source": "Chart drawn from the data shown."
+   }
+  },
+  {
+   "type": "di",
+   "chart": {
+    "kind": "line",
+    "title": "Average monthly rainfall, two river basins",
+    "unit": "millimetres",
+    "xLabel": "Month",
+    "categories": [
+     "Jan",
+     "Feb",
+     "Mar",
+     "Apr",
+     "May",
+     "Jun",
+     "Jul",
+     "Aug",
+     "Sep",
+     "Oct",
+     "Nov",
+     "Dec"
+    ],
+    "series": [
+     {
+      "name": "Northern basin",
+      "values": [
+       92,
+       78,
+       66,
+       49,
+       38,
+       25,
+       19,
+       24,
+       41,
+       68,
+       88,
+       101
+      ]
+     },
+     {
+      "name": "Southern basin",
+      "values": [
+       18,
+       22,
+       35,
+       61,
+       84,
+       112,
+       127,
+       119,
+       86,
+       52,
+       31,
+       21
+      ]
+     }
+    ],
+    "summary": "The two basins are in opposition. The northern basin peaks in December at 101 mm and bottoms in July at 19 mm; the southern peaks in July at 127 mm and bottoms in January at 18 mm. A strong answer states that the patterns are inverted, gives both peaks with months and figures, and notes the crossover points in April and September.",
+    "source": "Chart drawn from the data shown."
+   }
+  },
+  {
+   "type": "di",
+   "chart": {
+    "kind": "map",
+    "title": "Proposed redevelopment of the harbour district",
+    "legend": "Existing site above, proposal below",
+    "panels": [
+     {
+      "label": "Present",
+      "features": [
+       {
+        "t": "water",
+        "x": 0,
+        "y": 70,
+        "w": 100,
+        "h": 30,
+        "name": "Harbour"
+       },
+       {
+        "t": "block",
+        "x": 8,
+        "y": 12,
+        "w": 26,
+        "h": 34,
+        "name": "Warehouses"
+       },
+       {
+        "t": "block",
+        "x": 40,
+        "y": 16,
+        "w": 20,
+        "h": 26,
+        "name": "Car park"
+       },
+       {
+        "t": "block",
+        "x": 66,
+        "y": 10,
+        "w": 26,
+        "h": 36,
+        "name": "Freight depot"
+       },
+       {
+        "t": "road",
+        "x": 0,
+        "y": 52,
+        "w": 100,
+        "h": 6,
+        "name": "Dock Road"
+       }
+      ]
+     },
+     {
+      "label": "Proposed",
+      "features": [
+       {
+        "t": "water",
+        "x": 0,
+        "y": 70,
+        "w": 100,
+        "h": 30,
+        "name": "Harbour"
+       },
+       {
+        "t": "park",
+        "x": 6,
+        "y": 50,
+        "w": 88,
+        "h": 18,
+        "name": "Waterfront park"
+       },
+       {
+        "t": "block",
+        "x": 8,
+        "y": 10,
+        "w": 24,
+        "h": 30,
+        "name": "Apartments"
+       },
+       {
+        "t": "block",
+        "x": 38,
+        "y": 8,
+        "w": 24,
+        "h": 32,
+        "name": "Museum"
+       },
+       {
+        "t": "block",
+        "x": 68,
+        "y": 12,
+        "w": 24,
+        "h": 28,
+        "name": "Hotel"
+       },
+       {
+        "t": "road",
+        "x": 0,
+        "y": 43,
+        "w": 100,
+        "h": 5,
+        "name": "Promenade"
+       }
+      ]
+     }
+    ],
+    "summary": "Two site plans of the same harbour district. The present plan shows warehouses, a car park and a freight depot behind Dock Road. The proposal replaces all three with apartments, a museum and a hotel, converts Dock Road into a promenade, and inserts a waterfront park between the buildings and the harbour. A strong answer compares the two directly rather than describing each in turn, and notes that industrial use has been replaced by residential, cultural and leisure use.",
+    "source": "Chart drawn from the data shown."
+   }
+  }
+ ],
+ "lecture": [
+  {
+   "type": "rl",
+   "transcript": "Today I want to talk about why cities are consistently warmer than the countryside around them, a phenomenon we call the urban heat island effect. On a still summer night, a large city can sit five, sometimes eight degrees warmer than farmland only twenty kilometres away. There are three main causes. First, materials. Concrete, brick and asphalt have high thermal mass. They absorb solar radiation throughout the day and release it slowly after sunset, which is why the temperature gap peaks at night rather than at noon, as most people assume. Second, geometry. Streets flanked by tall buildings form what we call urban canyons. Heat radiating upward from a road is intercepted by the walls on either side and reflected back down, so it escapes far more slowly than it would from open ground. Third, and this one is often underestimated, is the absence of vegetation. A mature tree moves hundreds of litres of water into the air each day through transpiration, and every litre evaporated removes heat. Replace that tree with paving and you have removed a cooling system. Now, why does this matter? Because heat mortality is not evenly distributed. It concentrates in dense, low-income neighbourhoods where tree cover is thinnest and air conditioning is least affordable. So the heat island is not simply a meteorological curiosity. It is a public health problem, and increasingly it is treated as a planning problem too.",
+   "key": [
+    "cities are several degrees warmer than surrounding land, peaking at night",
+    "thermal mass of concrete and asphalt stores and re-releases heat",
+    "urban canyons trap radiating heat between tall buildings",
+    "loss of vegetation removes evaporative cooling",
+    "heat mortality concentrates in low-income neighbourhoods, making it a planning problem"
+   ]
+  },
+  {
+   "type": "rl",
+   "transcript": "I want to spend this session on something that sounds procedural but has shaped modern science more than most discoveries: the control group. The idea seems obvious now. If you want to know whether a treatment works, you compare people who received it with otherwise similar people who did not. But it took an extraordinarily long time to become standard, and the reason is instructive. For most of medical history the comparison was made against expectation. A physician knew, from experience, roughly how patients with a given condition tended to fare, and judged a new remedy against that impression. The trouble is that impressions are formed from memorable cases, and memorable cases are not representative. James Lind's scurvy trial in 1747 is usually cited as the first properly controlled experiment, and it is worth noticing what made it work. He took twelve sailors with similar symptoms, kept their diet identical, and varied only the supplement. Two got citrus and recovered. The rest did not. The design, not the citrus, is the contribution. What came much later, and mattered just as much, was randomisation. Assigning patients deliberately, however fairly you intend to be, smuggles in your own judgement about who is likely to benefit. Allocating by chance removes that. And later still came blinding, because a physician who knows which patient received the treatment will observe that patient differently, not dishonestly, but differently. Each of these is a way of subtracting the observer from the observation. That is really what a controlled trial is for.",
+   "key": [
+    "comparison used to be made against a physician's impression rather than a control group",
+    "impressions are built from memorable, unrepresentative cases",
+    "Lind's 1747 scurvy trial: identical conditions, one variable",
+    "the design rather than the citrus was the contribution",
+    "randomisation removes the researcher's judgement from allocation",
+    "blinding removes the observer's influence on observation"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "type": "asq",
+   "q": "What do we call the frozen form of water that falls from clouds in soft white flakes?",
+   "a": [
+    "snow"
+   ]
+  },
+  {
+   "type": "asq",
+   "q": "If a book is described as fiction, is the story invented or factual?",
+   "a": [
+    "invented",
+    "made up",
+    "fictional",
+    "not factual",
+    "imaginary"
+   ]
+  },
+  {
+   "type": "asq",
+   "q": "Which instrument would a doctor use to listen to a patient's heartbeat?",
+   "a": [
+    "stethoscope"
+   ]
+  },
+  {
+   "type": "asq",
+   "q": "What is the term for a scientist who studies the weather?",
+   "a": [
+    "meteorologist"
+   ]
+  },
+  {
+   "type": "asq",
+   "q": "If a shop reduces its prices, does it raise them or lower them?",
+   "a": [
+    "lower",
+    "lowers",
+    "lower them",
+    "reduce",
+    "reduces"
+   ]
+  }
+ ],
+ "discussion": [
+  {
+   "type": "sgd",
+   "turns": [
+    {
+     "speaker": "Priya",
+     "text": "I still think the department should keep lectures recorded. Attendance dropped, yes, but the students who stopped coming were mostly the ones commuting two hours each way."
+    },
+    {
+     "speaker": "Tom",
+     "text": "That's the argument I keep hearing and I don't buy it. Attendance fell across the board, not just among commuters. The recordings became a reason to postpone, and postponed work does not get done."
+    },
+    {
+     "speaker": "Priya",
+     "text": "Postponed is not the same as abandoned though. The exam results didn't fall."
+    },
+    {
+     "speaker": "Tom",
+     "text": "They didn't fall this year. I'd want three years of data before calling that settled."
+    },
+    {
+     "speaker": "Anna",
+     "text": "Could we separate the two things? Record the lectures, but make the seminars compulsory and unrecorded. The lecture is information transfer. The seminar is the part that actually needs people in a room."
+    },
+    {
+     "speaker": "Tom",
+     "text": "That I could live with. My objection was never to recording as such, it was to removing every reason to turn up."
+    },
+    {
+     "speaker": "Priya",
+     "text": "Then we agree on the mechanism and disagree only about how much of the timetable it should apply to."
+    }
+   ],
+   "key": [
+    "Priya defends recorded lectures, citing commuting students",
+    "Tom argues attendance fell generally and that recordings encourage postponement",
+    "Tom questions the exam-results evidence as too short-run",
+    "Anna proposes a compromise: record lectures, keep seminars compulsory and unrecorded",
+    "Tom accepts the compromise; the disagreement narrows to scope rather than principle"
+   ]
+  },
+  {
+   "type": "sgd",
+   "turns": [
+    {
+     "speaker": "Daniel",
+     "text": "The costing only works if we assume the panels last twenty-five years. Every figure in the proposal depends on that one number."
+    },
+    {
+     "speaker": "Mei",
+     "text": "Twenty-five is the manufacturer's warranty, not a guess. It's a conservative figure if anything."
+    },
+    {
+     "speaker": "Daniel",
+     "text": "A warranty tells you what they'll replace, not what the output will be. Efficiency degrades long before the panel fails."
+    },
+    {
+     "speaker": "Mei",
+     "text": "Fair. Though degradation is about half a per cent a year, which over twenty-five years is maybe twelve per cent. It doesn't overturn the case."
+    },
+    {
+     "speaker": "Ravi",
+     "text": "What worries me more is the roof. We've budgeted nothing for reinforcing it, and the survey flagged the north side as marginal."
+    },
+    {
+     "speaker": "Mei",
+     "text": "That's a real gap. It's also a one-off cost we could quantify in a week if we asked the surveyor back."
+    },
+    {
+     "speaker": "Daniel",
+     "text": "Then let's not approve the figures until we have it. I'm not against the project, I'm against pretending the number is firm when it isn't."
+    }
+   ],
+   "key": [
+    "Daniel challenges the assumption that panels last twenty-five years",
+    "Mei defends it as the manufacturer's warranty and conservative",
+    "Daniel distinguishes warranty from efficiency degradation; Mei concedes but quantifies it as about twelve per cent",
+    "Ravi raises an unbudgeted roof reinforcement flagged by the survey",
+    "the group agrees to defer approval until the roof cost is quantified"
+   ]
+  }
+ ],
+ "situation": [
+  {
+   "type": "rts",
+   "situation": "You share a flat with two other students. One of them has started leaving the kitchen in a poor state most mornings, and it has begun to affect the whole household. You get on well with them otherwise and do not want a confrontation.",
+   "task": "Speak to your flatmate about the kitchen.",
+   "key": [
+    "raises the issue directly rather than hinting",
+    "stays polite and preserves the relationship",
+    "describes the specific behaviour rather than the person's character",
+    "proposes a workable arrangement",
+    "uses register appropriate to a peer, not a formal complaint"
+   ]
+  },
+  {
+   "type": "rts",
+   "situation": "You submitted an assignment two days late because you were ill. Your tutor has emailed to say the standard late penalty will apply. You have a medical certificate but did not submit it at the time because you did not know the procedure.",
+   "task": "Reply to your tutor.",
+   "key": [
+    "explains the circumstances without making excuses",
+    "acknowledges the missed procedure rather than disputing the rule",
+    "states clearly that a medical certificate exists and offers it",
+    "makes a specific request",
+    "maintains a respectful register appropriate to a tutor"
+   ]
+  }
+ ],
+ "swt": [
+  {
+   "type": "swt",
+   "passage": "For most of the twentieth century, forests were understood as collections of individual trees competing for light, water and nutrients. Since the 1990s that picture has been substantially revised. Beneath the soil, the roots of most forest trees are colonised by mycorrhizal fungi, which extend filaments many times finer than the finest root hair into the surrounding soil. The fungi supply the tree with phosphorus and nitrogen that its roots could not otherwise reach; in exchange the tree delivers sugars manufactured by photosynthesis. Because a single fungal network may connect dozens of trees of several species, the forest floor is threaded with a shared infrastructure that researchers have described, not entirely helpfully, as the wood wide web. Isotope tracing has demonstrated that carbon moves through these networks from tree to tree, and that the direction of flow is not random: it tends to run from trees in full sun towards shaded seedlings, and from healthy individuals towards those under stress. Some researchers interpret this as cooperation, arguing that mature trees subsidise their offspring. Others are sceptical, pointing out that the fungus is not a neutral pipe but an organism with interests of its own, and that carbon moving between trees may simply be carbon the fungus has taken for itself and happened to redistribute. What is no longer disputed is that the unit of forest ecology cannot be the isolated tree.",
+   "key": [
+    "mycorrhizal fungi connect tree roots",
+    "fungi trade nutrients for sugars",
+    "carbon moves between trees, often to shaded or stressed ones",
+    "researchers disagree whether this is cooperation or fungal self-interest"
+   ]
+  },
+  {
+   "type": "swt",
+   "passage": "The standard account of why the Roman Empire adopted concrete emphasises the material's strength, but its real advantage was organisational. Cut stone requires skilled masons, and skilled masons are scarce, slow and expensive. Roman concrete required a supervisor who understood the mix and a large body of unskilled labour who did not. That single fact changed what the state could build and how fast. A vaulted structure that would have taken a generation in ashlar could be raised in a few years by soldiers between campaigns. The material also tolerated interruption: a wall could be left half-poured through a winter and resumed without the joint failing, which is not true of most masonry. Historians of technology have argued that this is the general pattern for transformative materials. What matters is rarely the property advertised in the textbooks, but the way the material redistributes who is needed to work with it. Concrete did not simply make Roman buildings stronger. It made them possible for an institution that had abundant manpower and a chronic shortage of craftsmen.",
+   "key": [
+    "concrete's real advantage was organisational rather than structural",
+    "it substituted unskilled labour for scarce skilled masons",
+    "this changed the speed and scale of what the state could build",
+    "it tolerated interrupted work, unlike masonry",
+    "transformative materials matter for how they redistribute required skills"
+   ]
+  }
+ ],
+ "essay": [
+  {
+   "type": "we",
+   "prompt": "Some people believe that universities should prioritise subjects that lead directly to employment, while others argue that the value of higher education lies in learning that has no immediate practical use. Discuss both views and give your own opinion. Write 200-300 words."
+  }
+ ],
+ "reading": [
+  {
+   "type": "rwfib",
+   "text": "The domestication of the horse ___0___ human mobility more profoundly than any technology before the steam engine. Archaeological evidence from the Eurasian steppe ___1___ that horses were being ridden by the fourth millennium BCE, though the earliest riders left no written record of their achievement. What is clear is that the ___2___ of horse and rider collapsed distances that had previously confined communities to the territory they could cross on foot, and in doing so it ___3___ the geography of trade, warfare and disease.",
+   "blanks": [
+    {
+     "options": [
+      "altered",
+      "alerted",
+      "allotted",
+      "alleviated"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "suggests",
+      "suspects",
+      "supposes",
+      "suspends"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "combination",
+      "commission",
+      "competition",
+      "compilation"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "redrew",
+      "recalled",
+      "reduced",
+      "recovered"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "type": "rwfib",
+   "text": "Museums have begun to ___0___ their collections rather than simply expand them. For decades acquisition was treated as an unqualified good, but storage costs and ethical pressure over ___1___ objects have forced a reckoning. Some institutions now ___2___ items to communities of origin; others deaccession works that duplicate holdings elsewhere. Critics warn that curatorial judgement is ___3___ and that today's surplus may be tomorrow's essential record.",
+   "blanks": [
+    {
+     "options": [
+      "scrutinise",
+      "scramble",
+      "scatter",
+      "screen"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "looted",
+      "located",
+      "lodged",
+      "logged"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "repatriate",
+      "replicate",
+      "reprimand",
+      "reproduce"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "fallible",
+      "flexible",
+      "fashionable",
+      "favourable"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "type": "rwfib",
+   "text": "Sleep researchers once assumed that the brain simply ___0___ during sleep. It is now understood to be intensely active, ___1___ the day's experience and clearing metabolic waste through channels that widen when we are unconscious. Chronic short sleep is therefore not merely ___2___; it interferes with a maintenance process on which cognition ___3___.",
+   "blanks": [
+    {
+     "options": [
+      "idled",
+      "idolised",
+      "idealised",
+      "identified"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "consolidating",
+      "condensing",
+      "condemning",
+      "conceding"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "tiring",
+      "timely",
+      "tiresome",
+      "timid"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "depends",
+      "descends",
+      "detracts",
+      "deters"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "type": "rwfib",
+   "text": "Tidal power has an advantage no other renewable source can ___0___: it is entirely predictable. Wind and sunlight fluctuate with weather, but tides follow the motion of the moon and can be ___1___ decades in advance. The obstacle is cost. Building structures that survive ___2___ immersion in salt water is expensive, and the estuaries best ___3___ to generation are often ecologically sensitive.",
+   "blanks": [
+    {
+     "options": [
+      "match",
+      "mask",
+      "mount",
+      "mend"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "forecast",
+      "forfeited",
+      "forged",
+      "formulated"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "permanent",
+      "permissive",
+      "persuasive",
+      "pervasive"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "suited",
+      "settled",
+      "secured",
+      "sustained"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "type": "rwfib",
+   "text": "Translators have long argued about whether ___0___ to the words of a text or to its effect. A literal rendering may preserve every term and still ___1___ the reader entirely, while a free translation that reads beautifully may quietly ___2___ meanings the author never intended. Most working translators accept that some ___3___ is unavoidable.",
+   "blanks": [
+    {
+     "options": [
+      "fidelity is owed",
+      "fidelity is owned",
+      "futility is owed",
+      "fidelity is over"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "mislead",
+      "misplace",
+      "mistake",
+      "mishear"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "introduce",
+      "intrude",
+      "intercept",
+      "interpret"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "loss",
+      "lease",
+      "load",
+      "lapse"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "type": "rmcma",
+   "passage": "The claim that reading fiction improves empathy has become a staple of literary advocacy, and it rests on a genuine experimental finding: participants asked to read a short literary story before a test of emotion recognition tend to score slightly better than those given non-fiction or popular fiction. The effect, however, is small, and several attempts to replicate it have failed. There is also an obvious confound. People who already possess strong social intuition may simply be more inclined to seek out fiction in the first place, in which case the reading does not cause the empathy but reflects it. Longitudinal work would settle the question, but it is expensive and rarely funded. None of this means the claim is false. It means the confidence with which it is repeated exceeds the evidence supporting it, which is a common enough failing whenever a research result flatters an audience's existing convictions.",
+   "q": "Which of the following are stated or clearly implied by the passage?",
+   "options": [
+    "Replication attempts have not consistently reproduced the original finding.",
+    "The direction of causation between reading fiction and empathy is uncertain.",
+    "The author concludes that fiction has no effect on empathy.",
+    "Longitudinal studies on the question are scarce partly because of funding.",
+    "Popular fiction was found to improve emotion recognition more than literary fiction."
+   ],
+   "answers": [
+    0,
+    1,
+    3
+   ]
+  },
+  {
+   "type": "ro",
+   "paras": [
+    "In 1854 a severe outbreak of cholera struck the Soho district of London, killing more than five hundred people in ten days.",
+    "The prevailing explanation was miasma: the belief that disease spread through foul air rising from waste and stagnant water.",
+    "John Snow, a local physician, doubted this and instead plotted every death on a street map of the neighbourhood.",
+    "The resulting cluster pointed unmistakably at a single public water pump on Broad Street.",
+    "Snow persuaded the parish authorities to remove the pump handle, and although the epidemic was already subsiding, the map itself became the more durable contribution."
+   ]
+  },
+  {
+   "type": "ro",
+   "paras": [
+    "Glass is among the few materials that can be recycled endlessly without any loss of quality.",
+    "In practice, however, much of it never re-enters the manufacturing stream at all.",
+    "Mixed-colour collection is the principal culprit, because green, brown and clear glass cannot be melted together for new containers.",
+    "Contaminated batches are therefore diverted to low-value uses such as road aggregate.",
+    "Countries that require households to separate glass by colour recover a far higher proportion for genuine reuse."
+   ]
+  },
+  {
+   "type": "rfib",
+   "text": "Language documentation is a race against ___0___. Of the roughly seven thousand languages spoken today, linguists ___1___ that around half will have no fluent speakers by the end of the century. When a language disappears it takes with it a ___2___ system for describing landscape, kinship and time that may exist nowhere else. Recording grammar and vocabulary preserves some of this, but a dictionary is not a ___3___ community, and revival efforts succeed only where a younger generation has practical ___4___ to use what has been written down.",
+   "bank": [
+    "time",
+    "estimate",
+    "distinct",
+    "speaking",
+    "reason",
+    "memory",
+    "conclude",
+    "ordinary",
+    "listening",
+    "permission"
+   ],
+   "answers": [
+    "time",
+    "estimate",
+    "distinct",
+    "speaking",
+    "reason"
+   ]
+  },
+  {
+   "type": "rfib",
+   "text": "Public transport planners increasingly design networks around ___0___ rather than coverage. A route that runs every five minutes will be used ___1___ by people who have no timetable, whereas an hourly service demands ___2___ and is abandoned at the first inconvenience. Concentrating resources on fewer, more ___3___ corridors therefore raises total ridership, though it inevitably leaves some neighbourhoods worse ___4___.",
+   "bank": [
+    "frequency",
+    "casually",
+    "planning",
+    "frequent",
+    "served",
+    "distance",
+    "rarely",
+    "spending",
+    "crowded",
+    "placed"
+   ],
+   "answers": [
+    "frequency",
+    "casually",
+    "planning",
+    "frequent",
+    "served"
+   ]
+  },
+  {
+   "type": "rfib",
+   "text": "The Antikythera mechanism, recovered from a Roman-era shipwreck in 1901, remained ___0___ for decades. Corroded into a lump, it revealed its ___1___ only under X-ray imaging, which exposed more than thirty interlocking bronze gears. The device ___2___ the positions of the sun and moon and predicted eclipses, a level of mechanical ___3___ not matched again in Europe for well over a thousand ___4___.",
+   "bank": [
+    "unintelligible",
+    "structure",
+    "calculated",
+    "sophistication",
+    "years",
+    "unavoidable",
+    "surface",
+    "collected",
+    "simplicity",
+    "months"
+   ],
+   "answers": [
+    "unintelligible",
+    "structure",
+    "calculated",
+    "sophistication",
+    "years"
+   ]
+  },
+  {
+   "type": "rfib",
+   "text": "Salt was once so ___0___ that it functioned as currency across much of the ancient world. Its value lay not in ___1___ but in preservation: before refrigeration, salting was the only ___2___ means of carrying protein through a winter. States that controlled production could therefore ___3___ a tax that was almost impossible to ___4___, which is why salt monopolies outlasted most other forms of royal privilege.",
+   "bank": [
+    "precious",
+    "flavour",
+    "reliable",
+    "impose",
+    "avoid",
+    "plentiful",
+    "colour",
+    "risky",
+    "abolish",
+    "ignore"
+   ],
+   "answers": [
+    "precious",
+    "flavour",
+    "reliable",
+    "impose",
+    "avoid"
+   ]
+  },
+  {
+   "type": "rmcsa",
+   "passage": "Economists have struggled to explain why productivity growth in wealthy countries slowed sharply after 2005, precisely as digital technology became ubiquitous. One school argues that the measurements are simply wrong, and that free digital services generate value the national accounts were never designed to capture. A second holds that the genuinely transformative inventions, electrification, sanitation, the internal combustion engine, were made long ago, and that recent innovation, however impressive, changes less about how work is actually done. A third points to the concentration of digital markets: where a few firms dominate, the pressure to improve diminishes. The three accounts are not mutually exclusive, and the fact that each has serious defenders suggests the honest answer is that nobody yet knows.",
+   "q": "What is the author's overall position?",
+   "options": [
+    "Digital technology has clearly failed to improve productivity.",
+    "The slowdown is best explained by mismeasurement.",
+    "No single explanation has yet been established as correct.",
+    "Market concentration is the most persuasive of the three accounts."
+   ],
+   "answer": 2
+  },
+  {
+   "type": "rmcsa",
+   "passage": "There is a common assumption that standardised spelling is a mark of a mature written language, and that its absence indicates carelessness. The history of English suggests otherwise. Before the eighteenth century, educated writers spelled the same word several ways within a single letter without any sense of impropriety, and did so because spelling was understood as a representation of sound rather than a fixed visual form. What changed was not literacy but printing economics: printers needed to set type quickly and consistently across large runs, and dictionaries codified what the print trade had already begun to enforce. The standard we inherited is therefore an industrial artefact rather than a linguistic achievement, which is worth remembering whenever it is invoked as evidence of decline.",
+   "q": "Which statement best captures the author's argument?",
+   "options": [
+    "Standardised spelling emerged from the practical demands of printing rather than from rising literacy.",
+    "English spelling became standardised because dictionaries improved in accuracy during the eighteenth century.",
+    "Writers before the eighteenth century were less careful than modern writers about written language.",
+    "Standardised spelling is evidence that a written language has reached maturity."
+   ],
+   "answer": 0
+  }
+ ],
+ "listening": [
+  {
+   "type": "sst",
+   "transcript": "What I want to look at this morning is the strange career of the placebo, because it tells us something important about how medicine tests itself. For most of history, the placebo was regarded as a nuisance. If a patient improved after taking an inert substance, that improvement was noise, something to be subtracted before you could see the real effect of the drug. That assumption held until researchers began measuring the noise carefully, and found it was not noise at all. Placebo responses are large, they are consistent, and in some conditions, pain and depression especially, they account for the majority of the benefit patients report. More striking still, they behave like real treatments. A larger placebo pill works better than a smaller one. An injection of saline outperforms a saline tablet. Placebos in branded packaging outperform identical placebos in plain wrapping. None of this makes sense if the effect is merely imaginary. What appears to be happening is that the ritual surrounding treatment, the consultation, the expectation, the act of being cared for, triggers measurable physiological change, including the release of endogenous opioids. And here is the awkward implication. If the ceremony of medicine is itself therapeutic, then the randomised controlled trial, which was designed to strip the ceremony away and isolate the chemistry, may systematically understate what actually helps patients in a clinic. That does not mean we should abandon trials. It means we should stop treating the placebo as the thing we are controlling for, and start treating it as a thing worth studying.",
+   "key": [
+    "placebos were long dismissed as noise to be subtracted",
+    "measured responses are large and consistent, especially for pain and depression",
+    "they behave like real treatments and respond to dose, form and packaging",
+    "the ritual of care produces physiological change",
+    "this complicates what randomised trials actually measure"
+   ]
+  },
+  {
+   "type": "lmcma",
+   "transcript": "The department has reviewed how it assesses first-year students, and there will be three changes from September. First, the weighting of the final examination drops from seventy per cent to fifty. Second, we are introducing two pieces of coursework in place of the single essay, spread across the term so that you get feedback while there is still time to act on it. Third, and this is the one that generates the most questions, group work will now be individually assessed. You will still work in teams, but each of you submits your own analysis of the shared data, and you are marked on that. We made this change because the previous arrangement penalised conscientious students in unequal groups. What is not changing is the pass mark, or the deadline extension policy, both of which remain as published in the handbook.",
+   "q": "According to the speaker, which changes are being introduced?",
+   "options": [
+    "The final examination will carry less weight.",
+    "Group work will be assessed individually.",
+    "The pass mark will be lowered.",
+    "Coursework will be spread across the term.",
+    "The deadline extension policy is being revised."
+   ],
+   "answers": [
+    0,
+    1,
+    3
+   ]
+  },
+  {
+   "type": "lfib",
+   "transcript": "Deep-sea mining is often presented as a [necessary] step towards the energy transition, since the nodules scattered across the abyssal plain contain cobalt and nickel in [concentrations] that exceed most land deposits. What that framing omits is the [timescale] of recovery. Tracks cut into the seabed by test equipment in the nineteen seventies remain clearly [visible] today, and the communities that lived in the disturbed sediment have not returned. Biologists point out that we are proposing to [industrialise] the least explored environment on the planet before we have described most of the species living in it."
+  },
+  {
+   "type": "lfib",
+   "transcript": "The oldest known musical instruments are flutes carved from bird bone and mammoth [ivory], found in caves in southern Germany and dated to roughly forty thousand years ago. Their existence tells us something [remarkable]: that within a few thousand years of arriving in Europe, modern humans were producing objects with no [practical] function whatsoever. Making a flute from a hollow bone requires planning, [precision] and the expectation that others will understand what the sound is for. Music, in other words, is not a late [refinement] of culture. It appears to have been present from the beginning."
+  },
+  {
+   "type": "hcs",
+   "transcript": "There is a persistent belief that the Great Wall of China is visible from space with the naked eye, and it is worth examining why it survives despite being untrue. Astronauts have consistently reported that it is not visible from low earth orbit, and the reason is straightforward: the wall is long but extremely narrow, roughly the width of a motorway, and it is built from local material that matches the surrounding terrain in colour. Resolution, not scale, is what matters. What is interesting is that the claim predates spaceflight entirely. It appears in print in the 1930s, decades before anyone could have checked, apparently as a rhetorical flourish about the wall's enormity. Once repeated in enough school textbooks it acquired the authority of common knowledge, and no amount of testimony from people who have actually been to space seems able to dislodge it.",
+   "options": [
+    "The Great Wall cannot be seen from orbit because it is narrow and matches the surrounding landscape in colour. The claim that it can be seen predates spaceflight and persisted because it was widely repeated in textbooks.",
+    "Astronauts have confirmed that the Great Wall is visible from low earth orbit, though only under favourable lighting conditions, which is why the claim continues to circulate.",
+    "The Great Wall is the largest human structure ever built, and its visibility from space has been debated by astronomers since the 1930s without resolution.",
+    "School textbooks in the 1930s correctly reported that the Great Wall could be seen from space, but modern imaging has since shown the claim to be an exaggeration."
+   ],
+   "answer": 0
+  },
+  {
+   "type": "lmcsa",
+   "transcript": "I should say something about how we date the arrival of people in Australia, because the number you will see quoted, sixty-five thousand years, is more contested than most textbooks admit. It comes from optically stimulated luminescence dating at a single rock shelter in the Northern Territory. The technique measures how long buried quartz grains have been shielded from sunlight, and it is genuinely powerful, but it dates the sediment rather than the artefacts within it. If those artefacts have moved downward through the deposit over tens of thousands of years, and there are mechanisms by which that can happen, the date attaches to the wrong layer. Most specialists still accept the finding. What they resist is the way a single site, however carefully excavated, gets converted into a settled fact.",
+   "q": "What is the speaker's main concern about the sixty-five thousand year date?",
+   "options": [
+    "The luminescence technique has been shown to be unreliable.",
+    "A result from one site is being treated with more certainty than it warrants.",
+    "Most specialists now reject the finding entirely.",
+    "The artefacts at the site have been proven to be intrusive."
+   ],
+   "answer": 1
+  },
+  {
+   "type": "smw",
+   "transcript": "The difficulty with restoring a wetland is that hydrology has to come first. Planting the right species into ground that no longer floods on the right schedule produces a garden, not a marsh. So the initial work is unglamorous: blocking drainage ditches, removing embankments, and then waiting, sometimes for several years, to see where the water actually [BEEP].",
+   "options": [
+    "settles",
+    "evaporates",
+    "freezes",
+    "arrives"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "hiw",
+   "spoken": "The idea that we lose brain cells steadily throughout adulthood turns out to be largely a myth. Careful counting shows that the total number of neurons remains fairly stable into old age in most regions of the brain. What does change is connectivity. Synapses are pruned and rebuilt continuously, and the efficiency of that process declines. So cognitive ageing has less to do with losing hardware than with maintaining the wiring between the parts we already have.",
+   "swaps": {
+    "6": "gain",
+    "21": "unstable",
+    "44": "creativity",
+    "63": "increases",
+    "74": "software"
+   }
+  },
+  {
+   "type": "hiw",
+   "spoken": "Bicycle infrastructure produces a curious feedback effect that planners call safety in numbers. As the number of cyclists on a given road rises, the rate of collisions per cyclist tends to fall, even before any physical improvements are made. The most plausible explanation is behavioural. Drivers who encounter cyclists frequently begin to expect them, and expectation shortens reaction time considerably.",
+   "swaps": {
+    "9": "peculiar",
+    "26": "climbs",
+    "33": "rises",
+    "51": "behavioural",
+    "58": "rarely"
+   }
+  },
+  {
+   "type": "wfd",
+   "text": "The revised timetable will be published on the departmental website next week."
+  },
+  {
+   "type": "wfd",
+   "text": "Students must complete the ethics module before beginning any fieldwork."
+  },
+  {
+   "type": "wfd",
+   "text": "Several papers challenge the methodology used in the original survey."
+  }
+ ]
+}
