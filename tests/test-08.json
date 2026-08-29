@@ -1,0 +1,891 @@
+{
+ "no": 8,
+ "title": "Practice Test 8",
+ "source": "hand-written",
+ "format": "PTE Academic, 2025 revision (22 task types)",
+ "speaking": [
+  {
+   "type": "ra",
+   "text": "Most plants lose a portion of the carbon they fix because the enzyme responsible occasionally grabs oxygen instead. A minority of species evolved a preliminary step that concentrates carbon dioxide before the enzyme encounters it, and this modification allows them to thrive in hot, bright conditions where ordinary plants become inefficient."
+  },
+  {
+   "type": "ra",
+   "text": "Zero entered European mathematics late and met considerable resistance. A symbol for nothing seemed philosophically suspect, and several cities forbade its use in commercial accounts on the grounds that it was too easily altered. The objection was practical rather than mystical, and it delayed adoption by roughly two centuries."
+  },
+  {
+   "type": "ra",
+   "text": "Tall buildings became possible not when steel frames arrived but when someone made falling impossible. Elisha Otis demonstrated a brake that gripped the guide rails if the cable failed, and he did so by having the rope cut while he stood on the platform. Confidence, rather than height, was the obstacle."
+  },
+  {
+   "type": "ra",
+   "text": "The first synthetic dye was discovered by a student attempting to make a malaria treatment during a school holiday. The reaction failed and left a purple residue in the flask, and within a decade the colour had become a fashion across Europe, founding an industry that reshaped chemistry itself."
+  },
+  {
+   "type": "ra",
+   "text": "An ice shelf is not sea ice but the floating extension of a glacier, and its loss raises sea level almost not at all, because it was already displacing water. What matters is that the shelf acts as a buttress. Remove it and the land ice behind accelerates toward the ocean."
+  },
+  {
+   "type": "ra",
+   "text": "The Domesday Book recorded the ownership and value of almost every landholding in England within a single year. Its purpose was taxation rather than history, and the thoroughness that made it hated at the time is exactly what makes it the most complete portrait of any medieval society in Europe."
+  }
+ ],
+ "repeat": [
+  {
+   "type": "rs",
+   "text": "The deadline for the first assignment has been extended by a week."
+  },
+  {
+   "type": "rs",
+   "text": "Only a small proportion of applicants are offered an interview."
+  },
+  {
+   "type": "rs",
+   "text": "The instrument was designed and built entirely within the department."
+  },
+  {
+   "type": "rs",
+   "text": "Please read the safety instructions before entering the workshop."
+  },
+  {
+   "type": "rs",
+   "text": "Her findings contradict two of the assumptions in the standard model."
+  },
+  {
+   "type": "rs",
+   "text": "Copies of the report have been circulated to all members."
+  },
+  {
+   "type": "rs",
+   "text": "The soil samples were collected at three different depths."
+  },
+  {
+   "type": "rs",
+   "text": "Attendance at the induction session is required for all new students."
+  },
+  {
+   "type": "rs",
+   "text": "He revised the paper substantially after receiving the reviews."
+  },
+  {
+   "type": "rs",
+   "text": "The recording equipment failed during the second half of the interview."
+  }
+ ],
+ "images": [
+  {
+   "type": "di",
+   "chart": {
+    "kind": "bar",
+    "title": "Time spent on unpaid domestic and care work",
+    "unit": "minutes per day",
+    "xLabel": "Country",
+    "categories": [
+     "Country A",
+     "Country B",
+     "Country C",
+     "Country D"
+    ],
+    "series": [
+     {
+      "name": "Women",
+      "values": [
+       268,
+       341,
+       214,
+       297
+      ]
+     },
+     {
+      "name": "Men",
+      "values": [
+       136,
+       84,
+       171,
+       109
+      ]
+     }
+    ],
+    "summary": "Women spend more time than men on unpaid work in every country, but the gap varies widely. Country B shows the largest disparity, 341 minutes against 84, a ratio of roughly four to one. Country C is the most equal, 214 against 171, and also has the lowest female figure. Country A and D sit between. A strong answer expresses the gap as a ratio rather than only a difference, identifies B as most unequal and C as least, and notes that the country where women do least is also the one where men do most."
+   }
+  },
+  {
+   "type": "di",
+   "chart": {
+    "kind": "line",
+    "title": "Global mean sea level and glacier mass balance, 1995-2024",
+    "unit": "sea level in mm above 1995; glacier mass in negative gigatonnes",
+    "xLabel": "Year",
+    "categories": [
+     "1995",
+     "2000",
+     "2005",
+     "2010",
+     "2015",
+     "2020",
+     "2024"
+    ],
+    "series": [
+     {
+      "name": "Sea level rise (mm)",
+      "values": [
+       0,
+       14,
+       31,
+       50,
+       72,
+       96,
+       118
+      ]
+     },
+     {
+      "name": "Cumulative glacier loss (100 Gt)",
+      "values": [
+       0,
+       12,
+       29,
+       52,
+       79,
+       110,
+       141
+      ]
+     }
+    ],
+    "summary": "Both series rise throughout and both accelerate. Sea level climbs from the 1995 baseline to 118 mm, with the increase per five-year period growing from 14 mm to 22. Cumulative glacier loss rises from zero to 14,100 gigatonnes and accelerates more sharply, overtaking the sea level curve after about 2010. A strong answer states that neither line is straight, quantifies the acceleration rather than only describing the direction, and notes that glacier loss grows faster than sea level over the period shown."
+   }
+  },
+  {
+   "type": "di",
+   "chart": {
+    "kind": "table",
+    "title": "Four writing systems compared",
+    "headers": [
+     "System",
+     "Type",
+     "Symbols",
+     "Earliest evidence",
+     "Still in use"
+    ],
+    "rows": [
+     [
+      "Egyptian hieroglyphic",
+      "Logographic",
+      "~1000",
+      "3200 BC",
+      "No"
+     ],
+     [
+      "Phoenician",
+      "Consonantal",
+      "22",
+      "1050 BC",
+      "No"
+     ],
+     [
+      "Chinese",
+      "Logographic",
+      "~50000",
+      "1200 BC",
+      "Yes"
+     ],
+     [
+      "Korean hangul",
+      "Alphabetic",
+      "24",
+      "AD 1443",
+      "Yes"
+     ]
+    ],
+    "summary": "The table contrasts symbol count with survival. The two logographic systems have by far the most symbols, roughly a thousand and fifty thousand, while the two systems with about two dozen symbols are alphabetic or consonantal. Age does not predict survival: Chinese is over three thousand years old and still used, while Phoenician is younger than Egyptian and neither survives. Hangul is by far the youngest at AD 1443. A strong answer compares symbol count against type, notes that survival does not track age, and identifies hangul as the only deliberately designed system in the set."
+   }
+  }
+ ],
+ "lecture": [
+  {
+   "type": "rl",
+   "transcript": "I want to tell you about a piece of statistical reasoning from the Second World War, because it is the clearest illustration I know of a mistake that is very hard to see from the inside. The American military wanted to add armour to its bombers. Armour is heavy, so you cannot armour the whole aircraft; you have to choose. They examined aircraft returning from missions and mapped where the bullet holes were, and the holes clustered on the wings, the fuselage and the tail gunner's position. The obvious recommendation is to reinforce the areas with the most damage. Abraham Wald, a statistician working with the Statistical Research Group, pointed out that this was precisely backwards. The data consisted only of aircraft that had returned. Damage was distributed fairly evenly across the fleet; what differed was which damage let you come home. Holes in the wings appeared frequently in the sample because a plane hit in the wings could still fly. There were almost no returning aircraft with holes in the engines, and the reason was not that engines were rarely hit. It was that a plane hit in the engine did not come back to be counted. So the armour should go where the holes are not. Now, the general form of this error has a name, survivorship bias, and once you have the concept you find it everywhere: in studies of successful companies that never examine the failed ones, in advice from people who took a risk and prospered, in any dataset assembled from whatever happened to survive. The bias is not in the numbers. It is in the selection of what got measured, and no amount of care with the arithmetic will reveal it.",
+   "key": [
+    "the military wanted to armour bombers but could not armour everything, so had to choose",
+    "bullet holes on returning aircraft clustered on wings, fuselage and tail",
+    "the intuitive recommendation was to reinforce the damaged areas",
+    "Wald saw the sample contained only aircraft that returned; engine hits were absent because those planes did not come back",
+    "armour should go where the holes are not",
+    "the general error is survivorship bias, arising from selection of what was measured rather than from the arithmetic"
+   ]
+  },
+  {
+   "type": "rl",
+   "transcript": "Today I want to trace how the public library became a normal institution, because the arguments made against it are instructive. In the eighteen forties, when the first legislation was debated in Britain, opposition was substantial and it was not primarily about cost, though cost was mentioned. Three objections recur in the record. The first was that reading would be a distraction from labour, and that a working population with access to books would be less inclined to accept the hours it was expected to work. This objection was made openly, which tells you something about the period. The second was that free provision would destroy the commercial circulating libraries, which were numerous, profitable and worked reasonably well for anyone who could afford a subscription. That objection was accurate; they largely did disappear. The third was subtler and has aged least well. It held that a collection assembled by a committee and paid for from the rates would inevitably reflect the tastes of the committee, and that a public library would therefore be an instrument of instruction rather than a resource. What actually happened was that public demand pushed the collections toward fiction, which the founders had explicitly hoped to exclude, and by the end of the century novels made up the majority of borrowing in most towns. I find that reversal worth dwelling on. The institution survived by becoming something other than what its advocates intended, and the thing they were most anxious to prevent turned out to be what made it popular enough to keep funding.",
+   "key": [
+    "opposition in the 1840s went well beyond cost",
+    "one objection was that reading would distract workers from labour, stated openly",
+    "another was that free provision would destroy commercial circulating libraries, which it largely did",
+    "a third held that committee-chosen collections would instruct rather than serve",
+    "public demand pushed collections toward fiction, which founders had hoped to exclude",
+    "the institution survived by becoming what its advocates had tried to prevent"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "type": "asq",
+   "q": "What do we call a place where money is kept and where people can open an account?",
+   "a": [
+    "bank",
+    "a bank"
+   ]
+  },
+  {
+   "type": "asq",
+   "q": "If a lecture is compulsory, may a student choose not to attend?",
+   "a": [
+    "no",
+    "no they may not",
+    "it is required",
+    "they must attend"
+   ]
+  },
+  {
+   "type": "asq",
+   "q": "Which organ is responsible for filtering waste from the blood?",
+   "a": [
+    "kidney",
+    "kidneys",
+    "the kidneys",
+    "liver"
+   ]
+  },
+  {
+   "type": "asq",
+   "q": "What is the term for the study of the shape and features of the earth's surface?",
+   "a": [
+    "geography",
+    "geomorphology",
+    "topography"
+   ]
+  },
+  {
+   "type": "asq",
+   "q": "Is a temperature of one hundred degrees Celsius hot or cold?",
+   "a": [
+    "hot",
+    "very hot"
+   ]
+  }
+ ],
+ "discussion": [
+  {
+   "type": "sgd",
+   "turns": [
+    {
+     "speaker": "Nell",
+     "text": "Requiring cameras on in online seminars would fix the participation problem overnight. Talking to forty black rectangles is impossible."
+    },
+    {
+     "speaker": "Omar",
+     "text": "It's impossible for you, and I sympathise. It's also a rule that reaches into people's bedrooms and shared houses, which is not somewhere a university has any business being."
+    },
+    {
+     "speaker": "Nell",
+     "text": "Backgrounds can be blurred. That's a solved problem."
+    },
+    {
+     "speaker": "Omar",
+     "text": "Blurring doesn't hide that you're the only person in the group whose connection can't handle video, or that you're taking the seminar from a car on a break between shifts."
+    },
+    {
+     "speaker": "Sofia",
+     "text": "What if participation were required but the form were open? Camera, microphone or the chat, and you choose which. The requirement is contribution, not visibility."
+    },
+    {
+     "speaker": "Nell",
+     "text": "Chat contributions are much easier to fake attention with, though I accept that's my problem to solve as the teacher rather than theirs."
+    },
+    {
+     "speaker": "Omar",
+     "text": "Then design the seminar so chat contributions have to be substantive. That's harder work, but it's the right target."
+    }
+   ],
+   "key": [
+    "Nell wants cameras required to fix participation in online seminars",
+    "Omar objects that the rule intrudes into students' homes and exposes circumstances",
+    "Nell suggests background blurring; Omar replies it does not hide bandwidth or location problems",
+    "Sofia proposes requiring contribution in any form: camera, microphone or chat",
+    "Nell concedes the difficulty of judging engagement is hers to solve rather than the students'"
+   ]
+  },
+  {
+   "type": "sgd",
+   "turns": [
+    {
+     "speaker": "Bram",
+     "text": "Capping travel at one long-haul trip per person per year is the only measure on this list that would actually reduce our emissions rather than relabel them."
+    },
+    {
+     "speaker": "Kiri",
+     "text": "It would also fall hardest on early-career researchers, who need to be seen, while established people already have the reputation the travel builds."
+    },
+    {
+     "speaker": "Bram",
+     "text": "That's an argument for allocating the trips by career stage, not for having no cap."
+    },
+    {
+     "speaker": "Kiri",
+     "text": "Allocating by career stage means a committee deciding whose work matters, which is exactly the sort of judgement this department is bad at making transparently."
+    },
+    {
+     "speaker": "Ines",
+     "text": "Could the cap sit at department level rather than per person, with the allocation published? Then the trade-offs are visible and people argue about them openly."
+    },
+    {
+     "speaker": "Kiri",
+     "text": "Publication is the part that would make me support it. My objection is to invisible rationing, not to rationing."
+    },
+    {
+     "speaker": "Bram",
+     "text": "And a department total is the number that actually matters for the emissions figure anyway."
+    }
+   ],
+   "key": [
+    "Bram argues a per-person flight cap is the only measure that genuinely cuts emissions",
+    "Kiri objects that it disadvantages early-career researchers who need visibility",
+    "Bram proposes allocating by career stage; Kiri warns this requires opaque committee judgement",
+    "Ines suggests a published department-level cap instead of individual limits",
+    "Kiri accepts, clarifying that her objection was to invisible rationing rather than rationing itself"
+   ]
+  }
+ ],
+ "situation": [
+  {
+   "type": "rts",
+   "situation": "Your supervisor meets you once every six weeks and the meetings are frequently cut short. You are approaching a stage of the project where you need more regular guidance, and you know they are supervising eight other students.",
+   "task": "Speak to your supervisor.",
+   "key": [
+    "makes a specific request rather than a general complaint",
+    "explains why the current stage requires more contact",
+    "acknowledges their workload without abandoning the request",
+    "proposes a concrete arrangement such as shorter, more frequent meetings",
+    "keeps a professional register appropriate to someone senior you depend on"
+   ]
+  },
+  {
+   "type": "rts",
+   "situation": "The flat above yours is being renovated. Drilling starts before seven each morning and continues at weekends. The owner does not live there, but the builders are present and reasonable when you have spoken to them briefly.",
+   "task": "Speak to the builders about the hours.",
+   "key": [
+    "addresses the people actually present rather than complaining in the abstract",
+    "states the specific problem: the start time and the weekend work",
+    "recognises they are doing a job and may not set the schedule",
+    "asks for something achievable, such as a later start or quiet weekends",
+    "stays civil to preserve a workable arrangement over several weeks"
+   ]
+  }
+ ],
+ "swt": [
+  {
+   "type": "swt",
+   "passage": "Goodhart's law is usually stated as the observation that a measure ceases to be a good measure once it becomes a target, and its explanatory reach is wider than its origin suggests. Charles Goodhart was writing about monetary policy, noting that statistical relationships the Bank of England relied upon broke down as soon as policy was set to control them. The mechanism generalises because it does not depend on anyone acting dishonestly. Any indicator is a proxy: it correlates with the thing actually wanted because both are produced by the same underlying process. Once effort is directed at the indicator specifically, the correlation is broken, since the indicator can be raised by routes that leave the underlying quality untouched. Hospitals judged on waiting times have reclassified patients rather than treated them faster; schools judged on pass rates have moved pupils away from subjects they might fail; police forces judged on detection rates have concentrated on offences that are easy to detect. In each case the workers responded rationally to the instruction they were actually given. The practical implication is uncomfortable for anyone designing an accountability system, because it suggests that the better a measure is at capturing quality, the more damage is done by making it a target, and the measures safest to publish are those nobody is rewarded for improving.",
+   "key": [
+    "a measure stops being a good measure once it becomes a target",
+    "Goodhart wrote about monetary relationships breaking down when used for policy",
+    "indicators work as proxies because both they and the goal come from the same process",
+    "targeting the indicator breaks the correlation without dishonesty",
+    "examples include hospital waiting times, school pass rates and police detection rates",
+    "the better a measure captures quality, the more damage results from targeting it"
+   ]
+  },
+  {
+   "type": "swt",
+   "passage": "William Baumol observed in the nineteen sixties that a string quartet requires exactly the same four musicians and the same forty minutes to perform a Beethoven quartet as it did in 1800, while a factory worker's hourly output has risen many times over in the same period. Productivity growth in manufacturing raises wages across the whole economy, because employers in every sector must compete for labour, and this means the cost of activities where productivity cannot rise increases relentlessly in relative terms. The effect is not a failure of management and cannot be fixed by working harder. It applies to any activity whose output is the labour itself: live performance, teaching, nursing, hairdressing, social care. Two consequences follow. The first is that the share of national income spent on such services must rise over time even if their quality and quantity are unchanged, which is routinely misreported as a crisis of spiralling costs. The second is that pressure to raise measured productivity in these sectors usually amounts to reducing the service, since the only way to make a nurse cover more patients per hour is for each patient to receive less. Recognising this does not solve the funding problem, but it clarifies what is actually being decided.",
+   "key": [
+    "some activities cannot raise productivity: a quartet needs the same players and time as in 1800",
+    "manufacturing productivity raises wages economy-wide because employers compete for labour",
+    "the relative cost of labour-intensive services therefore rises relentlessly",
+    "it applies to live performance, teaching, nursing and care, and cannot be managed away",
+    "rising spending shares on such services are misreported as spiralling costs",
+    "raising measured productivity in these sectors usually means reducing the service"
+   ]
+  }
+ ],
+ "essay": [
+  {
+   "type": "we",
+   "prompt": "Some people argue that governments should use public money to subsidise theatre, orchestras and other arts that cannot survive on ticket sales alone. Others believe such funding should be left to private donors and audiences. Discuss both views and give your own opinion. Write 200-300 words."
+  }
+ ],
+ "reading": [
+  {
+   "type": "rwfib",
+   "text": "Fluoride was added to public water supplies on the ___0___ of a natural experiment. Communities whose groundwater happened to contain it showed markedly lower rates of dental decay, and the ___1___ was strong enough to justify adding it deliberately elsewhere. Debate has continued ever since, but it now turns less on whether the measure ___2___ than on whether a benefit delivered through the water supply can properly be ___3___ from those who would prefer not to receive it.",
+   "blanks": [
+    {
+     "options": [
+      "strength",
+      "stretch",
+      "stride",
+      "stress"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "association",
+      "assumption",
+      "assertion",
+      "assessment"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "works",
+      "waits",
+      "warns",
+      "wanes"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "withheld",
+      "withdrawn",
+      "withstood",
+      "witnessed"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "type": "rwfib",
+   "text": "Cities have begun to treat pavements as ___0___ infrastructure rather than as the edge of a road. The shift matters because the two are designed to entirely different ___1___. A road is engineered for a vehicle moving at speed, and a pavement squeezed alongside it inherits dimensions that were never ___2___ from the pedestrian's requirements. Measuring how many people a footway carries, rather than how much space is ___3___ over from the carriageway, produces very different plans.",
+   "blanks": [
+    {
+     "options": [
+      "primary",
+      "primitive",
+      "principal",
+      "prior"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "standards",
+      "statements",
+      "situations",
+      "strategies"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "derived",
+      "deprived",
+      "depicted",
+      "deferred"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "left",
+      "laid",
+      "lent",
+      "led"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "type": "rwfib",
+   "text": "Loanwords enter a language along paths that ___0___ its speakers' history with remarkable precision. English borrowed its terms for cooked meat from French and its terms for the living animal from Old English, a ___1___ that follows exactly from who tended the herds and who ate at the table. Vocabulary of this kind is ___2___ to invent afterwards, which is why linguists treat it as ___3___ evidence about contact between populations.",
+   "blanks": [
+    {
+     "options": [
+      "record",
+      "recall",
+      "recite",
+      "recede"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "division",
+      "devotion",
+      "deviation",
+      "donation"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "impossible",
+      "impassable",
+      "impartial",
+      "imperative"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "independent",
+      "indecisive",
+      "indefinite",
+      "indirect"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "type": "rwfib",
+   "text": "The claim that a spacecraft must reach escape velocity is ___0___ misleading. Escape velocity is the speed an object would need if it were thrown once and then ___1___ without further propulsion. A rocket that keeps burning can leave at any speed it likes, given sufficient fuel, and could in principle ___2___ away at walking pace. The concept remains useful for calculating energy budgets, but it describes a ___3___ that no actual spacecraft is subject to.",
+   "blanks": [
+    {
+     "options": [
+      "slightly",
+      "slowly",
+      "sharply",
+      "shortly"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "unpowered",
+      "unproven",
+      "unequal",
+      "unpaid"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "climb",
+      "claim",
+      "clasp",
+      "clash"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "constraint",
+      "construction",
+      "consumption",
+      "contribution"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "type": "rwfib",
+   "text": "Ancient timber structures were assembled without nails because iron was expensive and, more importantly, because a nailed joint ___0___ badly to seasonal movement. Wood swells and shrinks across the grain by several per cent as humidity changes, and a rigid ___1___ concentrates that movement into a small area until something splits. Joints that allow controlled ___2___ have survived for a thousand years in structures where later metal repairs have already ___3___.",
+   "blanks": [
+    {
+     "options": [
+      "responds",
+      "resorts",
+      "resides",
+      "resents"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "fastening",
+      "fascination",
+      "fashioning",
+      "fathoming"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "slippage",
+      "slander",
+      "slumber",
+      "slaughter"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "failed",
+      "faded",
+      "faltered",
+      "fallen"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "type": "rmcma",
+   "passage": "The distinction between weather and climate is understood well enough in principle and collapses constantly in public argument, usually because both sides make the same error in opposite directions. A cold week is offered as evidence against warming; a heatwave is offered as evidence for it. Neither is admissible on its own, because climate is the distribution from which weather is drawn, and a single observation tells you very little about a distribution. What has changed is that attribution science now permits a more careful version of the second claim. By running large ensembles of climate simulations with and without observed greenhouse gas concentrations, researchers can estimate how much more likely a particular event has become. The output is probabilistic rather than categorical: a given heatwave might be assessed as ten times more probable than in a pre-industrial climate. This is a genuine advance and it is routinely reported as though it established that warming caused the event, which is a stronger and different claim. Careful communication of the distinction has proved harder than the science it describes.",
+   "q": "Which of the following are stated or clearly implied by the passage?",
+   "options": [
+    "A single weather event is weak evidence about climate on its own.",
+    "Attribution studies compare simulations run with and without observed greenhouse gas concentrations.",
+    "Attribution results are probabilistic rather than categorical statements of cause.",
+    "The author argues that heatwaves cannot be linked to warming in any way.",
+    "Media reporting often states attribution findings more strongly than the science supports."
+   ],
+   "answers": [
+    0,
+    1,
+    2,
+    4
+   ]
+  },
+  {
+   "type": "ro",
+   "paras": [
+    "The first traffic signal was installed outside the Houses of Parliament in 1868, decades before the motor car.",
+    "It was operated by a policeman and used gas lamps to show red and green after dark, which was the arrangement already familiar from the railways.",
+    "Less than a month after installation the gas main leaked, the lantern exploded and the operator was badly injured.",
+    "The experiment was abandoned, and Britain went without traffic signals of any kind for the next half-century.",
+    "When they returned in the nineteen twenties, the technology was electric and the problem being solved was no longer horses but volume."
+   ]
+  },
+  {
+   "type": "ro",
+   "paras": [
+    "Marie Tharp spent the nineteen fifties plotting soundings of the Atlantic seabed by hand, because as a woman she was not permitted aboard the survey ships.",
+    "Working from figures collected by colleagues at sea, she drew cross-sections that revealed a continuous valley running down the centre of the ocean.",
+    "Her supervisor dismissed the finding as girl talk, since a rift implied continental drift, which was then still disreputable.",
+    "Independent recordings of earthquake epicentres were subsequently found to fall along precisely the line she had drawn.",
+    "The maps she produced became the principal visual evidence for seafloor spreading."
+   ]
+  },
+  {
+   "type": "rfib",
+   "text": "Vanilla is the second most expensive spice by weight, and the reason lies in ___0___. The orchid that produces it is native to Mexico, where a particular bee performs the necessary transfer of pollen; everywhere else the flower must be pollinated by ___1___, one bloom at a time, within a few hours of opening. The method was worked out by an enslaved twelve-year-old on Réunion in 1841 and is still used essentially ___2___. Attempts to establish the bee elsewhere have consistently ___3___, which means a global crop depends on a technique that cannot be ___4___.",
+   "bank": [
+    "pollination",
+    "hand",
+    "unchanged",
+    "failed",
+    "mechanised",
+    "cultivation",
+    "insects",
+    "altered",
+    "succeeded",
+    "repeated"
+   ],
+   "answers": [
+    "pollination",
+    "hand",
+    "unchanged",
+    "failed",
+    "mechanised"
+   ]
+  },
+  {
+   "type": "rfib",
+   "text": "Concrete cancer is a misleading name for a straightforward ___0___ process. Steel reinforcement inside concrete is normally protected by the alkalinity of the surrounding material, but carbon dioxide from the air gradually ___1___ that protection from the surface inward. Once the steel begins to rust it ___2___ to several times its original volume, and the pressure cracks the concrete from within, admitting more air and ___3___. The damage therefore ___4___ rather than progressing steadily, which is why buildings can appear sound for decades and then deteriorate quickly.",
+   "bank": [
+    "chemical",
+    "neutralises",
+    "expands",
+    "moisture",
+    "accelerates",
+    "biological",
+    "removes",
+    "corrodes",
+    "salt",
+    "continues"
+   ],
+   "answers": [
+    "chemical",
+    "neutralises",
+    "expands",
+    "moisture",
+    "accelerates"
+   ]
+  },
+  {
+   "type": "rfib",
+   "text": "Fire insurance in eighteenth-century London created a curious ___0___. Companies maintained their own brigades and issued metal plaques for policyholders to ___1___ to the front of a building, so that the crew arriving could tell whether the property was ___2___ by their employer. The arrangement worked badly for obvious reasons, since a fire in an uninsured house next door would spread ___3___ whether or not anyone attended it. Municipal brigades eventually replaced the private ones because containing a fire is a service that cannot sensibly be ___4___ to individual buildings.",
+   "bank": [
+    "arrangement",
+    "fix",
+    "covered",
+    "regardless",
+    "restricted",
+    "problem",
+    "attach",
+    "owned",
+    "quickly",
+    "confined"
+   ],
+   "answers": [
+    "arrangement",
+    "fix",
+    "covered",
+    "regardless",
+    "restricted"
+   ]
+  },
+  {
+   "type": "rfib",
+   "text": "Soil takes centuries to form and can be lost in a ___0___. A centimetre of topsoil may require several hundred years of weathering and biological activity, yet ploughed land on a slope can shed that depth in a single heavy ___1___. What holds soil in place is principally the root ___2___ of continuous vegetation, which is precisely what conventional cultivation ___3___ before each planting. Techniques that leave residue on the surface and disturb the ground minimally have been shown to cut losses substantially, though they ___4___ equipment that many smallholders cannot obtain.",
+   "bank": [
+    "season",
+    "storm",
+    "network",
+    "removes",
+    "require",
+    "century",
+    "shower",
+    "system",
+    "protects",
+    "replace"
+   ],
+   "answers": [
+    "season",
+    "storm",
+    "network",
+    "removes",
+    "require"
+   ]
+  },
+  {
+   "type": "rmcsa",
+   "passage": "Historic building conservation has moved away from restoration and toward repair, and the reasoning behind the shift is worth stating carefully. Nineteenth-century restorers routinely returned buildings to an imagined original state, removing later additions and replacing weathered stonework with crisp new carving in the same style. The result looks coherent and destroys evidence: a wall that has been recut no longer records how it was built, what it was repaired with, or what happened to it in between. Modern practice treats the building as a document whose later chapters are as informative as its first. Repairs are therefore made to be identifiable on close inspection, using compatible but distinguishable materials, and later additions are retained unless they are actively causing harm. The approach frequently disappoints visitors who expect a finished appearance, and it preserves the one thing a replica cannot supply.",
+   "q": "What is the central principle of modern conservation described here?",
+   "options": [
+    "A building is treated as a record whose later alterations carry evidence worth keeping.",
+    "Buildings should be returned to their original appearance wherever documentation allows.",
+    "Repairs should be made invisible so that the structure appears unaltered.",
+    "Later additions should be removed to restore stylistic coherence."
+   ],
+   "answer": 0
+  },
+  {
+   "type": "rmcsa",
+   "passage": "Economists have long puzzled over why people buy extended warranties, since the products are, on any reasonable actuarial analysis, poor value: the premium substantially exceeds the expected cost of repair, and the buyer is generally able to absorb that cost without hardship. Insurance makes sense for losses that would be ruinous, which is precisely why it makes little sense for a washing machine. The most persuasive explanation is not that consumers cannot calculate. It is that the purchase occurs at the moment of maximum anxiety about a decision already made, and what is being bought is relief from the possibility of having chosen badly. The retailer's margin on the warranty frequently exceeds the margin on the appliance, which explains why the offer arrives at the till rather than in the advertising.",
+   "q": "How does the author explain the popularity of extended warranties?",
+   "options": [
+    "They are bought to relieve anxiety about a decision just made rather than as a rational transfer of risk.",
+    "Consumers lack the arithmetic to evaluate the expected cost of repair.",
+    "The premiums are correctly priced against the true likelihood of appliance failure.",
+    "Retailers are legally required to offer them at the point of sale."
+   ],
+   "answer": 0
+  }
+ ],
+ "listening": [
+  {
+   "type": "sst",
+   "transcript": "I want to work through a piece of arithmetic that has real consequences in medicine, and that almost everybody, including many clinicians, gets wrong the first time. Imagine a screening test for a disease that affects one person in a thousand. The test is good: it correctly identifies ninety-nine per cent of people who have the disease, and it correctly clears ninety-five per cent of people who do not. You take the test and it comes back positive. What is the probability that you have the disease? Most people answer somewhere between ninety and ninety-nine per cent. The correct answer is about two per cent. Here is why. Take a hundred thousand people. One hundred of them have the disease, and the test catches ninety-nine of those. The other ninety-nine thousand nine hundred do not have it, and the test wrongly flags five per cent of them, which is roughly five thousand people. So among everyone who tests positive, ninety-nine have the disease and five thousand do not. The overwhelming majority of positives are false, not because the test is bad, but because the healthy group is so much larger that even a small error rate applied to it produces more false positives than there are true cases. This is called base rate neglect, and it is not a curiosity. It is the reason mass screening for rare conditions can do net harm: every false positive leads to further investigation, which carries its own risk, and to a period of considerable fear. The test has not failed. The failure is in reasoning about a rare condition as though the population were evenly divided, and no improvement in test accuracy removes the problem while the base rate remains low.",
+   "key": [
+    "for a disease affecting one in a thousand, a positive result on a good test may mean only about two per cent probability",
+    "the healthy group is so much larger that a small false positive rate produces more false positives than true cases",
+    "in a hundred thousand people, roughly ninety-nine true positives against five thousand false ones",
+    "the error is called base rate neglect and is common among clinicians too",
+    "this is why mass screening for rare conditions can do net harm through further investigation and fear",
+    "improving test accuracy does not remove the problem while the base rate stays low"
+   ]
+  },
+  {
+   "type": "lmcma",
+   "transcript": "A few things about the group project that differ from last year. The groups are allocated rather than chosen, and they are allocated across programmes deliberately, so you will be working with people you have not met. The final report carries a single group mark, but there is an individual component worth forty per cent which is assessed entirely separately, so one person's absence cannot sink everyone. You are required to keep a shared log of decisions, and that log is the evidence we use if a dispute arises; groups that have not kept one are very difficult to help. The presentation is no longer assessed, though we still expect you to give it. And the deadline is fixed by the external partner rather than by us, which means the usual extension policy does not apply.",
+   "q": "According to the speaker, which of the following are true?",
+   "options": [
+    "Groups are allocated rather than self-selected.",
+    "Forty per cent of the mark is assessed individually.",
+    "The presentation still carries marks.",
+    "A shared decision log is required and used in disputes.",
+    "The standard extension policy applies to this deadline."
+   ],
+   "answers": [
+    0,
+    1,
+    3
+   ]
+  },
+  {
+   "type": "lfib",
+   "transcript": "Aspirin's anti-clotting effect was discovered long after the drug was in general [use], and the dose required turned out to be far [lower] than the dose used for pain. Platelets lack a nucleus and therefore cannot replace the enzyme the drug permanently [disables], so a single small tablet suppresses their function for the whole of their eight-day [lifespan]. This is why the preventive dose is taken daily and why stopping it produces no immediate [change]."
+  },
+  {
+   "type": "lfib",
+   "transcript": "The Great Stink of 1858 finally produced action on London's sewers because the smell reached the windows of [Parliament]. Members debated in curtains soaked in chloride of lime and passed the enabling legislation in eighteen [days], having refused to fund the scheme for years. Joseph Bazalgette then made a decision that looks prescient and was closer to [prudence]: he calculated the required diameter of the pipes and then [doubled] it. That single margin is the reason the system continued to serve a population several times larger than the one it was [designed] for."
+  },
+  {
+   "type": "hcs",
+   "transcript": "I want to say something about the claim that medieval people believed the earth was flat, because it is almost entirely a nineteenth-century invention. Educated Europeans knew the earth was spherical throughout the middle ages; the fact is stated plainly in standard textbooks of the period, and the objection to Columbus was never about shape. It was about size. His critics thought, correctly as it happens, that he had badly underestimated the circumference and would run out of supplies long before reaching Asia. He survived because an unexpected continent was in the way. The flat earth story was popularised by writers in the eighteen seventies who were constructing a narrative of conflict between science and religion, and it has proved remarkably durable because it flatters the present at the expense of a period nobody defends.",
+   "options": [
+    "Educated medieval Europeans knew the earth was spherical, and the dispute over Columbus concerned its size rather than its shape; the flat earth story was a nineteenth-century invention serving a narrative of conflict between science and religion.",
+    "Medieval scholars genuinely believed the earth was flat until Columbus demonstrated otherwise by sailing westward and reaching Asia as he had predicted.",
+    "The speaker argues that Columbus was correct about the circumference of the earth and that his critics were relying on outdated religious teaching.",
+    "Nineteenth-century historians recovered evidence proving that medieval textbooks described the earth as flat, overturning earlier assumptions about the period."
+   ],
+   "answer": 0
+  },
+  {
+   "type": "lmcsa",
+   "transcript": "One thing about writing up results that costs people marks every year. When an experiment does not work, the temptation is to describe it briefly and move on to whatever did work. Resist that. A negative result that has been carefully obtained is a finding, and describing exactly what you did and why it failed is often the most useful thing in the report, because the next person will otherwise repeat it. What loses marks is not failure; it is a report in which the failure is mentioned in a sentence and the reader cannot tell whether the method was flawed or the hypothesis was wrong. Those two possibilities require completely different follow-up work, and distinguishing them is most of what the write-up is for.",
+   "q": "What does the speaker say about experiments that do not work?",
+   "options": [
+    "They should be reported in enough detail to show whether the method or the hypothesis failed.",
+    "They should be omitted so the report focuses on successful results.",
+    "They indicate that the student has made an error in procedure.",
+    "They should be repeated until a positive result is obtained."
+   ],
+   "answer": 0
+  },
+  {
+   "type": "smw",
+   "transcript": "Archaeologists working on a site face a problem that has no solution, only a choice. Excavation is the only way to recover what is buried, and it is also the only method in the discipline that permanently destroys the thing being studied. A layer once removed cannot be replaced. This is why many teams now deliberately leave part of a site untouched, on the assumption that future techniques will extract more from it than current ones, a practice known as preservation by [BEEP].",
+   "options": [
+    "record",
+    "default",
+    "excavation",
+    "survey"
+   ],
+   "answer": 1
+  },
+  {
+   "type": "hiw",
+   "spoken": "Wind turbines are usually painted a pale grey rather than white, because pure white produces a flicker that carries much further at dawn. A single blade painted black has been shown in Norwegian trials to reduce bird collisions by more than seventy per cent, apparently because a rotating uniform disc becomes almost invisible to a bird in flight. The measure costs very little and has been slow to spread mainly because planning rules specify colour",
+   "swaps": {
+    "6": "light",
+    "16": "glare",
+    "27": "dark",
+    "37": "casualties",
+    "52": "transparent",
+    "62": "much",
+    "74": "appearance."
+   }
+  },
+  {
+   "type": "hiw",
+   "spoken": "Rivers carry more sediment than water in some seasons, and the Yellow River takes its name from precisely this. The load is so heavy that the bed rises as silt is deposited, and centuries of embankment building have left long stretches flowing above the surrounding plain. A breach in such a river does not merely flood the land beside it; the channel may abandon its course entirely and reach the sea hundreds of kilometres away.",
+   "swaps": {
+    "3": "material",
+    "15": "colour",
+    "27": "falls",
+    "42": "across",
+    "55": "cover",
+    "71": "thousands"
+   }
+  },
+  {
+   "type": "wfd",
+   "text": "The committee will consider all applications received before the deadline."
+  },
+  {
+   "type": "wfd",
+   "text": "Field notes should be written up on the same day they are taken."
+  },
+  {
+   "type": "wfd",
+   "text": "The new equipment has considerably improved the accuracy of our measurements."
+  }
+ ]
+}
