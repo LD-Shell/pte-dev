@@ -1,0 +1,848 @@
+{
+ "no": 2,
+ "title": "Practice Test 2",
+ "source": "hand-written",
+ "format": "PTE Academic, 2025 revision (22 task types)",
+ "speaking": [
+  {
+   "type": "ra",
+   "text": "Sourdough owes its flavour not to yeast alone but to a partnership. Wild yeasts raise the dough while lactic acid bacteria acidify it, and the acid both sharpens the taste and slows the staling that afflicts commercial bread. The two organisms tolerate each other because they consume different sugars."
+  },
+  {
+   "type": "ra",
+   "text": "Medieval guilds are often remembered as early trade unions, but their principal concern was quality rather than wages. A guild that permitted shoddy work damaged the reputation of every member, so inspection was internal, constant and frequently harsher than anything a municipal authority imposed."
+  },
+  {
+   "type": "ra",
+   "text": "Radio astronomy began with an engineer investigating static on transatlantic telephone calls. The interference he could not eliminate turned out to originate in the centre of our galaxy, and an unwanted noise in a commercial system became the first evidence that the sky emits at wavelengths the eye cannot detect."
+  },
+  {
+   "type": "ra",
+   "text": "Coral bleaching is not the death of the coral but the expulsion of the algae living inside it. Under heat stress the partnership breaks down, the coral loses both its colour and most of its nutrition, and unless conditions cool quickly enough for the algae to return, starvation follows."
+  },
+  {
+   "type": "ra",
+   "text": "The introduction of anaesthesia was resisted by surgeons who believed that pain served a physiological purpose and that its absence would weaken the patient. Speed had been the mark of a great operator; once a patient could be kept insensible, the virtue of the profession shifted from haste to precision."
+  },
+  {
+   "type": "ra",
+   "text": "Patent law rests on a bargain that is often forgotten. In exchange for a temporary monopoly, an inventor must publish a description detailed enough for a competent practitioner to reproduce the invention. The disclosure, not the protection, is what the system was designed to purchase."
+  }
+ ],
+ "repeat": [
+  {
+   "type": "rs",
+   "text": "The laboratory will be closed for maintenance during the vacation."
+  },
+  {
+   "type": "rs",
+   "text": "Please read the assigned chapter before Thursday's tutorial."
+  },
+  {
+   "type": "rs",
+   "text": "Her thesis examines migration patterns in nineteenth-century Europe."
+  },
+  {
+   "type": "rs",
+   "text": "The results were inconclusive and the trial was repeated."
+  },
+  {
+   "type": "rs",
+   "text": "All equipment must be signed out at the technician's desk."
+  },
+  {
+   "type": "rs",
+   "text": "Funding for the project was withdrawn without any explanation."
+  },
+  {
+   "type": "rs",
+   "text": "Students are encouraged to attend the guest lecture on Friday."
+  },
+  {
+   "type": "rs",
+   "text": "The committee rejected the proposal on procedural grounds."
+  },
+  {
+   "type": "rs",
+   "text": "A revised reading list has been uploaded to the portal."
+  },
+  {
+   "type": "rs",
+   "text": "He questioned whether the sample size was large enough."
+  }
+ ],
+ "images": [
+  {
+   "type": "di",
+   "chart": {
+    "kind": "line",
+    "title": "Share of electricity generation by source, 2000-2024",
+    "unit": "% of total generation",
+    "xLabel": "Year",
+    "categories": [
+     "2000",
+     "2004",
+     "2008",
+     "2012",
+     "2016",
+     "2020",
+     "2024"
+    ],
+    "series": [
+     {
+      "name": "Coal",
+      "values": [
+       52,
+       48,
+       41,
+       33,
+       24,
+       15,
+       9
+      ]
+     },
+     {
+      "name": "Gas",
+      "values": [
+       18,
+       23,
+       29,
+       32,
+       34,
+       33,
+       30
+      ]
+     },
+     {
+      "name": "Wind and solar",
+      "values": [
+       1,
+       3,
+       7,
+       13,
+       22,
+       33,
+       44
+      ]
+     }
+    ],
+    "summary": "Coal falls steadily from 52 to 9 per cent across the period. Wind and solar rise from 1 to 44 per cent and overtake gas around 2020. Gas rises to a plateau near 34 per cent in 2016 then eases to 30. A strong answer names the crossover where renewables pass coal (about 2016) and the later crossover past gas, gives the start and end figures for at least two series, and notes that gas is the only source that both rises and falls."
+   }
+  },
+  {
+   "type": "di",
+   "chart": {
+    "kind": "pie",
+    "title": "University expenditure by category",
+    "labels": [
+     "Staff salaries",
+     "Buildings and estates",
+     "Research equipment",
+     "Student services",
+     "Library and IT"
+    ],
+    "values": [
+     54,
+     17,
+     12,
+     10,
+     7
+    ],
+    "summary": "Staff salaries dominate at 54 per cent, more than the other four categories combined. Buildings take 17, research equipment 12, student services 10 and library and IT 7. A strong answer states that salaries exceed half of all spending, ranks the remainder, and observes that the smallest category is under a seventh of the largest."
+   }
+  },
+  {
+   "type": "di",
+   "chart": {
+    "kind": "process",
+    "title": "How waste paper becomes new paper",
+    "steps": [
+     "Collection and sorting",
+     "Pulping in water",
+     "Ink removed by flotation",
+     "Screening and cleaning",
+     "Pressing and drying",
+     "Rolling into new sheets"
+    ],
+    "summary": "Six stages, beginning with collection and sorting and ending with rolling into sheets. The distinguishing stage is de-inking by flotation, which sits third, between pulping and screening. A strong answer follows the sequence in order, uses connecting language rather than listing, and identifies de-inking as the step that separates paper recycling from simple pulping."
+   }
+  }
+ ],
+ "lecture": [
+  {
+   "type": "rl",
+   "transcript": "I want to talk about why sleep matters for memory, because the mechanism is more specific than the popular account suggests. The popular account says sleep helps you remember. What actually happens is a process called consolidation, and it happens in stages that map onto the stages of sleep. During slow-wave sleep, early in the night, the hippocampus replays the day's experiences to the cortex at high speed. You can record this in animals: the same sequence of neurons that fired when a rat ran a maze fires again during sleep, compressed roughly twentyfold. The cortex, which learns slowly, gradually takes ownership of the memory, and the hippocampus is freed to record the following day. Later in the night, during rapid eye movement sleep, something different occurs. Connections between distantly related memories are strengthened, which is why solutions to problems often arrive after sleeping on them rather than during concentrated effort. Now here is what makes this practically important. The two stages are not evenly distributed. Slow-wave sleep is concentrated in the first half of the night and REM in the second. So a student who sleeps four hours before an exam does not lose half their consolidation. They lose almost all of one kind and keep almost all of the other, and which half they cut determines what they retain.",
+   "key": [
+    "consolidation, not simple retention, is the mechanism",
+    "slow-wave sleep replays hippocampal sequences to the cortex, compressed about twentyfold",
+    "the cortex takes ownership so the hippocampus is freed for the next day",
+    "REM sleep links distantly related memories, explaining insight after sleep",
+    "the two stages are unevenly distributed across the night, so shortened sleep removes one kind almost entirely"
+   ]
+  },
+  {
+   "type": "rl",
+   "transcript": "The lighthouse has an odd career in economics, and it is worth following because of what it shows about how arguments get repeated. For most of the twentieth century, the lighthouse was the standard textbook example of a public good, something that markets cannot supply. The logic is clean. A lighthouse shines on every ship in range. You cannot exclude a vessel that has not paid, and one ship using the light does not diminish it for another. No rational shipowner would pay, so no private lighthouse would ever be built, and the state must provide it. It is a tidy argument and it appeared in economics textbooks for decades. The difficulty is that it is historically false. Ronald Coase went to the archives in 1974 and found that a great many British lighthouses had in fact been built and operated privately, funded by dues collected at the ports when ships docked. Exclusion was achieved not at the lighthouse but at the harbour. Now, the interesting question is not whether Coase was right about the history, which he largely was. It is why nobody checked for fifty years. The example was too convenient. It illustrated the concept perfectly, it was easy to teach, and each generation of economists inherited it from the last without asking whether the empirical claim buried inside it had ever been examined.",
+   "key": [
+    "the lighthouse was the textbook example of a public good markets cannot supply",
+    "the logic rests on non-excludability and non-rivalry",
+    "Coase showed in 1974 that many British lighthouses were privately built and funded through port dues",
+    "exclusion happened at the harbour rather than at the light itself",
+    "the deeper point is that a convenient illustration went unchecked for fifty years"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "type": "asq",
+   "q": "What is the name of the organ that pumps blood around the human body?",
+   "a": [
+    "heart",
+    "the heart"
+   ]
+  },
+  {
+   "type": "asq",
+   "q": "If a plant is described as annual, does it live for one year or many years?",
+   "a": [
+    "one year",
+    "one",
+    "a year",
+    "one season"
+   ]
+  },
+  {
+   "type": "asq",
+   "q": "What do we call a person who studies rocks and the history of the earth?",
+   "a": [
+    "geologist",
+    "a geologist"
+   ]
+  },
+  {
+   "type": "asq",
+   "q": "In a library, what is the term for the date by which a borrowed book must be returned?",
+   "a": [
+    "due date",
+    "the due date",
+    "return date"
+   ]
+  },
+  {
+   "type": "asq",
+   "q": "Is a substance that dissolves in water described as soluble or insoluble?",
+   "a": [
+    "soluble"
+   ]
+  }
+ ],
+ "discussion": [
+  {
+   "type": "sgd",
+   "turns": [
+    {
+     "speaker": "Leo",
+     "text": "If we put the bike scheme docks only at the main gate, we save money on installation but we lose the people who actually need it, which is anyone living out past the sports centre."
+    },
+    {
+     "speaker": "Nadia",
+     "text": "The sports centre stop was in the original plan and it got cut for a reason. The usage modelling said fewer than thirty rides a day would start there."
+    },
+    {
+     "speaker": "Leo",
+     "text": "Modelling based on what? There's no bike scheme yet, so there's no data. That's a forecast dressed up as a measurement."
+    },
+    {
+     "speaker": "Nadia",
+     "text": "It's based on the same scheme at two comparable campuses. That's not nothing."
+    },
+    {
+     "speaker": "Sam",
+     "text": "Could we phase it? Main gate in September, and commit now to reviewing the sports centre stop in January against real numbers rather than models."
+    },
+    {
+     "speaker": "Nadia",
+     "text": "I'd want the review criteria written down in advance, otherwise January turns into another argument about interpretation."
+    },
+    {
+     "speaker": "Leo",
+     "text": "Agreed, and I'd accept that. My objection is to cutting the stop permanently on evidence that hasn't been collected yet."
+    }
+   ],
+   "key": [
+    "Leo argues the main-gate-only plan excludes students living further out",
+    "Nadia defends the cut, citing usage modelling from comparable campuses",
+    "Leo attacks the modelling as a forecast presented as a measurement",
+    "Sam proposes phasing with a January review against real data",
+    "Nadia accepts on condition the review criteria are fixed in advance; the group converges"
+   ]
+  },
+  {
+   "type": "sgd",
+   "turns": [
+    {
+     "speaker": "Ines",
+     "text": "Free admission is the whole point of a public museum. The moment you charge, visitor numbers fall and the composition of the audience changes, and it never fully recovers."
+    },
+    {
+     "speaker": "Karl",
+     "text": "Numbers fall, yes. But we're not comparing charging against free, we're comparing charging against closing two galleries. That's the actual choice in front of us."
+    },
+    {
+     "speaker": "Ines",
+     "text": "Only because the grant was allowed to erode for six years without anyone challenging it."
+    },
+    {
+     "speaker": "Karl",
+     "text": "That's true and it's also not something we can fix this year."
+    },
+    {
+     "speaker": "Bea",
+     "text": "What about charging for the temporary exhibitions and keeping the permanent collection free? Most of the cost sits in the temporary programme anyway."
+    },
+    {
+     "speaker": "Ines",
+     "text": "That I could support, as long as we're honest that it's a retreat and not a policy we're proud of."
+    },
+    {
+     "speaker": "Karl",
+     "text": "Fine. And it does protect the schools programme, which is the thing I'd least want to lose."
+    }
+   ],
+   "key": [
+    "Ines opposes charging, arguing it permanently changes who visits",
+    "Karl reframes the choice as charging versus closing galleries",
+    "Ines blames six years of grant erosion; Karl concedes but calls it unfixable this year",
+    "Bea proposes charging for temporary exhibitions only, keeping the permanent collection free",
+    "Ines accepts reluctantly and Karl notes it protects the schools programme"
+   ]
+  }
+ ],
+ "situation": [
+  {
+   "type": "rts",
+   "situation": "You need a reference from a lecturer for a scholarship application. The deadline is in four days and you have only just realised it. This lecturer taught you two years ago and you have not been in contact since.",
+   "task": "Speak to the lecturer and ask for the reference.",
+   "key": [
+    "acknowledges the short notice rather than glossing over it",
+    "reminds the lecturer who you are and which course",
+    "states the deadline and what is needed explicitly",
+    "offers to supply supporting material to make it easier",
+    "keeps a respectful register and accepts that a refusal is reasonable"
+   ]
+  },
+  {
+   "type": "rts",
+   "situation": "Your project group has asked you to take on the presentation as well as the data analysis you already agreed to do. You do not have time for both and you think the presentation should go to someone with a lighter load.",
+   "task": "Respond to your group.",
+   "key": [
+    "declines clearly rather than leaving it ambiguous",
+    "gives the reason without over-apologising",
+    "acknowledges the group's need rather than only your own constraint",
+    "proposes a specific alternative allocation",
+    "keeps a collaborative register appropriate to peers you will keep working with"
+   ]
+  }
+ ],
+ "swt": [
+  {
+   "type": "swt",
+   "passage": "Rewilding has become one of the most contested ideas in conservation, largely because its advocates and its critics are arguing about different things. To its proponents, rewilding means stepping back: removing fences, reintroducing missing species, and allowing ecological processes to resume without a management plan specifying the outcome. The appeal is partly practical, since intensive habitat management is expensive and must be funded indefinitely, and partly philosophical, since it treats nature as a process rather than a museum exhibit to be maintained in a chosen state. Critics respond that the landscapes being rewilded are not blank. In Britain, for example, much of the flora that conservationists value evolved alongside centuries of grazing and coppicing, and withdrawing management would eliminate exactly the species that legal designations were created to protect. There is also the question of which baseline to restore, since any date chosen is arbitrary and reflects a preference rather than a scientific fact. The most productive recent work sidesteps the argument entirely by asking not what a landscape should look like but which processes are missing from it, an approach that permits reintroducing a grazing animal without committing anyone to a particular vision of the past.",
+   "key": [
+    "rewilding means withdrawing management and letting ecological processes resume",
+    "its appeal is both financial and philosophical",
+    "critics note that valued habitats were themselves created by centuries of management",
+    "choosing a baseline date is arbitrary and reflects preference",
+    "recent work asks which processes are missing rather than what the landscape should look like"
+   ]
+  },
+  {
+   "type": "swt",
+   "passage": "Standard time zones were not invented by governments but by railway companies, and the reason is a scheduling problem that becomes obvious once stated. Before the 1840s every town kept its own clock, set by local noon, so that Bristol ran roughly ten minutes behind London and every intermediate station differed from both. A timetable published in one town was therefore wrong everywhere else, and as train speeds rose the discrepancies stopped being a curiosity and started causing collisions. British railways adopted London time unilaterally in the 1840s, printing it alongside local time on station clocks, and the public gradually stopped consulting the local hand. Legal recognition trailed practice by decades: Parliament did not formalise the arrangement until 1880, by which point almost nobody outside a few parish churches was still keeping local time. The pattern is a common one in the history of infrastructure. A private actor imposes a standard because coordination is cheaper than negotiation, the public adapts to it because the alternative is inconvenience, and the law eventually records what has already happened rather than deciding it.",
+   "key": [
+    "railways, not governments, introduced standard time",
+    "local time varied between towns, making timetables unreliable and dangerous",
+    "British railways adopted London time unilaterally in the 1840s",
+    "legal recognition came only in 1880, decades after practice",
+    "the pattern is that private standards are adopted first and the law records them afterwards"
+   ]
+  }
+ ],
+ "essay": [
+  {
+   "type": "we",
+   "prompt": "Many countries are considering whether to make voting compulsory, as it already is in several democracies. Supporters argue that compulsory voting produces governments that represent the whole population, while opponents argue that the freedom not to vote is itself a democratic right. Discuss both views and give your own opinion. Write 200-300 words."
+  }
+ ],
+ "reading": [
+  {
+   "type": "rwfib",
+   "text": "The idea that a language can be 'pure' has no ___0___ basis whatsoever. Every widely spoken language is a record of the contacts its speakers have had, and English is a particularly ___1___ example, having absorbed vocabulary from Norse, French, Latin and a long list of colonial encounters. Attempts to ___2___ borrowed words usually fail, not because the campaigners lack ___3___ but because speakers select whichever term is most useful to them.",
+   "blanks": [
+    {
+     "options": [
+      "linguistic",
+      "linguistics",
+      "lingering",
+      "linear"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "extreme",
+      "extended",
+      "external",
+      "exempt"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "expel",
+      "expand",
+      "expose",
+      "expend"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "influence",
+      "inflation",
+      "inference",
+      "infusion"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "type": "rwfib",
+   "text": "Archaeologists working on shipwrecks face a problem their land-based colleagues rarely ___0___. Objects that have rested in seawater for centuries reach a chemical equilibrium with it, and lifting them into air ___1___ that balance immediately. Iron begins to corrode within hours and waterlogged timber ___2___ as it dries, splitting along the grain. Excavation therefore has to be planned around a conservation ___3___ that may run for decades after the dive itself is finished.",
+   "blanks": [
+    {
+     "options": [
+      "encounter",
+      "encircle",
+      "enclose",
+      "endorse"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "destroys",
+      "deserves",
+      "detects",
+      "depicts"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "shrinks",
+      "shrieks",
+      "shields",
+      "shifts"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "programme",
+      "proportion",
+      "progression",
+      "prohibition"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "type": "rwfib",
+   "text": "Economists distinguish sharply between a shortage and ___0___. A shortage means demand exceeds supply at the current price and will disappear if the price is allowed to rise. Scarcity is ___1___: there is a finite quantity and no price will produce more. Confusing the two leads to policy that ___2___ the wrong instrument, which is why rationing works for the second case and price ___3___ generally makes the first case worse.",
+   "blanks": [
+    {
+     "options": [
+      "scarcity",
+      "security",
+      "sincerity",
+      "severity"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "absolute",
+      "absorbent",
+      "abundant",
+      "abrupt"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "applies",
+      "appeals",
+      "appears",
+      "appends"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "controls",
+      "contracts",
+      "contrasts",
+      "contests"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "type": "rwfib",
+   "text": "The nocturnal habits of many desert mammals are usually ___0___ to heat avoidance, and that is largely correct, but water is the more ___1___ constraint. An animal active at noon loses moisture through respiration far faster than one active at midnight, and in an environment where drinking opportunities are ___2___, the difference determines whether a species can persist there at all. Behaviour that looks like a response to temperature is often a response to ___3___.",
+   "blanks": [
+    {
+     "options": [
+      "attributed",
+      "attracted",
+      "attained",
+      "attended"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "pressing",
+      "pressed",
+      "precise",
+      "previous"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "rare",
+      "raw",
+      "rash",
+      "ripe"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "dehydration",
+      "deviation",
+      "deduction",
+      "depletion"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "type": "rwfib",
+   "text": "Museums have begun to publish the ___0___ of the objects they hold, listing every previous owner where the record permits. The practice was introduced to address ___1___ acquisitions, but it has had a wider effect. Visitors who can see that an object passed through four hands before reaching the display case tend to ask different questions about it, and curators report that the labels ___2___ more discussion than the objects themselves. Transparency, it turns out, is not merely a ___3___ measure.",
+   "blanks": [
+    {
+     "options": [
+      "provenance",
+      "prominence",
+      "providence",
+      "prevalence"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "disputed",
+      "displayed",
+      "disposed",
+      "dispersed"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "generate",
+      "generalise",
+      "germinate",
+      "gesture"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "defensive",
+      "decisive",
+      "descriptive",
+      "destructive"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "type": "rmcma",
+   "passage": "The replication crisis is usually described as a problem of dishonesty, but the more troubling explanation is that it can arise from researchers behaving reasonably at every individual step. A scientist who collects data, finds nothing, and abandons the project is not committing fraud. A journal that prefers positive results to null ones is following its readers' interest. A reviewer who is more sceptical of a surprising null result than a surprising positive one is applying ordinary judgement. Yet the aggregate of these defensible choices is a published literature in which the proportion of true findings is far lower than the individual statistics suggest. This is why reforms have concentrated on structure rather than conduct. Pre-registration removes the option of reframing an exploratory analysis as a confirmatory one. Registered reports commit a journal to publication before results are known. Neither measure assumes bad faith, and that is precisely their strength: a remedy that depends on identifying dishonest researchers cannot address a problem produced by honest ones.",
+   "q": "Which of the following are stated or clearly implied by the passage?",
+   "options": [
+    "The crisis can be produced by researchers who act reasonably at each individual stage.",
+    "Journals' preference for positive findings contributes to the distortion.",
+    "The author argues that most affected researchers have committed deliberate fraud.",
+    "Registered reports commit a journal to publishing before the results are known.",
+    "Pre-registration works by helping editors identify dishonest researchers."
+   ],
+   "answers": [
+    0,
+    1,
+    3
+   ]
+  },
+  {
+   "type": "ro",
+   "paras": [
+    "In 1943 a Dutch art dealer named Han van Meegeren was arrested and charged with selling a national treasure to Hermann Goering.",
+    "The painting in question was attributed to Vermeer, and collaborating in its export carried the possibility of a death sentence.",
+    "Van Meegeren's defence was extraordinary: he claimed the painting was not a Vermeer at all, but a forgery he had made himself.",
+    "To prove it, he was supplied with materials and painted a further 'Vermeer' under guard while the court waited.",
+    "He was convicted of forgery rather than treason, and died of a heart attack before serving his sentence."
+   ]
+  },
+  {
+   "type": "ro",
+   "paras": [
+    "For most of the twentieth century it was assumed that adult brains produce no new neurons.",
+    "The doctrine was so firmly held that early reports of neurogenesis in adult rodents were dismissed as artefacts of poor staining.",
+    "Confirmation came only when a method borrowed from cancer research allowed dividing cells to be labelled and tracked.",
+    "Applied to the human hippocampus, the technique revealed a modest but steady production of new cells throughout life.",
+    "The finding reopened questions about recovery from injury that had been considered settled for decades."
+   ]
+  },
+  {
+   "type": "rfib",
+   "text": "The shipping container did more to reshape world trade than any trade ___0___ of the twentieth century. Before it, cargo was loaded piece by piece by gangs of dockers, and the cost of moving goods between ship and shore frequently exceeded the cost of the ocean ___1___ itself. A standard steel box that could pass from lorry to train to ship without being ___2___ collapsed that expense, but it required agreement on dimensions that no single company could ___3___ alone. Ports that refused to adapt lost their traffic within a ___4___, and several great harbours became derelict while obscure deep-water sites grew into the largest in the world.",
+   "bank": [
+    "agreement",
+    "crossing",
+    "opened",
+    "impose",
+    "decade",
+    "invention",
+    "cargo",
+    "emptied",
+    "achieve",
+    "century"
+   ],
+   "answers": [
+    "agreement",
+    "crossing",
+    "opened",
+    "impose",
+    "decade"
+   ]
+  },
+  {
+   "type": "rfib",
+   "text": "Noise pollution is measured on a logarithmic ___0___, which makes public discussion of it unusually difficult. An increase of ten decibels represents a tenfold rise in sound ___1___, but is perceived as roughly a doubling of loudness. Residents told that a new road will raise levels by only a few decibels are therefore being given a figure that is technically ___2___ and practically misleading. Regulators have begun to ___3___ perceived loudness alongside the physical measurement, on the grounds that the ___4___ of the policy is the experience of the people living beside the road.",
+   "bank": [
+    "scale",
+    "energy",
+    "accurate",
+    "report",
+    "subject",
+    "system",
+    "volume",
+    "doubtful",
+    "reduce",
+    "object"
+   ],
+   "answers": [
+    "scale",
+    "energy",
+    "accurate",
+    "report",
+    "subject"
+   ]
+  },
+  {
+   "type": "rfib",
+   "text": "Traditional Polynesian navigators crossed thousands of kilometres of open ocean without ___0___. They read swell patterns refracting around islands still below the ___1___, tracked the rising and setting points of particular stars, and watched the flight paths of birds that return to land at ___2___. The knowledge was held in memory and transmitted through ___3___ rather than writing, which made it vulnerable: when the chain of teaching was broken by colonisation, several navigational traditions were lost within a single ___4___.",
+   "bank": [
+    "instruments",
+    "horizon",
+    "dusk",
+    "apprenticeship",
+    "generation",
+    "charts",
+    "surface",
+    "dawn",
+    "observation",
+    "century"
+   ],
+   "answers": [
+    "instruments",
+    "horizon",
+    "dusk",
+    "apprenticeship",
+    "generation"
+   ]
+  },
+  {
+   "type": "rfib",
+   "text": "Antarctic ice cores provide a continuous climate record because snow that falls there almost never ___0___. Each annual layer traps air bubbles, and those bubbles are a direct ___1___ of the atmosphere at the moment the snow was buried. Deeper layers are compressed by the weight above them, so resolution ___2___ with depth, and beyond about eight hundred thousand years the layers become too thin to ___3___ individually. That figure is the current ___4___ of the technique rather than the age of the ice itself.",
+   "bank": [
+    "melts",
+    "sample",
+    "declines",
+    "resolve",
+    "limit",
+    "freezes",
+    "record",
+    "improves",
+    "recover",
+    "start"
+   ],
+   "answers": [
+    "melts",
+    "sample",
+    "declines",
+    "resolve",
+    "limit"
+   ]
+  },
+  {
+   "type": "rmcsa",
+   "passage": "It is frequently asserted that the printing press caused the Reformation, and the correlation is certainly striking: Luther's tracts were reprinted at a speed no earlier controversy could have matched, and the areas where printing was densest were the areas that converted first. The difficulty with the causal claim is that the press had already existed for seventy years without producing anything comparable. What changed was not the technology but the format. Luther wrote short, cheap pamphlets in German rather than long Latin treatises, and it was this decision that made the existing machinery politically potent. The press did not create the Reformation; it removed the constraint that had previously made a movement of that kind impossible to sustain, which is a weaker claim and a more defensible one.",
+   "q": "How does the author characterise the relationship between printing and the Reformation?",
+   "options": [
+    "The press removed a constraint rather than causing the movement.",
+    "The press had no meaningful effect on the spread of Reformation ideas.",
+    "The press caused the Reformation by making Latin treatises widely available.",
+    "The correlation between printing density and conversion is coincidental."
+   ],
+   "answer": 0
+  },
+  {
+   "type": "rmcsa",
+   "passage": "Behavioural economists have documented what they call the endowment effect: people demand considerably more to give up an object than they would have paid to acquire it. In the classic demonstration, students given a mug valued it at roughly twice what students without a mug were willing to pay for the identical item. The finding is robust and has been replicated across cultures, but its interpretation remains disputed. One camp treats it as evidence of loss aversion, a general asymmetry in how gains and losses are weighed. Another argues that it reflects nothing more exotic than uncertainty about the market price, since a seller who does not know what a mug is worth has every reason to open high. The distinction matters because the two accounts predict different behaviour once a market price becomes known.",
+   "q": "According to the passage, why does the interpretation of the endowment effect matter?",
+   "options": [
+    "Because the competing explanations predict different behaviour when market prices are known.",
+    "Because the effect has failed to replicate outside a single cultural context.",
+    "Because loss aversion has been shown to be the only viable explanation.",
+    "Because sellers consistently undervalue objects they already own."
+   ],
+   "answer": 0
+  }
+ ],
+ "listening": [
+  {
+   "type": "sst",
+   "transcript": "I'd like to spend this session on a question that sounds simple and turns out not to be: why do we have fingerprints? The textbook answer, the one most of you will have met at school, is grip. Ridges increase friction, the argument goes, in the same way that tread increases the grip of a tyre. It is an appealing analogy and it appears to be wrong. Rubber tyres grip through deformation, and human skin is soft enough that a smooth fingertip would actually make more contact with a smooth surface than a ridged one. When researchers measured it directly, using a machine that dragged fingertips across glass under controlled load, ridged skin gripped slightly worse than flat skin. So the tread hypothesis fails its own test. Two alternatives are currently taken seriously. The first is moisture regulation. The ridges channel sweat away from the contact area, which matters because a film of water destroys grip entirely, and they can also draw a small amount of moisture up when the skin is too dry, which improves it. Fingerprints on this account are not the grip mechanism but the system that keeps grip within a workable range. The second hypothesis concerns touch. The spacing of the ridges is remarkably close to the spacing that would optimally stimulate the vibration receptors sitting underneath them. Dragging a ridged fingertip across a fine texture produces vibrations in exactly the frequency band those receptors detect best. On this view fingerprints are an amplifier for fine texture discrimination. What I find instructive here is not which hypothesis wins. It is that a claim repeated in textbooks for a century had apparently never been measured until somebody thought to build the machine.",
+   "key": [
+    "the standard grip explanation fails direct measurement: ridged skin gripped slightly worse than flat",
+    "the tyre analogy misapplies deformation-based grip to soft skin",
+    "moisture regulation: ridges drain sweat and can draw moisture up when dry",
+    "touch amplification: ridge spacing matches the optimal stimulus for vibration receptors",
+    "the wider lesson is that a textbook claim went unmeasured for a century"
+   ]
+  },
+  {
+   "type": "lmcma",
+   "transcript": "Before you begin the fieldwork module there are several things you need to have in place, and I want to be clear about which are negotiable and which are not. The ethics approval is not negotiable. No data collection of any kind may begin before your form is signed, and that includes pilot interviews you might think of as informal. The risk assessment is also compulsory, and it must be countersigned by your supervisor rather than submitted by you alone. Insurance is arranged centrally, so you do not need to do anything about it, but you do need to register your travel dates so that the cover applies. The equipment training session is strongly recommended and most of you will find it saves time, but it is not a requirement if you have used the recorders before. Finally, the fieldwork diary. Some of you have asked whether it is assessed. It is not, but supervisors have consistently found that students who keep one write better methodology chapters.",
+   "q": "According to the speaker, which of the following are compulsory?",
+   "options": [
+    "Ethics approval before any data collection.",
+    "A risk assessment countersigned by the supervisor.",
+    "Registering travel dates so insurance applies.",
+    "Attending the equipment training session.",
+    "Keeping an assessed fieldwork diary."
+   ],
+   "answers": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "type": "lfib",
+   "transcript": "Bats do not simply emit a call and listen for the echo; they solve a problem that engineers took decades to [replicate]. A bat closing on an insect raises its call rate to more than two hundred pulses a second, and each returning echo must be matched to the pulse that [produced] it. To avoid deafening itself, the animal contracts the muscles of its middle ear a fraction of a second before each [call] and releases them in time to hear the return. Species hunting in the same airspace shift their frequencies apart, a form of [division] that prevents one bat's echoes from being mistaken for another's. The whole system operates on a [timescale] shorter than a human blink."
+  },
+  {
+   "type": "lfib",
+   "transcript": "Urban foxes are not, as is commonly assumed, animals driven into cities by rural [persecution]. Genetic work shows that city populations are largely [descended] from foxes that colonised suburbs during the housing expansion of the nineteen thirties, and they have since diverged from their country relatives in measurable ways. Their skulls are shorter and their snouts [broader], adaptations associated with a diet requiring more [force] and less precision. Domestication is the wrong word for this, but the direction of change is [familiar]."
+  },
+  {
+   "type": "hcs",
+   "transcript": "I want to correct something about the Stanford prison experiment, because it is still taught as though the finding were solid. The study is usually summarised as showing that ordinary people placed in a position of authority become cruel spontaneously. What the archival tapes actually show, released decades later, is that the guards were coached. The experimenters told them explicitly that a passive guard was of no use to the study, and one guard's notorious cruelty was substantially performed: he later said he was acting a character. Several participants reported that they had understood what results were wanted and delivered them. None of this makes situational influence unreal, and the broader literature does support it. But it means the most famous demonstration of that principle is not evidence for it, and continuing to teach it as such trades a real finding for a memorable story.",
+   "options": [
+    "Archival tapes show that guards in the Stanford prison experiment were coached toward cruelty and that some were performing, so the study does not demonstrate the spontaneous effect it is famous for, even though situational influence is supported by other research.",
+    "The Stanford prison experiment has been fully replicated in recent years, confirming that ordinary people placed in positions of authority become cruel without any prompting from researchers.",
+    "The speaker argues that situational influences on behaviour are largely fictional and that the broader psychological literature on the subject should be discarded along with the original study.",
+    "The Stanford prison experiment was terminated early because of the extreme distress of its participants, which is why its findings about authority and cruelty were never formally published."
+   ],
+   "answer": 0
+  },
+  {
+   "type": "lmcsa",
+   "transcript": "A brief word about the reading list, because I have been asked about it three times this week. It is long. It is deliberately long. You are not expected to read all of it, and the students who try tend to do worse rather than better, because they read everything at the same shallow depth. What I want instead is that you read the four starred items properly, meaning slowly, with notes, more than once if necessary. The rest of the list exists so that when you find a topic you want to pursue in the essay, there is somewhere to go. Think of it as a map rather than an itinerary. If you have read four things well and can say something precise about them, you will write a better essay than someone who has skimmed forty.",
+   "q": "What is the speaker's main point about the reading list?",
+   "options": [
+    "Students should read the four starred items thoroughly and treat the rest as a resource.",
+    "The reading list is too long and will be shortened for next year.",
+    "Students who read more items on the list consistently achieve higher marks.",
+    "The list should be read in full but at a fairly shallow level."
+   ],
+   "answer": 0
+  },
+  {
+   "type": "smw",
+   "transcript": "One of the more counter-intuitive results in transport planning is that adding a lane to a congested motorway often fails to reduce congestion. The reason is that journeys which were previously not worth making become worth making once the road is faster. Traffic expands to fill the new capacity within a few years, a phenomenon known as induced [BEEP].",
+   "options": [
+    "demand",
+    "delay",
+    "distance",
+    "design"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "hiw",
+   "spoken": "Bees do not navigate by landmarks alone. A returning forager performs a waggle dance on the vertical comb, and the angle of the dance relative to gravity encodes the direction of the food source relative to the sun. The duration of the waggle indicates distance What makes this remarkable is that the dance is performed in complete darkness inside the hive, so the other bees read it by touch rather than sight.",
+   "swaps": {
+    "13": "movement",
+    "27": "decodes",
+    "44": "altitude.",
+    "57": "silence",
+    "68": "sound"
+   }
+  },
+  {
+   "type": "hiw",
+   "spoken": "Volcanic eruptions can cool the planet for several years. Sulphur dioxide injected into the stratosphere forms tiny droplets that reflect incoming sunlight before it reaches the surface. The eruption of Mount Pinatubo in 1991 lowered average global temperatures by roughly half a degree for about two years. Because the droplets eventually settle out, the effect is temporary which is why volcanoes do not offset long-term warming.",
+   "swaps": {
+    "14": "atmosphere",
+    "19": "absorb",
+    "34": "raised",
+    "56": "permanent,",
+    "63": "amplify"
+   }
+  },
+  {
+   "type": "wfd",
+   "text": "The seminar room has been double booked for Wednesday afternoon."
+  },
+  {
+   "type": "wfd",
+   "text": "Reliable data on rural employment remains extremely difficult to obtain."
+  },
+  {
+   "type": "wfd",
+   "text": "All applicants must provide evidence of their previous qualifications."
+  }
+ ]
+}
