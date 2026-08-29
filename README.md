@@ -109,8 +109,6 @@ on every item.
 ```
 index.html              the app
 404.html                shown for any unknown address
-.nojekyll               tells Pages to serve the files as they are
-GIT-COMMANDS.txt        step-by-step commands for publishing
 css/app.css
 js/                     util, store, state, api, speech, meta, charts,
                         grade, items, runner, results, generate, ui, main
