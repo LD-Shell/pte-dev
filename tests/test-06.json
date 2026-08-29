@@ -1,0 +1,934 @@
+{
+ "no": 6,
+ "title": "Practice Test 6",
+ "source": "hand-written",
+ "format": "PTE Academic, 2025 revision (22 task types)",
+ "speaking": [
+  {
+   "type": "ra",
+   "text": "Bamboo is a grass rather than a tree, and some species grow almost a metre in a single day. The stem emerges at its final diameter and simply extends, which is why a bamboo pole never thickens with age and why a stand can be harvested indefinitely without replanting anything."
+  },
+  {
+   "type": "ra",
+   "text": "The compass reached Europe several centuries after it was described in China, and its first recorded use there was not for navigation at sea. Surveyors used it to align buildings and to establish property boundaries, and only later did anyone trust it enough to steer by out of sight of land."
+  },
+  {
+   "type": "ra",
+   "text": "Photographic film recorded an image chemically, so a photographer could not know whether a picture had worked until the roll was developed. This delay shaped the practice of the medium: exposures were rationed, compositions were considered at length, and the habit of taking a dozen frames of the same subject arrived only with the digital sensor."
+  },
+  {
+   "type": "ra",
+   "text": "Enzymes accelerate reactions that would otherwise take years, and they do so without being consumed. Each one holds two molecules in precisely the orientation required for them to react, which removes most of the difficulty from a process that would otherwise depend on a chance collision at exactly the right angle."
+  },
+  {
+   "type": "ra",
+   "text": "The Bayeux Tapestry is not a tapestry but an embroidery, and it was almost certainly made in England rather than in France. It survives partly through luck: during the French Revolution it was requisitioned as a wagon cover and rescued by a lawyer who recognised what was about to be cut up."
+  },
+  {
+   "type": "ra",
+   "text": "Fog forms when air cools to the point at which it can no longer hold its moisture, but it disperses for reasons that have little to do with warmth. Wind mixes the saturated layer with drier air above it, which is why a still, cold morning can remain thick with fog long after the sun has risen."
+  }
+ ],
+ "repeat": [
+  {
+   "type": "rs",
+   "text": "The results will be published on the noticeboard next Monday morning."
+  },
+  {
+   "type": "rs",
+   "text": "Every participant received a written summary of the study."
+  },
+  {
+   "type": "rs",
+   "text": "He spent four years collecting material in regional archives."
+  },
+  {
+   "type": "rs",
+   "text": "Laboratory coats must be worn at all times in this area."
+  },
+  {
+   "type": "rs",
+   "text": "The second edition corrects a number of errors in the first."
+  },
+  {
+   "type": "rs",
+   "text": "Feedback on your draft will normally be returned within two weeks."
+  },
+  {
+   "type": "rs",
+   "text": "Several countries have adopted similar policies in recent years."
+  },
+  {
+   "type": "rs",
+   "text": "The building was designed by an architect who never saw it completed."
+  },
+  {
+   "type": "rs",
+   "text": "Please indicate clearly which question you have chosen to answer."
+  },
+  {
+   "type": "rs",
+   "text": "Rainfall in the region has declined steadily over three decades."
+  }
+ ],
+ "images": [
+  {
+   "type": "di",
+   "chart": {
+    "kind": "bar",
+    "title": "Average household spending by category, two income groups",
+    "unit": "% of total household spending",
+    "xLabel": "Category",
+    "categories": [
+     "Housing",
+     "Food",
+     "Transport",
+     "Health",
+     "Education",
+     "Leisure"
+    ],
+    "series": [
+     {
+      "name": "Lowest fifth",
+      "values": [
+       38,
+       26,
+       11,
+       9,
+       5,
+       11
+      ]
+     },
+     {
+      "name": "Highest fifth",
+      "values": [
+       21,
+       12,
+       17,
+       6,
+       9,
+       35
+      ]
+     }
+    ],
+    "summary": "The lowest income group spends far more of its budget on necessities: 38 per cent on housing and 26 on food, together nearly two thirds. The highest group spends 21 and 12 on the same categories but 35 per cent on leisure, more than three times the lower group's 11. Transport and education are both higher for the wealthier group. A strong answer contrasts necessity spending with discretionary spending as proportions, gives the housing and leisure figures for both groups, and notes that a smaller share does not mean a smaller sum."
+   }
+  },
+  {
+   "type": "di",
+   "chart": {
+    "kind": "pie",
+    "title": "Sources of freshwater withdrawal worldwide",
+    "labels": [
+     "Agriculture",
+     "Industry",
+     "Municipal supply",
+     "Energy cooling"
+    ],
+    "values": [
+     69,
+     12,
+     11,
+     8
+    ],
+    "summary": "Agriculture dominates at 69 per cent, more than five times the next largest category. Industry takes 12 per cent, municipal supply 11 and energy cooling 8. A strong answer states that agriculture uses more than two thirds of all withdrawn freshwater, notes that the remaining three categories are of broadly similar size, and draws the implication that domestic conservation addresses only about a tenth of the total."
+   }
+  },
+  {
+   "type": "di",
+   "chart": {
+    "kind": "map",
+    "title": "Proposed pedestrianisation of the market quarter",
+    "legend": "Current layout above, proposal below",
+    "panels": [
+     {
+      "label": "Current",
+      "features": [
+       {
+        "t": "road",
+        "x": 0,
+        "y": 40,
+        "w": 100,
+        "h": 10,
+        "name": "High Street"
+       },
+       {
+        "t": "block",
+        "x": 6,
+        "y": 8,
+        "w": 38,
+        "h": 26,
+        "name": "Market hall"
+       },
+       {
+        "t": "block",
+        "x": 56,
+        "y": 8,
+        "w": 36,
+        "h": 26,
+        "name": "Shops"
+       },
+       {
+        "t": "block",
+        "x": 10,
+        "y": 58,
+        "w": 34,
+        "h": 30,
+        "name": "Surface car park"
+       },
+       {
+        "t": "block",
+        "x": 58,
+        "y": 58,
+        "w": 32,
+        "h": 30,
+        "name": "Bus depot"
+       }
+      ]
+     },
+     {
+      "label": "Proposed",
+      "features": [
+       {
+        "t": "park",
+        "x": 0,
+        "y": 38,
+        "w": 100,
+        "h": 14,
+        "name": "Pedestrian plaza"
+       },
+       {
+        "t": "block",
+        "x": 6,
+        "y": 8,
+        "w": 38,
+        "h": 26,
+        "name": "Market hall"
+       },
+       {
+        "t": "block",
+        "x": 56,
+        "y": 8,
+        "w": 36,
+        "h": 26,
+        "name": "Shops"
+       },
+       {
+        "t": "park",
+        "x": 10,
+        "y": 58,
+        "w": 34,
+        "h": 30,
+        "name": "Public garden"
+       },
+       {
+        "t": "road",
+        "x": 58,
+        "y": 58,
+        "w": 32,
+        "h": 12,
+        "name": "Bus interchange"
+       },
+       {
+        "t": "block",
+        "x": 58,
+        "y": 74,
+        "w": 32,
+        "h": 14,
+        "name": "Cycle store"
+       }
+      ]
+     }
+    ],
+    "summary": "Two plans of the same quarter. Currently High Street runs through the middle as a road, with a surface car park and a bus depot to the south. The proposal converts High Street into a pedestrian plaza, replaces the car park with a public garden, shrinks the bus depot into a smaller interchange and adds a cycle store behind it. The market hall and shops are unchanged. A strong answer compares the two directly, identifies the removal of through traffic and parking as the central change, and notes which buildings are retained."
+   }
+  }
+ ],
+ "lecture": [
+  {
+   "type": "rl",
+   "transcript": "I want to look at how we know what the inside of the earth is made of, because nobody has ever been anywhere near it. The deepest borehole ever drilled reached about twelve kilometres, which sounds impressive until you realise the radius of the planet is over six thousand. So the interior is inferred entirely, and it is inferred principally from earthquakes. When a large earthquake occurs, it sends out two kinds of wave. Pressure waves compress the material in front of them and can travel through anything. Shear waves move material sideways and cannot pass through a liquid at all, because a liquid offers no resistance to being sheared. Now, seismometers all over the world record both kinds after a distant earthquake, and in the nineteen thirties it became clear that there is a region on the far side of the planet where the pressure waves arrive but the shear waves never do. That shadow zone is the evidence for a liquid outer core, and its size and shape give you the depth at which the liquid begins. Later work found that pressure waves entering the very centre speed up again, which indicates that the innermost core is solid despite being hotter, because the pressure there is high enough to force it back into a solid state. What I want you to take away is the structure of the argument. We have no sample and no possibility of one. What we have is a wave that behaves differently in different materials, and a planet full of instruments listening to it.",
+   "key": [
+    "the deepest borehole reaches twelve kilometres against a radius of over six thousand, so the interior is inferred",
+    "earthquakes produce pressure waves that pass through anything and shear waves that cannot cross a liquid",
+    "a shadow zone where pressure waves arrive but shear waves do not indicates a liquid outer core",
+    "the shape of the shadow zone gives the depth at which the liquid begins",
+    "pressure waves speeding up at the centre indicate a solid inner core held solid by pressure despite the heat",
+    "the whole picture comes from waves behaving differently in different materials, with no sample available"
+   ]
+  },
+  {
+   "type": "rl",
+   "transcript": "Today I want to discuss why translation of poetry is generally considered impossible, and why people nevertheless keep doing it. The difficulty is not vocabulary. Any competent translator can find an equivalent word. The difficulty is that a poem carries meaning through several channels simultaneously, and these channels are attached to the particular language in ways that cannot be transferred together. Consider what is happening at once. There is the semantic content, what the words denote. There is the sound: rhyme, rhythm, the texture of consonants. There is the register, whether a word feels archaic or colloquial. There is allusion, the way a phrase gestures at earlier literature the original audience would recognise. And there is the shape on the page. A translator can preserve any two or three of these. Preserving all of them is not merely difficult but structurally impossible, because the sound of a word in one language has no relationship to the sound of its equivalent in another. So every translation is a set of decisions about what to sacrifice, and the interesting thing is that the decisions are visible. Compare three English versions of the same Greek poem and you can reconstruct what each translator valued: one has kept the metre and flattened the imagery, another has preserved the images and abandoned the music entirely. This is why some scholars argue that a poem is best represented not by one translation but by several read together, on the grounds that the original sits somewhere in the space between them.",
+   "key": [
+    "the difficulty is not vocabulary but that a poem carries meaning through several channels at once",
+    "the channels are semantic content, sound, register, allusion and visual shape",
+    "a translator can preserve two or three but not all, because sound does not transfer between languages",
+    "every translation is therefore a set of visible decisions about what to sacrifice",
+    "comparing versions reveals what each translator valued",
+    "some argue a poem is best represented by several translations read together"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "type": "asq",
+   "q": "What do we call a period of ten years?",
+   "a": [
+    "decade",
+    "a decade"
+   ]
+  },
+  {
+   "type": "asq",
+   "q": "If a container is described as empty, does it hold anything?",
+   "a": [
+    "no",
+    "nothing",
+    "no it does not",
+    "it holds nothing"
+   ]
+  },
+  {
+   "type": "asq",
+   "q": "Which meal is normally eaten in the morning?",
+   "a": [
+    "breakfast"
+   ]
+  },
+  {
+   "type": "asq",
+   "q": "What is the term for a person who translates speech from one language to another as it is spoken?",
+   "a": [
+    "interpreter",
+    "an interpreter"
+   ]
+  },
+  {
+   "type": "asq",
+   "q": "Is a book that presents facts about real events classified as fiction or non-fiction?",
+   "a": [
+    "non-fiction",
+    "nonfiction",
+    "non fiction"
+   ]
+  }
+ ],
+ "discussion": [
+  {
+   "type": "sgd",
+   "turns": [
+    {
+     "speaker": "Anya",
+     "text": "Recording every seminar for accessibility sounds unarguable until you sit in one. People stop saying half-formed things, and half-formed things are what a seminar is for."
+    },
+    {
+     "speaker": "Dev",
+     "text": "That's a real cost, but it's being paid entirely by students who can't attend. They currently get nothing at all, and we're weighing their nothing against our slight awkwardness."
+    },
+    {
+     "speaker": "Anya",
+     "text": "I'd accept that framing if the alternative were nothing. It isn't. Detailed notes circulated afterwards would give them the content without freezing the room."
+    },
+    {
+     "speaker": "Dev",
+     "text": "Notes are written by whoever is asked, and they smooth out precisely the disagreements that matter. You'd be giving them the conclusions without the argument."
+    },
+    {
+     "speaker": "Mira",
+     "text": "What about recording but restricting access to registered students who've declared a need, with the recording deleted at the end of term?"
+    },
+    {
+     "speaker": "Anya",
+     "text": "Deletion helps. My worry is permanence, not access. A remark that exists for eight weeks is different from one that exists forever."
+    },
+    {
+     "speaker": "Dev",
+     "text": "Then the deletion date is the thing to argue about, and we've stopped arguing about whether to record at all."
+    }
+   ],
+   "key": [
+    "Anya objects that recording seminars makes participants guarded and suppresses tentative contributions",
+    "Dev argues the cost currently falls entirely on students unable to attend",
+    "Anya proposes circulated notes instead; Dev replies these smooth over the disagreements that matter",
+    "Mira suggests restricted access with deletion at the end of term",
+    "Anya accepts, clarifying that her concern was permanence rather than access"
+   ]
+  },
+  {
+   "type": "sgd",
+   "turns": [
+    {
+     "speaker": "Cal",
+     "text": "Charging a deposit on the loan equipment will stop it disappearing, and everyone I've spoken to in the technical team agrees."
+    },
+    {
+     "speaker": "Zoe",
+     "text": "It will also stop the students who most need to borrow it. A fifty-pound deposit is nothing to some people in this department and impossible for others."
+    },
+    {
+     "speaker": "Cal",
+     "text": "We lost eleven cameras last year. That's the budget for a whole module."
+    },
+    {
+     "speaker": "Zoe",
+     "text": "Eleven out of how many loans? If it's eleven out of two thousand, we're designing a policy around half a per cent."
+    },
+    {
+     "speaker": "Cal",
+     "text": "I don't have that number to hand, which I accept weakens my case."
+    },
+    {
+     "speaker": "Nikhil",
+     "text": "Could we hold the deposit against the student record rather than take money? A charge only applies if the item isn't returned, so nobody pays anything up front."
+    },
+    {
+     "speaker": "Zoe",
+     "text": "That removes the barrier and keeps the deterrent. I'd support it provided the appeal route is clear for genuine loss."
+    }
+   ],
+   "key": [
+    "Cal proposes an equipment deposit to reduce losses",
+    "Zoe objects that it excludes students who can least afford it",
+    "Cal cites eleven lost cameras; Zoe asks for the loss rate rather than the raw number",
+    "Cal concedes he lacks that figure",
+    "Nikhil proposes charging against the student record only on non-return, with nothing paid up front",
+    "Zoe accepts provided there is a clear appeal route"
+   ]
+  }
+ ],
+ "situation": [
+  {
+   "type": "rts",
+   "situation": "You ordered a laptop online for next-day delivery because you need it for an assessment. It has not arrived after five days, and the tracking page has shown the same status since the second day. You have already used the online chat without getting a clear answer.",
+   "task": "Telephone the retailer's customer service.",
+   "key": [
+    "summarises the order, the promised delivery and what has happened so far",
+    "mentions that the online chat has already been tried",
+    "explains the deadline that makes this urgent",
+    "asks for a specific outcome rather than an update",
+    "stays firm and civil with someone who did not cause the problem"
+   ]
+  },
+  {
+   "type": "rts",
+   "situation": "A colleague has repeatedly presented shared work in meetings using the word 'I' rather than 'we'. You have done roughly half of it. They may not be aware they are doing it, and you have to keep working with them.",
+   "task": "Speak to your colleague.",
+   "key": [
+    "raises it directly rather than letting it continue",
+    "cites the specific behaviour rather than accusing them of dishonesty",
+    "allows for the possibility that it was unintentional",
+    "says what you would like to happen next time",
+    "keeps a register that protects an ongoing working relationship"
+   ]
+  }
+ ],
+ "swt": [
+  {
+   "type": "swt",
+   "passage": "The decision to build a bridge or a tunnel across a strait is usually presented as an engineering judgement, and it is very often a political one. Engineering does narrow the field: a strait carrying heavy shipping may make a bridge with adequate clearance prohibitively tall, and unstable seabed geology can make boring impractical. Within those constraints, however, the choice is frequently determined by considerations that appear nowhere in the technical assessment. A bridge is visible, and visibility is politically valuable to whoever authorised it; a tunnel, once complete, is indistinguishable from the road leading into it. Bridges also generate a photograph, and a project that can be photographed under construction sustains public support through the years when it is producing nothing else. Against this, tunnels are less vulnerable to weather closure, do not obstruct shipping, and have lower long-term maintenance costs in exposed marine environments, which means the cheaper option over sixty years is often the one that is harder to campaign on. Several governments have commissioned comparative studies and then selected the option the study advised against, which is not necessarily irrational: a project that is never authorised has an operating cost of zero and a benefit to match.",
+   "key": [
+    "engineering constraints narrow the choice but rarely determine it",
+    "a bridge is visible and politically valuable; a tunnel becomes invisible once built",
+    "bridges photograph well, sustaining support during construction",
+    "tunnels resist weather closure, avoid obstructing shipping and cost less to maintain",
+    "the cheaper long-run option is often harder to campaign on",
+    "choosing against the technical advice can be rational if the alternative is never being authorised"
+   ]
+  },
+  {
+   "type": "swt",
+   "passage": "The reintroduction of large predators has become the most visible and most contested branch of conservation, and the arguments on each side are frequently about different questions. Ecologists point to trophic cascades: where wolves were returned to Yellowstone, elk altered their grazing behaviour, browsed vegetation recovered along watercourses, and beaver and songbird populations followed. The mechanism is real, though the Yellowstone case has been oversold, since the same period saw changes in climate, hunting pressure and bear numbers that contributed to the same outcome. Farmers respond to a different question entirely. The cost of a returning predator does not fall on the public that supports the reintroduction; it falls on a small number of people whose livestock are killed, and compensation schemes reliably underpay because they require proof of a cause of death that is frequently impossible to establish. Where reintroduction has succeeded politically, it has generally involved paying for prevention rather than for losses: funding fencing, guardian animals and shepherding before any animal is killed. This is more expensive and considerably less satisfying than compensation, and it works because it addresses the objection people actually have, which is not the money but the experience of finding the animals dead.",
+   "key": [
+    "ecologists cite trophic cascades, as when wolves returned to Yellowstone",
+    "the Yellowstone case is overstated because climate, hunting and bear numbers also changed",
+    "the costs fall on a few livestock owners while the benefits are diffuse",
+    "compensation underpays because proving cause of death is often impossible",
+    "successful schemes fund prevention such as fencing and guardian animals rather than paying for losses",
+    "this works because the real objection is the experience rather than the money"
+   ]
+  }
+ ],
+ "essay": [
+  {
+   "type": "we",
+   "prompt": "Some people believe that public museums should return artefacts to the countries they were originally taken from, while others argue that major international collections allow more people to see and study them. Discuss both views and give your own opinion. Write 200-300 words."
+  }
+ ],
+ "reading": [
+  {
+   "type": "rwfib",
+   "text": "Cast iron and wrought iron behave so differently that treating them as one material has caused ___0___ failures. Cast iron is strong in compression and brittle under ___1___, which made it excellent for columns and disastrous for the beams that several Victorian engineers ___2___ built from it. Wrought iron tolerates bending but was far more expensive to produce, and the ___3___ between the two was frequently made on cost rather than on load.",
+   "blanks": [
+    {
+     "options": [
+      "structural",
+      "strenuous",
+      "strategic",
+      "stringent"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "tension",
+      "tendency",
+      "tenancy",
+      "temperance"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "nevertheless",
+      "nonetheless",
+      "notwithstanding",
+      "nowhere"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "choice",
+      "chance",
+      "charge",
+      "chore"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "type": "rwfib",
+   "text": "The Venetian glass industry was moved to a separate island in 1291, and the usual explanation, fire risk, is only ___0___ true. Furnaces did threaten a city built largely of timber, but relocating the workshops also made the glassmakers far easier to ___1___. Leaving the republic with the secrets of the trade became a criminal ___2___, and a monopoly that would otherwise have ___3___ across Europe within a generation survived for several centuries.",
+   "blanks": [
+    {
+     "options": [
+      "partly",
+      "partially",
+      "particularly",
+      "partially"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "supervise",
+      "supplement",
+      "suppress",
+      "supply"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "offence",
+      "offering",
+      "officer",
+      "opening"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "dispersed",
+      "displayed",
+      "disposed",
+      "disputed"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "type": "rwfib",
+   "text": "Standardised testing was introduced to make selection ___0___, and in its own terms it succeeded. A written examination cannot be influenced by a candidate's accent or family connections, which is precisely why reformers ___1___ it against patronage. The difficulty that emerged later is that preparation for such tests is itself something that can be ___2___, so an instrument designed to neutralise advantage became a market in which advantage could be ___3___ directly.",
+   "blanks": [
+    {
+     "options": [
+      "impartial",
+      "impatient",
+      "imperative",
+      "impassable"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "championed",
+      "challenged",
+      "charted",
+      "charged"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "purchased",
+      "pursued",
+      "punished",
+      "published"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "bought",
+      "brought",
+      "branded",
+      "bridged"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "type": "rwfib",
+   "text": "International paper sizes are built on a single ___0___ that most users never notice. Each sheet has the proportions of a rectangle that, when cut in half across the longer side, yields two rectangles of exactly the same ___1___. This means a document can be enlarged or reduced between sizes without ___2___ margins or leaving unused paper at the edge, which is why the system displaced the older sizes almost everywhere it was ___3___.",
+   "blanks": [
+    {
+     "options": [
+      "property",
+      "priority",
+      "proposal",
+      "provision"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "shape",
+      "share",
+      "shade",
+      "shore"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "altering",
+      "alerting",
+      "allotting",
+      "alleging"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "adopted",
+      "adapted",
+      "addressed",
+      "admitted"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "type": "rwfib",
+   "text": "A material's colour tells you which wavelengths it fails to ___0___. A red object absorbs most of the spectrum and reflects the long wavelengths back, which means the colour we name it after is precisely the light it has ___1___. This is counter-intuitive enough that it is worth ___2___ carefully: we identify things by what they reject rather than by what they ___3___.",
+   "blanks": [
+    {
+     "options": [
+      "absorb",
+      "abandon",
+      "abolish",
+      "abridge"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "rejected",
+      "recorded",
+      "recovered",
+      "reduced"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "stating",
+      "stalling",
+      "staging",
+      "staking"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "retain",
+      "retreat",
+      "retrieve",
+      "return"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "type": "rmcma",
+   "passage": "Behavioural nudges have been adopted enthusiastically by governments, partly because they are cheap and partly because they avoid the political cost of prohibition. The evidence base is more mixed than the enthusiasm suggests. Default enrolment in pension schemes has produced large and durable effects, and it remains the strongest case anyone can cite. Many other interventions, particularly those relying on informational framing or social comparison messages, show effects that are statistically detectable, practically small, and prone to decay once the novelty passes. A recent analysis comparing published nudge studies with the results of large government trials found effect sizes in the trials roughly one sixth of those in the literature, a gap attributed largely to publication bias rather than to any failure of implementation. None of this argues against using nudges. It argues against treating them as a substitute for regulation in cases where the underlying problem is structural, since a well-designed default cannot address a price that people cannot afford.",
+   "q": "Which of the following are stated or clearly implied by the passage?",
+   "options": [
+    "Automatic enrolment in pension schemes is the strongest evidence for nudging.",
+    "Effect sizes in large government trials were substantially smaller than in published studies.",
+    "The author recommends abandoning behavioural interventions entirely.",
+    "Publication bias is offered as the main explanation for the gap in effect sizes.",
+    "Nudges are poorly suited to problems whose causes are structural."
+   ],
+   "answers": [
+    0,
+    1,
+    3,
+    4
+   ]
+  },
+  {
+   "type": "ro",
+   "paras": [
+    "For centuries the longitude of a ship at sea could not be determined, and the resulting errors wrecked fleets with some regularity.",
+    "The principle was well understood: compare local noon with the time at a reference port, and the difference gives you the distance east or west.",
+    "What did not exist was a clock that could keep accurate time aboard a rolling vessel through changes of temperature and humidity.",
+    "John Harrison, a carpenter with no formal training, spent four decades building a succession of timekeepers, ending with one the size of a large pocket watch.",
+    "The board that had offered the prize withheld most of it for years, on the grounds that a single working instrument did not constitute a practical method."
+   ]
+  },
+  {
+   "type": "ro",
+   "paras": [
+    "The library at Alexandria is usually imagined as ending in a single catastrophic fire.",
+    "No ancient source describes such an event, and the accounts that mention damage disagree about the century, the cause and the extent.",
+    "What the evidence more plausibly supports is a long decline: withdrawal of royal funding, the expulsion of foreign scholars, and the steady loss of papyrus to humidity and neglect.",
+    "A collection that is not continuously copied is dying whether or not anybody sets fire to it.",
+    "The dramatic version persists because institutional neglect makes a far less compelling story than a burning building."
+   ]
+  },
+  {
+   "type": "rfib",
+   "text": "Cheese was almost certainly discovered rather than ___0___. Milk carried in a bag made from a young animal's stomach would encounter the enzyme rennet still present in the lining, and would ___1___ into curds and whey within hours of being carried on a warm day. What made the accident worth ___2___ was that the resulting solid kept for weeks where the milk itself kept for hours, which mattered enormously to communities with no means of ___3___. The variety of cheeses reflects nothing more mysterious than local differences in ___4___, climate and the bacteria that happened to be present.",
+   "bank": [
+    "invented",
+    "separate",
+    "repeating",
+    "refrigeration",
+    "pasture",
+    "produced",
+    "dissolve",
+    "recording",
+    "transport",
+    "hygiene"
+   ],
+   "answers": [
+    "invented",
+    "separate",
+    "repeating",
+    "refrigeration",
+    "pasture"
+   ]
+  },
+  {
+   "type": "rfib",
+   "text": "Mangroves are among the most ___0___ ecosystems on earth per unit area, storing several times more carbon than an equivalent stretch of tropical forest, most of it in the ___1___ rather than in the trees. They also ___2___ coastlines against storm surge more effectively than most engineered defences, and they serve as a nursery for fish stocks that are harvested far ___3___. Despite this they have been cleared faster than almost any other habitat, largely for shrimp ___4___, because the value they provide accrues to nobody who holds title to the land.",
+   "bank": [
+    "valuable",
+    "sediment",
+    "protect",
+    "offshore",
+    "farming",
+    "fragile",
+    "canopy",
+    "separate",
+    "inland",
+    "fishing"
+   ],
+   "answers": [
+    "valuable",
+    "sediment",
+    "protect",
+    "offshore",
+    "farming"
+   ]
+  },
+  {
+   "type": "rfib",
+   "text": "Nuclear waste presents a communication problem with no obvious ___0___. Some material remains hazardous for periods far longer than any written language has ___1___, so a warning sign cannot be relied upon to be legible to whoever encounters the site. Proposals have included hostile architecture designed to feel ___2___ without any text, and the deliberate creation of a priesthood charged with ___3___ the knowledge across generations. Most experts now consider deep burial with no marker at all the least bad ___4___, on the grounds that a marker advertises that something valuable was hidden.",
+   "bank": [
+    "solution",
+    "survived",
+    "threatening",
+    "transmitting",
+    "option",
+    "answer",
+    "existed",
+    "attractive",
+    "recording",
+    "proposal"
+   ],
+   "answers": [
+    "solution",
+    "survived",
+    "threatening",
+    "transmitting",
+    "option"
+   ]
+  },
+  {
+   "type": "rfib",
+   "text": "The idea that the tongue has separate zones for each taste appears in a great many ___0___ and is entirely wrong. It originated in a 1901 German paper reporting small differences in ___1___ across the tongue, which an American translator rendered as absolute boundaries and drew as a ___2___. Every region of the tongue detects every basic taste, as anyone can ___3___ in about ten seconds with a grain of salt, and the persistence of the diagram is a reminder of how readily a clear picture ___4___ an accurate one.",
+   "bank": [
+    "textbooks",
+    "sensitivity",
+    "map",
+    "verify",
+    "displaces",
+    "laboratories",
+    "structure",
+    "chart",
+    "measure",
+    "resembles"
+   ],
+   "answers": [
+    "textbooks",
+    "sensitivity",
+    "map",
+    "verify",
+    "displaces"
+   ]
+  },
+  {
+   "type": "rmcsa",
+   "passage": "Charitable giving is frequently analysed as though donors were purchasing outcomes, and the persistent finding that they respond weakly to information about effectiveness is treated as a puzzle to be corrected. An alternative reading is that donors are not purchasing outcomes at all. They are purchasing participation in something, and the evidence supports this reasonably well: giving rises sharply with personal connection to a cause, with vividness of a single identified beneficiary, and with the visibility of the donation to others, none of which correlates with how much good the money does. Organisations that have tried to compete on measured effectiveness have found the market for that product real but small. This is not an argument for concealing effectiveness data. It is an argument against designing appeals on the assumption that donors will behave as investors when they consistently behave as participants.",
+   "q": "What does the author suggest about donor behaviour?",
+   "options": [
+    "Donors act as participants in a cause rather than as purchasers of outcomes.",
+    "Donors carefully compare charities on measured effectiveness before giving.",
+    "Effectiveness data should be withheld because it discourages giving.",
+    "Personal connection to a cause has little influence on the amount donated."
+   ],
+   "answer": 0
+  },
+  {
+   "type": "rmcsa",
+   "passage": "The claim that reading on screen produces worse comprehension than reading on paper has been repeated so often that it is treated as settled, and the research is more equivocal than that. The effect appears reliably for expository text read under time pressure, and it largely disappears for narrative text and for readers permitted to work at their own pace. Where it does appear, the most persuasive explanation is not the medium itself but a habit imported into it: people scroll rapidly through screens because most of what they encounter on a screen rewards scrolling rapidly, and they carry that behaviour into material that does not. This matters because the implication is quite different. If the medium were the cause, the remedy would be paper. If the habit is the cause, the remedy is reading differently, which is available on either.",
+   "q": "What is the author's central point?",
+   "options": [
+    "The comprehension gap probably reflects reading habits carried onto screens rather than the medium itself.",
+    "Screen reading has been conclusively shown to impair comprehension of all text types.",
+    "Narrative text is comprehended better on screen than on paper.",
+    "Time pressure has no measurable effect on reading comprehension."
+   ],
+   "answer": 0
+  }
+ ],
+ "listening": [
+  {
+   "type": "sst",
+   "transcript": "I want to talk about the history of handwashing in hospitals, because it is a case where the evidence was overwhelming, the argument was correct, and it failed anyway. In 1847 Ignaz Semmelweis was working in a Vienna maternity hospital with two clinics. One was staffed by doctors and medical students, the other by midwives. The death rate from puerperal fever in the doctors' clinic was about three times higher, and this was public knowledge; women begged to be admitted to the midwives' side, and some gave birth in the street rather than enter the wrong door. Semmelweis worked through the possible explanations methodically and eliminated them one by one. The breakthrough came when a colleague cut his finger during an autopsy and died of symptoms identical to the disease killing the mothers. Semmelweis inferred that something was being carried from the dissection room on the hands of doctors, who went straight from autopsies to deliveries, while midwives performed no autopsies at all. He instituted washing in chlorinated lime, and mortality in his clinic fell by roughly ninety per cent within months. Now, why did this not immediately transform medicine? Partly because Semmelweis published almost nothing for fourteen years and then wrote in a tone that insulted everyone he needed to persuade. Partly because he could offer no mechanism; germ theory did not exist yet, and he was effectively asking physicians to accept that an invisible something was being transferred. But mostly, I think, because the claim was unbearable. He was not telling them about a disease. He was telling them that they were the cause of it, and there is no comfortable way to hear that.",
+   "key": [
+    "two Vienna clinics had death rates differing by a factor of three, doctors' worse than midwives'",
+    "Semmelweis eliminated alternative explanations methodically",
+    "a colleague's death after an autopsy cut suggested transfer from the dissection room",
+    "handwashing in chlorinated lime cut mortality by about ninety per cent",
+    "the finding was resisted because he published late and antagonised colleagues, and could offer no mechanism before germ theory",
+    "most fundamentally, the claim held doctors themselves responsible"
+   ]
+  },
+  {
+   "type": "lmcma",
+   "transcript": "Three things about the placement year before you apply. The placement must be at least twenty-four weeks to count toward the award, and shorter arrangements can be undertaken but will not appear on your transcript. You remain a registered student throughout, which means your library and software access continues, but you are not entitled to the term-time accommodation guarantee. Finding the placement is your responsibility; the careers service will review your applications and run interview practice, but they do not place anybody and never have, despite what you may have been told at an open day. Your tuition fee for the placement year is reduced, though not waived. And you will be visited once by an academic supervisor, which is a formality rather than an assessment.",
+   "q": "According to the speaker, which of the following are true?",
+   "options": [
+    "A placement must run for at least twenty-four weeks to appear on the transcript.",
+    "Library and software access continues during the placement year.",
+    "The careers service will find a placement on the student's behalf.",
+    "Tuition fees are reduced but not removed for the placement year.",
+    "The accommodation guarantee applies during the placement year."
+   ],
+   "answers": [
+    0,
+    1,
+    3
+   ]
+  },
+  {
+   "type": "lfib",
+   "transcript": "Sand has become one of the most heavily extracted materials on earth, and the shortage is more specific than it first [appears]. Desert sand is useless for concrete because wind erosion leaves the grains too [rounded] to interlock, so construction depends on river and marine sand, which is comparatively [scarce]. Illegal dredging has consequently become a substantial criminal [enterprise] in several countries, undermining bridges and stripping riverbanks. The material everybody assumes is [infinite] turns out to be the second most consumed resource in the world."
+  },
+  {
+   "type": "lfib",
+   "transcript": "Birds are able to sleep during long migratory [flights], and the mechanism has only recently been recorded directly. Instruments fitted to frigatebirds showed that the birds sleep in bursts of a few [seconds], usually while circling upward on a rising column of air, and that one hemisphere frequently stays [awake]. Total sleep during a ten-day flight amounted to well under an [hour] a day, compared with more than twelve on land. What the birds do with the resulting [deficit] remains unclear."
+  },
+  {
+   "type": "hcs",
+   "transcript": "I want to say something about why the phrase 'survival of the fittest' causes so much trouble, because the difficulty is genuinely in the wording rather than in the biology. Darwin did not coin it; Spencer did, and Darwin adopted it in a later edition against his own better judgement. The problem is that 'fittest' in ordinary English suggests strength or athleticism, whereas in the technical sense it means nothing more than leaving more descendants. An organism that is smaller, slower and more timid than its rivals is fitter if it produces more surviving offspring, and often does. The circularity people complain about, that the fittest survive and we identify them by their survival, is real but harmless, because fitness is measured against specific traits in a specific environment rather than declared after the fact. Still, the phrase has done a century of damage, largely by lending biological vocabulary to social arguments that had nothing to do with biology.",
+   "options": [
+    "The phrase was Spencer's rather than Darwin's, and it misleads because 'fittest' suggests strength while it technically means leaving more descendants, which has allowed the vocabulary to be misapplied to social arguments.",
+    "Darwin coined the phrase early in his career and defended it consistently, arguing that physical strength is the primary determinant of evolutionary success.",
+    "The speaker argues that the concept of fitness is entirely circular and should therefore be abandoned by working biologists.",
+    "The phrase accurately describes natural selection, and objections to it come from people who misunderstand basic evolutionary theory."
+   ],
+   "answer": 0
+  },
+  {
+   "type": "lmcsa",
+   "transcript": "One thing about presentations that I want to say before you start preparing. The most common mistake is not nervousness and it is not bad slides. It is running out of time and losing the conclusion. Almost every weak presentation I see has a strong middle and no ending, because the speaker has budgeted the time evenly across their material and then discovered at minute nine that there are four slides left. The fix is unglamorous. Decide what your last sentence is before you write anything else, rehearse the final two minutes more than any other part, and cut from the middle rather than from the end when you overrun. An argument without its conclusion is not a shortened argument; it is a different and much weaker one.",
+   "q": "What does the speaker identify as the main problem in weak presentations?",
+   "options": [
+    "Speakers overrun and lose the conclusion because time is budgeted evenly.",
+    "Speakers are too nervous to deliver their material effectively.",
+    "Slides contain too much text and distract the audience.",
+    "Speakers rehearse the opening far more than the rest of the talk."
+   ],
+   "answer": 0
+  },
+  {
+   "type": "smw",
+   "transcript": "There is a persistent assumption that a more detailed model always produces a better forecast. In practice, adding variables to a model estimated from limited data tends to fit the noise in that data rather than the underlying pattern, and performance on new observations gets worse rather than better. Statisticians call this [BEEP].",
+   "options": [
+    "overfitting",
+    "extrapolation",
+    "aggregation",
+    "calibration"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "hiw",
+   "spoken": "Rice paddies are flooded not because rice requires standing water to grow but because most weeds cannot tolerate it. The crop will grow perfectly well in a drained field, and yields are sometimes higher but the labour of weeding rises sharply Flooding is therefore a herbicide rather than an irrigation method, which is why the practice persists even where water is expensive",
+   "swaps": {
+    "8": "running",
+    "15": "grasses",
+    "27": "dry",
+    "33": "lower,",
+    "40": "steeply.",
+    "49": "agricultural",
+    "61": "scarce."
+   }
+  },
+  {
+   "type": "hiw",
+   "spoken": "The Sahara has not always been a desert Between roughly eleven and five thousand years ago it supported lakes, grassland and large populations of grazing animals, and rock paintings across the region show cattle, swimmers and hippopotamus. The change was driven by a slow shift in the tilt of the earth, which weakened the monsoon that had previously carried rain far to the north The transition took several centuries rather than happening abruptly.",
+   "swaps": {
+    "7": "wasteland.",
+    "24": "hunting",
+    "34": "fishermen",
+    "47": "axis",
+    "63": "south.",
+    "68": "millennia"
+   }
+  },
+  {
+   "type": "wfd",
+   "text": "The department will announce the shortlist at the end of the week."
+  },
+  {
+   "type": "wfd",
+   "text": "Interviews were recorded and transcribed with the consent of participants."
+  },
+  {
+   "type": "wfd",
+   "text": "A small number of students requested an extension for medical reasons."
+  }
+ ]
+}
