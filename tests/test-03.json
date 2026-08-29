@@ -1,0 +1,951 @@
+{
+ "no": 3,
+ "title": "Practice Test 3",
+ "source": "hand-written",
+ "format": "PTE Academic, 2025 revision (22 task types)",
+ "speaking": [
+  {
+   "type": "ra",
+   "text": "Bioluminescence has evolved independently more than forty times, which tells us something about how useful light is in the deep ocean. Where sunlight never reaches, an organism that can produce its own light can lure prey, startle a predator, or signal to a mate across water that is otherwise entirely dark."
+  },
+  {
+   "type": "ra",
+   "text": "The Silk Road was never a road, and silk was only one of the goods that travelled along it. It was a shifting network of routes across which merchants moved in short relays, few of them travelling the whole distance, so that a bolt of cloth might change hands a dozen times before reaching a market."
+  },
+  {
+   "type": "ra",
+   "text": "Cement manufacture releases carbon dioxide twice over. Fuel is burned to heat the kiln, and the limestone itself gives off carbon as it decomposes into lime. The second source is chemically unavoidable, which is why decarbonising concrete requires changing the material rather than merely changing the energy supply."
+  },
+  {
+   "type": "ra",
+   "text": "Trial by jury was not designed to establish facts. It emerged as a substitute for trial by ordeal, and the original jurors were neighbours chosen precisely because they already knew the parties and the local circumstances. The modern requirement that a juror be impartial reverses the institution's founding logic entirely."
+  },
+  {
+   "type": "ra",
+   "text": "We have mapped the surface of Mars in finer detail than the floor of our own oceans. Radar and cameras work across the vacuum of space, but seawater absorbs both, so the seabed must be surveyed by sound from vessels moving slowly, line by line, at enormous cost in ship time."
+  },
+  {
+   "type": "ra",
+   "text": "Spider silk is stronger than steel by weight and tougher than any synthetic fibre yet produced, but it has resisted commercial manufacture for a simple reason. Spiders are territorial and cannibalistic, so they cannot be farmed, and the protein loses its properties when spun by any process other than the spider's own."
+  }
+ ],
+ "repeat": [
+  {
+   "type": "rs",
+   "text": "The department has appointed a new head of graduate studies."
+  },
+  {
+   "type": "rs",
+   "text": "Please bring your laboratory notebook to every practical session."
+  },
+  {
+   "type": "rs",
+   "text": "The survey was conducted across twelve schools in three regions."
+  },
+  {
+   "type": "rs",
+   "text": "Late submissions will not be accepted without documented evidence."
+  },
+  {
+   "type": "rs",
+   "text": "His argument rests on an assumption he never actually defends."
+  },
+  {
+   "type": "rs",
+   "text": "Registration for the conference closes at the end of March."
+  },
+  {
+   "type": "rs",
+   "text": "The instrument requires calibration before each set of readings."
+  },
+  {
+   "type": "rs",
+   "text": "Very few of the original manuscripts have survived intact."
+  },
+  {
+   "type": "rs",
+   "text": "We should compare these results against the published baseline."
+  },
+  {
+   "type": "rs",
+   "text": "The workshop will run for two hours with a short break."
+  }
+ ],
+ "images": [
+  {
+   "type": "di",
+   "chart": {
+    "kind": "bar",
+    "title": "How commuters travel to work in four cities",
+    "unit": "% of commuting journeys",
+    "xLabel": "City",
+    "categories": [
+     "Amsterdam",
+     "Tokyo",
+     "Los Angeles",
+     "Bogotá"
+    ],
+    "series": [
+     {
+      "name": "Private car",
+      "values": [
+       22,
+       12,
+       74,
+       18
+      ]
+     },
+     {
+      "name": "Public transport",
+      "values": [
+       16,
+       58,
+       9,
+       49
+      ]
+     },
+     {
+      "name": "Cycling",
+      "values": [
+       38,
+       14,
+       2,
+       7
+      ]
+     },
+     {
+      "name": "Walking",
+      "values": [
+       24,
+       16,
+       15,
+       26
+      ]
+     }
+    ],
+    "summary": "Los Angeles is the outlier: 74 per cent by private car, more than three times any other city, with cycling almost absent at 2 per cent. Tokyo is dominated by public transport at 58 per cent, Bogotá similar at 49. Amsterdam is the only city where cycling leads at 38 per cent, and it has the most even spread across all four modes. A strong answer names Los Angeles as the car-dominated case, contrasts it with at least one transit-dominated city, and notes that Amsterdam is the only city with no single mode above 40 per cent."
+   }
+  },
+  {
+   "type": "di",
+   "chart": {
+    "kind": "table",
+    "title": "Wheat yield and water use, four growing regions",
+    "headers": [
+     "Region",
+     "Yield t/ha",
+     "Water m³/t",
+     "Irrigated %"
+    ],
+    "rows": [
+     [
+      "Northern plain",
+      "6.8",
+      "410",
+      "82"
+     ],
+     [
+      "Eastern valley",
+      "4.2",
+      "760",
+      "35"
+     ],
+     [
+      "Southern coast",
+      "5.9",
+      "390",
+      "61"
+     ],
+     [
+      "Western upland",
+      "2.7",
+      "1140",
+      "8"
+     ]
+    ],
+    "summary": "Yield falls and water use per tonne rises as irrigation falls. The Northern plain is most productive at 6.8 tonnes per hectare with the second-lowest water use and the highest irrigation at 82 per cent. Western upland is the reverse: 2.7 tonnes, 1140 cubic metres per tonne, only 8 per cent irrigated. Southern coast has the lowest water use per tonne at 390 despite ranking second on yield. A strong answer states the inverse relationship between yield and water per tonne, gives the two extreme rows with figures, and notes the Southern coast as the most water-efficient region."
+   }
+  },
+  {
+   "type": "di",
+   "chart": {
+    "kind": "map",
+    "title": "River restoration scheme, Millbrook",
+    "legend": "Channel before the scheme above, after below",
+    "panels": [
+     {
+      "label": "Before",
+      "features": [
+       {
+        "t": "water",
+        "x": 4,
+        "y": 44,
+        "w": 92,
+        "h": 9,
+        "name": "Straightened channel"
+       },
+       {
+        "t": "block",
+        "x": 6,
+        "y": 8,
+        "w": 34,
+        "h": 28,
+        "name": "Industrial units"
+       },
+       {
+        "t": "block",
+        "x": 58,
+        "y": 10,
+        "w": 34,
+        "h": 26,
+        "name": "Car park"
+       },
+       {
+        "t": "road",
+        "x": 0,
+        "y": 66,
+        "w": 100,
+        "h": 7,
+        "name": "Mill Road"
+       },
+       {
+        "t": "block",
+        "x": 10,
+        "y": 80,
+        "w": 80,
+        "h": 14,
+        "name": "Concrete flood wall"
+       }
+      ]
+     },
+     {
+      "label": "After",
+      "features": [
+       {
+        "t": "water",
+        "x": 4,
+        "y": 38,
+        "w": 92,
+        "h": 20,
+        "name": "Re-meandered channel"
+       },
+       {
+        "t": "park",
+        "x": 4,
+        "y": 62,
+        "w": 92,
+        "h": 18,
+        "name": "Floodplain meadow"
+       },
+       {
+        "t": "block",
+        "x": 58,
+        "y": 10,
+        "w": 34,
+        "h": 22,
+        "name": "Car park"
+       },
+       {
+        "t": "park",
+        "x": 6,
+        "y": 8,
+        "w": 34,
+        "h": 24,
+        "name": "Wet woodland"
+       },
+       {
+        "t": "road",
+        "x": 0,
+        "y": 84,
+        "w": 100,
+        "h": 7,
+        "name": "Mill Road"
+       }
+      ]
+     }
+    ],
+    "summary": "Two plans of the same stretch of river. Before, the channel is straightened and narrow, hemmed by industrial units and a car park, with a concrete flood wall along the south. After, the channel is re-meandered and roughly twice as wide, the industrial units have become wet woodland, the flood wall has been replaced by an open floodplain meadow, and Mill Road has been shifted further south. The car park is the only feature retained. A strong answer compares the two directly, notes that hard flood defence has been replaced by space for water, and identifies the car park as unchanged."
+   }
+  }
+ ],
+ "lecture": [
+  {
+   "type": "rl",
+   "transcript": "I want to use continental drift as a case study in how science actually changes its mind, because the story is usually told badly. The standard version is that Alfred Wegener proposed in 1912 that continents move, was ridiculed by conservative geologists, and was vindicated fifty years later. The first and last parts are true. The middle part deserves examination. Wegener's evidence was genuinely strong. The coastlines fit, the rock sequences matched across the Atlantic, and identical fossils appeared on continents now separated by ocean. What he could not supply was a mechanism. He suggested the continents ploughed through the ocean floor, driven by tidal forces, and physicists calculated straightforwardly that such forces were several orders of magnitude too weak, and that any continent ploughing through basalt would shatter. So the geologists who rejected him were not being obstinate. They were applying a reasonable standard: correlation without a workable mechanism is a pattern, not an explanation. What changed everything was not new argument but new instruments. Wartime submarine detection produced detailed maps of the ocean floor, revealing a mid-ocean ridge system that nobody had known existed, and magnetic surveys showed symmetrical stripes on either side of it. The mechanism turned out to be seafloor spreading, which Wegener never proposed and would not have recognised. He was right about the conclusion and wrong about the reason, and the discipline accepted him only when someone else supplied the reason.",
+   "key": [
+    "the standard story of ridicule and vindication is oversimplified",
+    "Wegener's correlational evidence was strong: coastlines, rock sequences, matching fossils",
+    "he lacked a mechanism, and his tidal-force proposal was physically impossible",
+    "rejecting correlation without mechanism was a defensible scientific standard",
+    "new instruments, not new argument, settled it: seafloor mapping and magnetic striping",
+    "Wegener was right about the conclusion and wrong about the cause"
+   ]
+  },
+  {
+   "type": "rl",
+   "transcript": "Today I want to look at the global trade in second-hand clothing, because it complicates almost every intuition people bring to it. Start with the scale. Clothing donated to charity shops in wealthy countries is overwhelmingly not sold in those shops. The best material is, but the majority is baled and exported, and a substantial industry exists to sort, grade and ship it, principally to West Africa and to parts of South Asia. Now, the standard criticism is that this destroys local textile manufacturing, and there is real evidence for that. Studies of the 1980s and 1990s found significant declines in domestic clothing production in several African economies during the period when imports surged. But the picture has two complications. The first is that those same decades saw trade liberalisation and competition from cheap new Asian manufacturing, so attributing the decline to second-hand imports specifically is difficult. The second is that the trade employs a great many people at the receiving end: traders, tailors who alter garments, repair businesses, market sellers. When Rwanda raised tariffs sharply in 2016 to protect domestic production, the domestic industry grew modestly and the trading sector contracted considerably, and economists still disagree about whether the country came out ahead. What I want you to take from this is not a verdict. It is that a policy which looks straightforwardly protective from one angle redistributes employment rather than simply creating it.",
+   "key": [
+    "most donated clothing is exported rather than sold locally, sorted and graded by a substantial industry",
+    "the standard criticism is that imports destroyed local textile manufacturing",
+    "attribution is hard because liberalisation and cheap Asian imports coincided",
+    "the trade employs many people at the receiving end in trading, tailoring and repair",
+    "Rwanda's 2016 tariffs grew manufacturing modestly but shrank trading; the net effect is disputed",
+    "protective policy redistributes employment rather than simply creating it"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "type": "asq",
+   "q": "What do we call the shape formed by three straight sides?",
+   "a": [
+    "triangle",
+    "a triangle"
+   ]
+  },
+  {
+   "type": "asq",
+   "q": "If an event happens every twelve months, is it annual or monthly?",
+   "a": [
+    "annual",
+    "annually"
+   ]
+  },
+  {
+   "type": "asq",
+   "q": "What is the profession of someone who designs buildings?",
+   "a": [
+    "architect",
+    "an architect"
+   ]
+  },
+  {
+   "type": "asq",
+   "q": "Which part of a tree carries water from the roots to the leaves?",
+   "a": [
+    "trunk",
+    "the trunk",
+    "xylem",
+    "stem"
+   ]
+  },
+  {
+   "type": "asq",
+   "q": "Is a debt that has been fully repaid described as outstanding or settled?",
+   "a": [
+    "settled"
+   ]
+  }
+ ],
+ "discussion": [
+  {
+   "type": "sgd",
+   "turns": [
+    {
+     "speaker": "Yusuf",
+     "text": "Moving to open-book exams sounds progressive but it just shifts the advantage to whoever has the best notes, which correlates almost perfectly with who was already doing well."
+    },
+    {
+     "speaker": "Clara",
+     "text": "That assumes the questions stay the same. If you write questions that can be answered by looking something up, yes. Write ones that require applying it and the notes stop mattering much."
+    },
+    {
+     "speaker": "Yusuf",
+     "text": "Writing those questions is genuinely hard though, and we'd be asking staff to redesign three years of assessment in one summer."
+    },
+    {
+     "speaker": "Clara",
+     "text": "For the first-year modules, maybe. The finals questions are already application-based."
+    },
+    {
+     "speaker": "Marta",
+     "text": "Then start there. Open-book for finals where the questions already work, closed-book for first year until the questions are rewritten."
+    },
+    {
+     "speaker": "Yusuf",
+     "text": "I'd want it reviewed after a year, with a look at whether the attainment gap widened."
+    },
+    {
+     "speaker": "Clara",
+     "text": "That's reasonable. I'd only object if 'review' means quietly reverting without evidence."
+    }
+   ],
+   "key": [
+    "Yusuf argues open-book exams advantage students who are already doing well",
+    "Clara replies that the question design matters more than the format",
+    "Yusuf concedes but raises the workload of redesigning assessments",
+    "Marta proposes a split: open-book finals, closed-book first year",
+    "the group agrees subject to a review of the attainment gap after a year"
+   ]
+  },
+  {
+   "type": "sgd",
+   "turns": [
+    {
+     "speaker": "Ben",
+     "text": "The booking system for the electron microscope is broken. Three people hold recurring weekly slots they booked in October and half of those slots go unused."
+    },
+    {
+     "speaker": "Hana",
+     "text": "They're unused because sample preparation slips. You can't always predict a week ahead whether the sample will be ready."
+    },
+    {
+     "speaker": "Ben",
+     "text": "Then release the slot when you know. Nobody does, and the rest of us are working around a machine that's sitting idle."
+    },
+    {
+     "speaker": "Hana",
+     "text": "Fair, but a rule that penalises no-shows will just make people show up and waste the time properly rather than release it."
+    },
+    {
+     "speaker": "Ravi",
+     "text": "What if slots auto-release twenty-four hours ahead unless confirmed? No penalty, no judgement, just a confirmation click."
+    },
+    {
+     "speaker": "Hana",
+     "text": "That I'd support. It solves the honest case, which is most of them, without treating anyone as a culprit."
+    },
+    {
+     "speaker": "Ben",
+     "text": "And it gives the rest of us a day's notice, which is enough to get a sample in."
+    }
+   ],
+   "key": [
+    "Ben complains that recurring bookings block the microscope and go unused",
+    "Hana explains that sample preparation timing is unpredictable",
+    "Ben asks users to release slots; Hana warns a penalty would cause wasteful attendance instead",
+    "Ravi proposes automatic release twenty-four hours ahead unless confirmed",
+    "Hana and Ben both accept because it solves the problem without assigning blame"
+   ]
+  }
+ ],
+ "situation": [
+  {
+   "type": "rts",
+   "situation": "You have been given a shared office with a colleague who takes long phone calls on speaker throughout the day. You find it impossible to concentrate. They are senior to you and have been in the department far longer.",
+   "task": "Speak to your colleague about it.",
+   "key": [
+    "raises the problem directly rather than enduring it silently",
+    "describes the specific effect on your work rather than criticising them",
+    "acknowledges the seniority difference without becoming deferential to the point of vagueness",
+    "offers a concrete workable solution",
+    "keeps the tone collegial and leaves room for their response"
+   ]
+  },
+  {
+   "type": "rts",
+   "situation": "A friend has asked you to review their job application, and it contains a claim about their responsibilities that you know overstates what they actually did on a project you worked on together.",
+   "task": "Respond to your friend.",
+   "key": [
+    "raises the inaccuracy clearly rather than avoiding it",
+    "separates the factual problem from any judgement of the person",
+    "explains the practical risk if the claim is checked",
+    "suggests an honest alternative wording that still sounds strong",
+    "keeps a supportive register appropriate to a friend"
+   ]
+  }
+ ],
+ "swt": [
+  {
+   "type": "swt",
+   "passage": "The antibiotic pipeline has been described as broken, but the failure is economic rather than scientific. New classes of antibiotic remain discoverable; what has collapsed is the incentive to develop them. A pharmaceutical company that brings a novel antibiotic to market faces a peculiar problem: if the drug works, public health authorities will immediately restrict its use, reserving it for infections resistant to everything else. Restricted use means low sales, and low sales cannot recover development costs that routinely exceed a billion dollars. A drug for a chronic condition, taken daily for decades, faces no such difficulty. The result is that most large manufacturers have closed their antibiotic divisions entirely, leaving the field to small firms that frequently go bankrupt on approval, having spent everything to reach a market that will not buy. Proposals to fix this generally involve decoupling revenue from volume, paying a fixed sum for access to a drug regardless of how little of it is used, in the way that a fire service is funded whether or not there are fires. Several governments have run pilot schemes on this model. The obstacle is not evidence but coordination, since a subscription paid by one country subsidises the security of all the others.",
+   "key": [
+    "the antibiotic pipeline fails for economic rather than scientific reasons",
+    "effective new antibiotics are immediately restricted, so sales stay low",
+    "development costs cannot be recovered, unlike drugs for chronic conditions",
+    "large firms have exited and small developers often go bankrupt at approval",
+    "proposed remedies decouple payment from volume, like funding a fire service",
+    "the obstacle is international coordination, since one country's payment benefits all"
+   ]
+  },
+  {
+   "type": "swt",
+   "passage": "The uniform postage rate, introduced in Britain in 1840, is worth examining because it inverted every assumption then held about pricing. Before the reform, postage was charged by distance and by the number of sheets, paid by the recipient, who could and often did refuse delivery. The accounting required to calculate each charge consumed most of the clerical labour of the service, and the refusals meant that a substantial proportion of the work generated no revenue at all. Rowland Hill's argument was that the cost of carrying a letter was overwhelmingly the cost of handling it at each end, and that distance contributed almost nothing. If that were true, charging by distance was not merely unfair but actively expensive, since the administration of the charge cost more than the variation it captured. A single low rate, prepaid by the sender with an adhesive stamp, would eliminate the accounting, eliminate the refusals, and increase volume enough to compensate for the lower price. Volume rose more than fivefold within a decade. The general lesson has been rediscovered repeatedly since: where the cost of measuring a variable exceeds the value of charging for it, the efficient price ignores the variable entirely.",
+   "key": [
+    "before 1840 postage was charged by distance and sheets and paid by the recipient",
+    "calculating charges consumed most clerical labour and refusals produced unpaid work",
+    "Hill argued handling cost dominated and distance contributed almost nothing",
+    "a single prepaid rate removed the accounting and the refusals",
+    "volume rose more than fivefold in a decade",
+    "the general lesson is to ignore a variable when measuring it costs more than charging for it"
+   ]
+  }
+ ],
+ "essay": [
+  {
+   "type": "we",
+   "prompt": "Some employers now monitor staff productivity using software that tracks keystrokes, screen activity and time spent on tasks. Supporters argue this is a fair way to manage remote work, while critics regard it as an unacceptable intrusion. Discuss both views and give your own opinion. Write 200-300 words."
+  }
+ ],
+ "reading": [
+  {
+   "type": "rwfib",
+   "text": "The claim that we use only ten per cent of our brains has proved remarkably ___0___ despite being false in every respect. Imaging shows activity distributed across the whole organ, and damage to almost any region produces ___1___ deficits, which would be impossible if nine tenths were idle. The myth probably ___2___ from a misreading of early work on glial cells, but it survives because it offers a flattering ___3___: that untapped capacity is waiting to be released.",
+   "blanks": [
+    {
+     "options": [
+      "durable",
+      "doubtful",
+      "dutiful",
+      "dubious"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "measurable",
+      "memorable",
+      "miserable",
+      "malleable"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "derives",
+      "deprives",
+      "deviates",
+      "delivers"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "promise",
+      "premise",
+      "province",
+      "provision"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "type": "rwfib",
+   "text": "Restoring a painting requires deciding what condition counts as ___0___. A varnish that has yellowed over two centuries was never intended to look that way, so removing it seems obvious, but the artist may have adjusted the colours ___1___ to compensate for a varnish they knew would darken. Every intervention therefore ___2___ a judgement about intention that cannot be verified, which is why the profession now favours treatments that are chemically ___3___.",
+   "blanks": [
+    {
+     "options": [
+      "authentic",
+      "authoritarian",
+      "authorised",
+      "automatic"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "deliberately",
+      "delicately",
+      "definitively",
+      "defiantly"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "embeds",
+      "embarks",
+      "embodies",
+      "emboldens"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "reversible",
+      "reversed",
+      "revisable",
+      "reviewable"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "type": "rwfib",
+   "text": "Vertical farming has been promoted as the ___0___ to urban food supply, but the arithmetic is unforgiving. Sunlight is free and electric lighting is not, so any crop grown indoors carries an energy cost that outdoor farming simply ___1___. The economics work for leafy greens, which are light, perishable and sold at a ___2___ near the consumer, and fail comprehensively for cereals, where the value per kilogram is far too ___3___ to justify the lighting bill.",
+   "blanks": [
+    {
+     "options": [
+      "solution",
+      "solitude",
+      "solvency",
+      "solicitor"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "avoids",
+      "averts",
+      "adverts",
+      "advances"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "premium",
+      "preface",
+      "preview",
+      "precinct"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "low",
+      "loose",
+      "lowly",
+      "lone"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "type": "rwfib",
+   "text": "Anonymous review of scientific papers was introduced to remove ___0___, but it has been criticised for producing a different distortion. A reviewer who cannot be identified faces no ___1___ for a careless or hostile report, and authors have no way to weigh a criticism against the ___2___ of the person making it. Some journals now publish reports alongside the paper, with the reviewer's name attached only if they ___3___.",
+   "blanks": [
+    {
+     "options": [
+      "bias",
+      "basis",
+      "bounty",
+      "burden"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "accountability",
+      "accessibility",
+      "acceptability",
+      "adaptability"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "expertise",
+      "expulsion",
+      "exposure",
+      "expansion"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "consent",
+      "construct",
+      "consult",
+      "conserve"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "type": "rwfib",
+   "text": "Coastal defences built to protect one settlement frequently ___0___ the problem to the next one along. Groynes trap sand moving along the shore, which ___1___ the beach they were built to defend and starves everything downdrift of it. The effect can be ___2___ for kilometres, and because the damage appears somewhere other than where the money was spent, it rarely ___3___ the accounts of the scheme that caused it.",
+   "blanks": [
+    {
+     "options": [
+      "transfer",
+      "transcribe",
+      "transmit",
+      "transform"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "widens",
+      "weakens",
+      "wanders",
+      "warrants"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "traced",
+      "traded",
+      "trailed",
+      "trapped"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "enters",
+      "endures",
+      "entails",
+      "entices"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "type": "rmcma",
+   "passage": "The word 'algorithm' has acquired a mystique that obscures how ordinary the underlying idea is. An algorithm is a finite sequence of unambiguous steps that transforms an input into an output, and long division qualifies as much as anything running in a data centre. What has changed is not the concept but the scale and the opacity. A modern recommendation system is an algorithm in the same sense that a recipe is, but no single person can inspect its behaviour, because its rules were derived from data rather than written down, and because the number of parameters exceeds what any reviewer could hold in mind. This creates a genuine accountability problem, but it is worth being precise about its nature. The system is not unknowable in principle; it is unknowable in practice at the level of individual decisions, while remaining entirely measurable in aggregate. Regulators who demand an explanation for a particular output are asking for something the technology cannot supply. Regulators who demand statistical evidence about outcomes across a population are asking for something it can.",
+   "q": "Which of the following are stated or clearly implied by the passage?",
+   "options": [
+    "Long division meets the definition of an algorithm.",
+    "Modern systems are opaque partly because their rules were derived from data rather than written.",
+    "The author argues that such systems are unknowable in principle.",
+    "Aggregate statistical behaviour of these systems can be measured.",
+    "Regulators should focus on explanations for individual decisions."
+   ],
+   "answers": [
+    0,
+    1,
+    3
+   ]
+  },
+  {
+   "type": "ro",
+   "paras": [
+    "In 1854 the Japanese government ended more than two centuries of restricted contact with the outside world.",
+    "The immediate cause was the arrival of an American squadron whose firepower made refusal impractical.",
+    "What followed, however, was not the colonisation that befell much of the region, but a deliberate programme of study.",
+    "Missions were despatched to Europe and America with instructions to examine legal codes, navies and factories, and to report on which models were worth copying.",
+    "Within forty years the country that had been forced open was itself an industrial and military power."
+   ]
+  },
+  {
+   "type": "ro",
+   "paras": [
+    "The first underground railway opened in London in 1863, running steam locomotives through tunnels barely below the street.",
+    "Ventilation was so poor that the company advised passengers that the sulphurous atmosphere was beneficial to the lungs.",
+    "Electrification thirty years later removed the smoke and made deeper tunnelling worthwhile, since trains no longer needed to reach the surface to breathe.",
+    "Deep tubes could then be bored beneath existing buildings without the demolition that the shallow cut-and-cover method had required.",
+    "Almost every underground system built since has followed the deep-bore model rather than the original one."
+   ]
+  },
+  {
+   "type": "rfib",
+   "text": "Handwriting analysis as a means of assessing personality has no scientific ___0___ whatsoever, yet it continues to be used in recruitment in several countries. Controlled studies consistently find that graphologists perform no better than ___1___ when predicting job performance from a writing sample. The practice survives partly because it produces detailed, plausible-sounding ___2___ that people readily recognise in themselves, a tendency psychologists call the Barnum effect. Employers who use it rarely ___3___ its accuracy, because a candidate who is rejected never generates the evidence that would ___4___ the method.",
+   "bank": [
+    "support",
+    "chance",
+    "descriptions",
+    "test",
+    "discredit",
+    "subject",
+    "choice",
+    "questions",
+    "trust",
+    "confirm"
+   ],
+   "answers": [
+    "support",
+    "chance",
+    "descriptions",
+    "test",
+    "discredit"
+   ]
+  },
+  {
+   "type": "rfib",
+   "text": "The concept of a weed has no botanical ___0___. A weed is simply a plant growing where somebody would ___1___ it not to, which makes the category entirely dependent on human ___2___ rather than on any property of the organism. Corn cockle was tolerated in medieval fields and is now nearly ___3___ in Britain; several plants sold in garden centres are classed as invasive a few hundred kilometres away. Recognising this matters, because control programmes are frequently justified in the language of ecology when their real ___4___ is aesthetic.",
+   "bank": [
+    "meaning",
+    "prefer",
+    "intention",
+    "extinct",
+    "basis",
+    "value",
+    "expect",
+    "common",
+    "reason",
+    "purpose"
+   ],
+   "answers": [
+    "meaning",
+    "prefer",
+    "intention",
+    "extinct",
+    "basis"
+   ]
+  },
+  {
+   "type": "rfib",
+   "text": "Bridges are designed to move. A structure that resisted every force ___0___ would have to be impossibly massive, so engineers instead allow controlled ___1___: expansion joints absorb thermal movement, bearings permit the deck to slide, and dampers dissipate energy from wind and traffic. The Millennium Bridge in London closed shortly after opening because pedestrians unconsciously ___2___ their steps to a slight sideways sway, ___3___ it. The remedy was not a stiffer bridge but the addition of dampers, which is the ___4___ solution in almost every case.",
+   "bank": [
+    "rigidly",
+    "flexibility",
+    "synchronised",
+    "amplifying",
+    "cheaper",
+    "firmly",
+    "strength",
+    "adjusted",
+    "reducing",
+    "heavier"
+   ],
+   "answers": [
+    "rigidly",
+    "flexibility",
+    "synchronised",
+    "amplifying",
+    "cheaper"
+   ]
+  },
+  {
+   "type": "rfib",
+   "text": "The transition from hunting to farming is usually presented as an ___0___, but skeletal evidence complicates that reading. Early farmers were shorter than the foragers who preceded them, showed more signs of nutritional ___1___, and suffered far more dental disease. What agriculture delivered was not a better diet but a larger and more ___2___ food supply, which permitted denser settlement and higher birth rates. Population grew even as individual health ___3___, which is a reminder that evolutionary success and personal ___4___ are not the same measure.",
+   "bank": [
+    "improvement",
+    "stress",
+    "predictable",
+    "declined",
+    "wellbeing",
+    "invention",
+    "strength",
+    "plentiful",
+    "improved",
+    "survival"
+   ],
+   "answers": [
+    "improvement",
+    "stress",
+    "predictable",
+    "declined",
+    "wellbeing"
+   ]
+  },
+  {
+   "type": "rmcsa",
+   "passage": "Every language changes, and every generation of speakers perceives that change as decay. The complaint is remarkably stable across time: Roman grammarians deplored the Latin of the young, eighteenth-century English writers warned that contractions would ruin the language, and the same objections are raised today about the influence of digital communication. What linguists observe instead is redistribution. A distinction that erodes in one part of the system is typically compensated elsewhere; English lost most of its case endings and developed a rigid word order that carries the same information. The perception of decline is real, but it measures the distance between a speaker's own usage and the usage of those younger than them, which is a fact about the observer rather than about the language.",
+   "q": "What is the author's central claim?",
+   "options": [
+    "Perceived linguistic decline reflects generational distance rather than actual loss of expressive capacity.",
+    "Languages have deteriorated steadily since the classical period.",
+    "Digital communication is the first genuine threat to grammatical precision.",
+    "Case endings are essential to a language's ability to convey meaning."
+   ],
+   "answer": 0
+  },
+  {
+   "type": "rmcsa",
+   "passage": "Insurance depends on a condition that is easy to state and increasingly difficult to satisfy: risks must be independent of one another. A company can insure ten thousand houses against fire because the probability that one burns is largely unrelated to whether another does, so the total loss in any year is predictable even though each individual loss is not. Flooding breaks this condition, because a single event damages every insured property in a region simultaneously. Climate change is therefore not merely making certain policies more expensive; it is undermining the statistical structure that makes some kinds of insurance possible at all. Where correlation is high enough, no premium is sustainable, and the market withdraws rather than repricing.",
+   "q": "According to the passage, why does flooding pose a special problem for insurers?",
+   "options": [
+    "Losses are correlated across the insured population rather than independent.",
+    "Flood damage is more expensive per property than fire damage.",
+    "Flood risk cannot be estimated with any accuracy.",
+    "Policyholders in flood areas are more likely to make fraudulent claims."
+   ],
+   "answer": 0
+  }
+ ],
+ "listening": [
+  {
+   "type": "sst",
+   "transcript": "I want to talk about why measuring poverty is so much harder than it looks, because the difficulty is not statistical fussiness. It changes who counts as poor and therefore who receives help. Start with the simplest approach, an absolute line. You calculate the cost of a minimum acceptable basket of goods, and anyone below it is poor. This has the virtue of being fixed, so progress is measurable over time. Its weakness is that a basket adequate in one society may exclude you entirely from another. A household with no internet connection was not poor in 1990 and arguably is now, not because their material circumstances changed but because the society around them did. So many countries use a relative line instead, typically sixty per cent of median income. This captures exclusion well, but it produces results that can be perverse. In a recession where everyone's income falls, the median falls too, and measured poverty can decline while every household is worse off. Neither approach captures duration. A student on a low income for three years and a family in the fourth generation of unemployment appear identically in a snapshot, though almost nothing about their situations is alike. This is why researchers increasingly use panel data, following the same households over years, and why the results are so much less quotable. Persistent poverty is roughly half of measured poverty in most wealthy countries, and it is the half that policy has consistently failed to move. The convenient headline number is precisely the one that conceals the distinction that matters most.",
+   "key": [
+    "an absolute poverty line is fixed and comparable over time but ignores changing social norms",
+    "a relative line at sixty per cent of median captures exclusion but can fall in a recession while everyone is worse off",
+    "neither approach captures duration, so a temporarily poor student and a long-term poor family look identical",
+    "panel data following households reveals persistent poverty as about half the measured total",
+    "the persistent half is what policy has failed to shift, and the headline figure hides it"
+   ]
+  },
+  {
+   "type": "lmcma",
+   "transcript": "A few announcements about the field trip before you go. Coaches leave from the south gate at seven, not the main entrance as printed on the original sheet, and they will not wait. Bring waterproofs regardless of the forecast, because the site is exposed and there is no shelter. Lunch is provided, but if you have dietary requirements you must have registered them by Friday; we cannot accommodate anything notified on the day. Boots are essential and the department has a limited number to lend, so if you need a pair, email the technician rather than turning up hoping. Finally, phones will have no signal at the site, so tell someone where you are going, and do not rely on being able to check the return time online.",
+   "q": "According to the speaker, which of the following are true?",
+   "options": [
+    "The departure point has changed from the one originally printed.",
+    "Waterproof clothing should be brought whatever the forecast.",
+    "Dietary requirements can be notified on the day of the trip.",
+    "Boots may be borrowed from the department if arranged in advance.",
+    "There will be mobile phone signal at the site."
+   ],
+   "answers": [
+    0,
+    1,
+    3
+   ]
+  },
+  {
+   "type": "lfib",
+   "transcript": "Saffron remains the most expensive spice in the world for reasons that are entirely about [labour]. Each crocus flower produces only three stigmas, and they must be picked by [hand] within a few hours of the flower opening. A kilogram of dried saffron requires roughly one hundred and fifty thousand flowers, which is why [mechanisation] has never succeeded despite repeated attempts. The plant itself is undemanding and grows readily across a wide [range] of climates, so the price reflects the harvest rather than any [scarcity] of the crop."
+  },
+  {
+   "type": "lfib",
+   "transcript": "The idea that goldfish have a three-second memory is [nonsense], and it has been tested repeatedly. Fish trained to press a lever for food will [retain] the behaviour for months, and several species can be taught to navigate a simple [maze]. The myth may have been convenient for anyone keeping a fish in a small [bowl], since it implies that confinement causes no [suffering]. Convenience is often what keeps a false claim alive."
+  },
+  {
+   "type": "hcs",
+   "transcript": "I want to say something about why the term 'invasive species' is used more carefully now than it was twenty years ago. The category was originally defined by origin: a species from elsewhere that spreads and causes harm. The difficulty is that origin turns out to predict harm rather poorly. Most introduced species establish nothing at all, a small number become useful, and a very small number cause serious damage. Meanwhile some of the most destructive population explosions on record involve entirely native species released from predation or responding to changed land use. If the harm is what we care about, then defining the problem by where something came from puts the emphasis in the wrong place, and it has occasionally licensed eradication programmes that were more about foreignness than about ecology.",
+   "options": [
+    "Defining species as invasive by their origin predicts harm poorly, since most introductions cause no damage while some native species become highly destructive, so emphasising foreignness misplaces the focus.",
+    "Invasive species are now understood to be the single largest cause of biodiversity loss worldwide, which is why eradication programmes have been expanded in recent decades.",
+    "The speaker argues that introduced species are almost always beneficial and that eradication programmes should therefore be abandoned entirely.",
+    "Native species have been shown to cause more ecological damage than introduced ones in every documented case, reversing the conventional understanding."
+   ],
+   "answer": 0
+  },
+  {
+   "type": "lmcsa",
+   "transcript": "A word on referencing, since the same issue comes up in almost every batch of essays I mark. The problem is rarely the format. Nobody has ever lost meaningful credit for putting a comma in the wrong place in a citation. What costs marks is referencing a source you have not read, which is far more visible than students seem to believe. If you cite a 1962 paper that you found quoted in a textbook, and you reproduce the textbook's characterisation of it rather than the paper's actual argument, that is usually obvious to anyone who knows the literature. Cite the textbook. There is no shame in it, and it is accurate. The purpose of a reference is to tell your reader where your information came from, and if it came from a summary, that is where it came from.",
+   "q": "What is the speaker's main point?",
+   "options": [
+    "Students should cite the source they actually read rather than the original it quotes.",
+    "Correct punctuation in citations is the most common cause of lost marks.",
+    "Students should always read original papers rather than textbooks.",
+    "Referencing conventions should be simplified to reduce errors."
+   ],
+   "answer": 0
+  },
+  {
+   "type": "smw",
+   "transcript": "Museums increasingly find that their most valuable holdings are not on display and never will be. A natural history collection may exhibit a few hundred specimens while storing several million, and it is the stored material that supports research, because a series collected over two centuries records how a species has changed. The exhibition is the visible part of an institution whose real work is [BEEP].",
+   "options": [
+    "preservation",
+    "exhibition",
+    "fundraising",
+    "architecture"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "hiw",
+   "spoken": "Trees in a forest do not grow as tall as they possibly could. Height is limited by the physics of moving water upward against gravity, and the tallest species approach a ceiling of roughly one hundred and twenty metres where the tension in the water column becomes unsustainable. Below that limit, competition for light drives trees upward, but the cost is enormous, which is why an isolated tree in an open field is almost always shorter than the same species in dense forest.",
+   "swaps": {
+    "6": "expand",
+    "22": "downward",
+    "41": "pressure",
+    "53": "space",
+    "75": "broader"
+   }
+  },
+  {
+   "type": "hiw",
+   "spoken": "Coins were not invented to make trade easier Barter economies of the kind described in economics textbooks have never been documented anywhere, and anthropologists find credit and obligation instead. The earliest coins appear in contexts of state payment used to pay soldiers and to collect tribute, which meant the same authority both issued the coin and demanded it back. That circular arrangement, not convenience is what gave the metal its value.",
+   "swaps": {
+    "7": "simpler.",
+    "20": "recorded",
+    "37": "taxation,",
+    "52": "printed",
+    "63": "efficiency,"
+   }
+  },
+  {
+   "type": "wfd",
+   "text": "The findings have been submitted for publication in a peer-reviewed journal."
+  },
+  {
+   "type": "wfd",
+   "text": "Course materials will be available online from the beginning of term."
+  },
+  {
+   "type": "wfd",
+   "text": "Several factors may account for the discrepancy between the two studies."
+  }
+ ]
+}
