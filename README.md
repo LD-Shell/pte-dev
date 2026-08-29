@@ -6,30 +6,6 @@ Writing are marked by a model, which needs an API key.
 
 ---
 
-## Putting it on GitHub Pages
-
-1. Create a new repository on GitHub. It can be public — there are no secrets in
-   these files, and Pages is free for public repos.
-2. Upload everything in this folder to the root of the repository. Keep the
-   structure: `index.html` at the top, with `css/`, `js/` and `tests/` beside it.
-   The empty `.nojekyll` file matters, so upload that too.
-   `GIT-COMMANDS.txt` lists the exact commands if you would rather use the
-   terminal than the web uploader.
-3. In the repository, go to **Settings → Pages**.
-4. Under *Source* choose **Deploy from a branch**, pick `main` and `/ (root)`, and
-   press Save.
-
-That link is all anyone needs. It works on any desktop Chrome, on any machine.
-
-- All ten tests, full length, with real exam timing
-- Reading and Listening scored completely — every multiple choice, re-order,
-  fill-in-the-blank, highlight and dictation item
-- The full item review on every question: the original question, what they
-  answered, the correct answer, and why the score came out as it did
-- Progress tracking across attempts
-
-None of that costs anything, needs an account, or touches an API.
-
 ## What needs a key
 
 Speaking and Writing have to be marked by a model. So do the coaching report and
