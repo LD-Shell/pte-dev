@@ -40,9 +40,6 @@ their device, and is sent only to the model provider when they are being graded.
 It is never uploaded to GitHub and nobody else who opens the link can see it or is
 billed for it.
 
-> **Never commit an API key to the repository.** A key in a public repo is public.
-> There is nowhere in these files that one belongs.
-
 ## Choosing a provider
 
 | | Anthropic | DeepSeek |
