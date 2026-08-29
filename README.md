@@ -4,8 +4,6 @@ Ten full practice tests — 590 items, all 22 task types — that run entirely i
 browser. Reading and Listening are scored and reviewed for free. Speaking and
 Writing are marked by a model, which needs an API key.
 
-**Live version:** `https://YOUR-USERNAME.github.io/YOUR-REPO/`
-
 ---
 
 ## Putting it on GitHub Pages
