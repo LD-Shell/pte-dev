@@ -18,7 +18,6 @@ Writing are marked by a model, which needs an API key.
 3. In the repository, go to **Settings → Pages**.
 4. Under *Source* choose **Deploy from a branch**, pick `main` and `/ (root)`, and
    press Save.
-5. Wait a minute or two, then open `https://YOUR-USERNAME.github.io/YOUR-REPO/`.
 
 That link is all anyone needs. It works on any desktop Chrome, on any machine.
 
