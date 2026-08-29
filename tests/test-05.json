@@ -1,0 +1,896 @@
+{
+ "no": 5,
+ "title": "Practice Test 5",
+ "source": "hand-written",
+ "format": "PTE Academic, 2025 revision (22 task types)",
+ "speaking": [
+  {
+   "type": "ra",
+   "text": "A lichen is not a plant but a partnership, and for a century it was the standard textbook example of two organisms living as one. Recent genetic work has complicated that picture considerably, revealing a third partner present in most species, which had been overlooked because nobody thought to look for it."
+  },
+  {
+   "type": "ra",
+   "text": "Equal temperament divides the octave into twelve identical steps, which means that almost every interval on a piano is very slightly out of tune. Musicians accepted this compromise because it allows a single instrument to play in any key, a freedom that earlier tuning systems could not offer."
+  },
+  {
+   "type": "ra",
+   "text": "Paper money was in circulation in China some six hundred years before it appeared in Europe. The innovation arose from a practical difficulty: copper coins were heavy, and merchants trading over long distances preferred to deposit them and carry a receipt, which gradually became a currency in its own right."
+  },
+  {
+   "type": "ra",
+   "text": "Sea turtles return to the beach where they hatched after decades at sea, and they appear to do it by reading the earth's magnetic field. Each stretch of coast has a slightly different magnetic signature, and a hatchling seems to record the one it was born under before swimming away."
+  },
+  {
+   "type": "ra",
+   "text": "The Gregorian calendar reform removed ten days from October 1582, and several countries refused to adopt it for well over a century. The objection was rarely astronomical. Accepting a papal calendar carried political meaning, and Britain continued to begin its year in March until 1752."
+  },
+  {
+   "type": "ra",
+   "text": "The barcode was patented two decades before any shop could use it, because reading one required a laser cheap enough to sit at every checkout. The idea was sound and simply waited for a component, which is the ordinary history of most technologies that are later described as sudden."
+  }
+ ],
+ "repeat": [
+  {
+   "type": "rs",
+   "text": "The reading room will close early on the last Friday of term."
+  },
+  {
+   "type": "rs",
+   "text": "Applicants should indicate their preferred supervisor on the form."
+  },
+  {
+   "type": "rs",
+   "text": "Most of the interviews were conducted over the telephone."
+  },
+  {
+   "type": "rs",
+   "text": "The theory has been revised several times since it was proposed."
+  },
+  {
+   "type": "rs",
+   "text": "Please switch off all electronic devices before the examination begins."
+  },
+  {
+   "type": "rs",
+   "text": "Data collection will continue throughout the coming academic year."
+  },
+  {
+   "type": "rs",
+   "text": "His conclusions were widely criticised by other researchers in the field."
+  },
+  {
+   "type": "rs",
+   "text": "There are two seminars scheduled for the same time on Tuesday."
+  },
+  {
+   "type": "rs",
+   "text": "The sample was drawn from a much larger national database."
+  },
+  {
+   "type": "rs",
+   "text": "Copies of last year's papers are held in the departmental office."
+  }
+ ],
+ "images": [
+  {
+   "type": "di",
+   "chart": {
+    "kind": "bar",
+    "title": "International students by destination, 2010 and 2024",
+    "unit": "thousands of students",
+    "xLabel": "Destination",
+    "categories": [
+     "United States",
+     "United Kingdom",
+     "Australia",
+     "Canada",
+     "Germany"
+    ],
+    "series": [
+     {
+      "name": "2010",
+      "values": [
+       690,
+       405,
+       270,
+       180,
+       180
+      ]
+     },
+     {
+      "name": "2024",
+      "values": [
+       890,
+       680,
+       590,
+       720,
+       390
+      ]
+     }
+    ],
+    "summary": "Every destination grew, but at very different rates. Canada grew fourfold from 180 to 720 thousand and moved from joint last to second place. Australia more than doubled to 590 and Germany more than doubled to 390. The United States remained largest at 890 but grew least in proportional terms, about 29 per cent. A strong answer distinguishes absolute size from rate of growth, names Canada as the biggest riser and the United States as the largest but slowest, and notes the change in ranking."
+   }
+  },
+  {
+   "type": "di",
+   "chart": {
+    "kind": "line",
+    "title": "Average age at first marriage, three countries, 1970-2020",
+    "unit": "years",
+    "xLabel": "Year",
+    "categories": [
+     "1970",
+     "1980",
+     "1990",
+     "2000",
+     "2010",
+     "2020"
+    ],
+    "series": [
+     {
+      "name": "Country A",
+      "values": [
+       23.1,
+       23.9,
+       26.2,
+       28.4,
+       30.1,
+       32.3
+      ]
+     },
+     {
+      "name": "Country B",
+      "values": [
+       21.4,
+       22.0,
+       23.1,
+       24.6,
+       26.8,
+       29.4
+      ]
+     },
+     {
+      "name": "Country C",
+      "values": [
+       25.0,
+       25.3,
+       25.8,
+       26.4,
+       27.1,
+       28.0
+      ]
+     }
+    ],
+    "summary": "All three rise, but by very different amounts. Country A climbs 9.2 years from 23.1 to 32.3 and is highest by 1990 despite starting second. Country B rises 8.0 years from the lowest starting point of 21.4 and remains lowest throughout. Country C starts highest at 25.0 and rises only 3.0 years, ending lowest but one. A strong answer notes that the country starting highest changed least, that the rankings invert during the period, and that the increases accelerate after 1990 for A and B while C stays almost linear."
+   }
+  },
+  {
+   "type": "di",
+   "chart": {
+    "kind": "table",
+    "title": "Four undersea road and rail tunnels",
+    "headers": [
+     "Tunnel",
+     "Length km",
+     "Years to build",
+     "Cost bn USD",
+     "Depth m"
+    ],
+    "rows": [
+     [
+      "Channel",
+      "50.5",
+      "6",
+      "21.0",
+      "75"
+     ],
+     [
+      "Seikan",
+      "53.9",
+      "24",
+      "7.0",
+      "240"
+     ],
+     [
+      "Eiksund",
+      "7.8",
+      "5",
+      "0.4",
+      "287"
+     ],
+     [
+      "Bømlafjord",
+      "7.9",
+      "4",
+      "0.3",
+      "260"
+     ]
+    ],
+    "summary": "The two long tunnels differ enormously in construction time and cost: the Channel took six years and 21 billion dollars, Seikan took twenty-four years for 7 billion. The two short Norwegian tunnels are the deepest, at 287 and 260 metres, yet were the quickest and cheapest by a wide margin. A strong answer notes that length does not predict depth, that Seikan is longest but not most expensive, and that depth does not appear to drive cost."
+   }
+  }
+ ],
+ "lecture": [
+  {
+   "type": "rl",
+   "transcript": "I want to talk about the periodic table, and specifically about why Mendeleev is credited with it when at least five other people proposed something similar within the same decade. Several of them arranged the elements by atomic weight and noticed the repeating pattern of properties. Newlands in England published his law of octaves in 1865 and was mocked at a meeting of the Chemical Society, where somebody asked whether he had tried arranging them alphabetically. So priority is genuinely contested. What distinguishes Mendeleev is not the arrangement but what he was willing to do with it. When an element did not fit, he left a gap rather than forcing it, and then he did the thing that made his reputation: he described the missing elements in detail. He specified atomic weight, density, colour, the formula of the oxide, even how the substance would behave when heated. He named three of them provisionally after their neighbours. Within fifteen years all three had been discovered, and the measured properties matched his predictions closely enough that the agreement could not be coincidence. Now, the point I want to draw out is about what makes a classification scientific rather than merely tidy. Any arrangement of data can look meaningful in retrospect. Mendeleev's was falsifiable in advance, because he had committed himself to statements that could have been shown wrong by a single measurement, and it is that exposure to refutation rather than the neatness of the grid that made the table more than a filing system.",
+   "key": [
+    "at least five others proposed similar arrangements in the same decade, and Newlands was mocked for his",
+    "what distinguished Mendeleev was leaving gaps rather than forcing elements to fit",
+    "he predicted the detailed properties of missing elements: weight, density, colour, oxide formula",
+    "all three predicted elements were found within fifteen years and matched closely",
+    "the wider point is that a scientific classification makes falsifiable commitments in advance"
+   ]
+  },
+  {
+   "type": "rl",
+   "transcript": "Architectural acoustics became a science almost by accident, and the story is worth telling because of how the problem was framed. In 1895 Harvard opened a lecture theatre in which speech was unintelligible. Sound persisted so long that each syllable overlapped the next, and the building was unusable for its purpose. A young physicist called Wallace Sabine was asked to fix it, with no theory to work from, because nobody had ever quantified how sound decays in a room. What Sabine did was almost absurdly laborious. He worked at night when the building was quiet, borrowed seat cushions from a nearby theatre, and measured by ear, using an organ pipe and a stopwatch, how long a sound remained audible after the source stopped. Then he added cushions, one batch at a time, and measured again. Hundreds of nights of this produced a simple relationship: reverberation time is proportional to the volume of the room and inversely proportional to the total absorption in it. That single equation turned acoustics from a matter of intuition into something you could calculate before building. And here is the part I find instructive. Sabine did not discover a new physical principle. Everything in his equation was already understood. What he supplied was a measurement procedure for a quantity nobody had thought to measure, and that is frequently what a new field actually consists of.",
+   "key": [
+    "a Harvard lecture theatre was unusable because speech was unintelligible",
+    "Sabine had no existing theory of how sound decays in rooms",
+    "he measured by ear at night with an organ pipe and stopwatch, adding borrowed cushions",
+    "the result: reverberation time is proportional to room volume and inversely proportional to absorption",
+    "acoustics became calculable in advance rather than intuitive",
+    "he discovered no new principle; he supplied a way of measuring a previously unmeasured quantity"
+   ]
+  }
+ ],
+ "short": [
+  {
+   "type": "asq",
+   "q": "What do we call a large body of salt water that surrounds continents?",
+   "a": [
+    "ocean",
+    "an ocean",
+    "sea",
+    "the sea"
+   ]
+  },
+  {
+   "type": "asq",
+   "q": "If a meeting is postponed, does it happen earlier or later than planned?",
+   "a": [
+    "later"
+   ]
+  },
+  {
+   "type": "asq",
+   "q": "What is the name of the instrument used to measure temperature?",
+   "a": [
+    "thermometer",
+    "a thermometer"
+   ]
+  },
+  {
+   "type": "asq",
+   "q": "In a company, is a person who owns shares called a shareholder or a customer?",
+   "a": [
+    "shareholder",
+    "a shareholder"
+   ]
+  },
+  {
+   "type": "asq",
+   "q": "How many years are there in a decade?",
+   "a": [
+    "ten",
+    "10"
+   ]
+  }
+ ],
+ "discussion": [
+  {
+   "type": "sgd",
+   "turns": [
+    {
+     "speaker": "Rosa",
+     "text": "Dropping the language requirement will raise our application numbers, but we'd be admitting students who can't read half the primary sources the degree is built on."
+    },
+    {
+     "speaker": "Idris",
+     "text": "Translations exist for nearly all of them now, and they're good. The requirement is filtering on privilege as much as on aptitude, because it's really a test of whether your school taught the language."
+    },
+    {
+     "speaker": "Rosa",
+     "text": "Translations are good for the canonical texts. They don't exist for the archival material, which is where the interesting dissertations come from."
+    },
+    {
+     "speaker": "Idris",
+     "text": "Then require it for the dissertation, not for admission. Teach it in first year to the people who want to go that way."
+    },
+    {
+     "speaker": "Lena",
+     "text": "That's essentially what the neighbouring department did, and their dissertation quality didn't drop. It did cost them two extra teaching posts."
+    },
+    {
+     "speaker": "Rosa",
+     "text": "Two posts we don't have. Though if it's a resourcing objection I should say so plainly rather than dressing it up as standards."
+    },
+    {
+     "speaker": "Idris",
+     "text": "I'd rather argue about the funding than pretend the entry requirement is doing academic work it isn't."
+    }
+   ],
+   "key": [
+    "Rosa defends the language requirement on grounds of access to primary sources",
+    "Idris argues it filters on schooling and privilege rather than aptitude",
+    "Rosa concedes for canonical texts but not archival material",
+    "Idris proposes moving the requirement from admission to the dissertation stage",
+    "Lena reports a neighbouring department did this successfully at the cost of two teaching posts",
+    "Rosa concedes her real objection is resourcing rather than standards"
+   ]
+  },
+  {
+   "type": "sgd",
+   "turns": [
+    {
+     "speaker": "Theo",
+     "text": "Banning AI tools outright is unenforceable and everyone in this room knows it. We'd be writing a rule we can't apply, which is worse than no rule."
+    },
+    {
+     "speaker": "Nadia",
+     "text": "Unenforceable rules still do work. Speed limits are widely broken and they still lower average speeds."
+    },
+    {
+     "speaker": "Theo",
+     "text": "Speed limits are enforced sometimes. We can't detect this at all reliably, and the detectors that claim to are wrong often enough to ruin someone's degree."
+    },
+    {
+     "speaker": "Nadia",
+     "text": "That I accept. False accusations are the thing I'd least want on our conscience."
+    },
+    {
+     "speaker": "Wei",
+     "text": "Could we change what we assess instead? An oral defence of the submitted work takes ten minutes and tells you immediately whether the student understands what they handed in."
+    },
+    {
+     "speaker": "Nadia",
+     "text": "For a cohort of forty, yes. For three hundred it's a hundred and fifty staff hours we don't have."
+    },
+    {
+     "speaker": "Theo",
+     "text": "Then use it as a sample. Ten per cent, chosen at random, announced in advance. That changes the incentive without the workload."
+    }
+   ],
+   "key": [
+    "Theo argues an outright ban is unenforceable and worse than no rule",
+    "Nadia counters that unenforceable rules still shift behaviour, citing speed limits",
+    "Theo raises unreliable detection and the risk of false accusations; Nadia concedes this",
+    "Wei proposes oral defences to test understanding instead of policing tools",
+    "Nadia objects on workload for large cohorts; Theo proposes random sampling announced in advance"
+   ]
+  }
+ ],
+ "situation": [
+  {
+   "type": "rts",
+   "situation": "The heating in your rented flat has not worked for eleven days. You have reported it twice by email and received no reply. It is now mid-winter and you are working from home.",
+   "task": "Telephone your landlord.",
+   "key": [
+    "states the problem, its duration and the previous unanswered reports",
+    "conveys urgency without becoming abusive",
+    "asks for a specific commitment with a date rather than a vague assurance",
+    "mentions the practical consequence for you",
+    "keeps a firm but civil register appropriate to a contractual relationship"
+   ]
+  },
+  {
+   "type": "rts",
+   "situation": "You are scheduled to present in the final week of term, which clashes with a family commitment booked long before the timetable was published. A classmate is presenting in week two and might be willing to swap.",
+   "task": "Ask your classmate about swapping slots.",
+   "key": [
+    "explains the reason for the request honestly and briefly",
+    "recognises that swapping is an inconvenience rather than a favour owed",
+    "makes the request specific: which slots, which weeks",
+    "offers something in return or a way to make it easier",
+    "makes clear that a refusal is acceptable"
+   ]
+  }
+ ],
+ "swt": [
+  {
+   "type": "swt",
+   "passage": "Garrett Hardin's essay on the tragedy of the commons is among the most cited papers in the social sciences, and its central claim has been substantially overturned by the researcher who examined it most carefully. Hardin argued that any resource held in common will inevitably be destroyed, because each user gains the full benefit of taking more while bearing only a fraction of the cost. The logic is compelling and the conclusion, that commons must be either privatised or placed under state control, was adopted widely in development policy. Elinor Ostrom's objection was empirical rather than theoretical. She and her collaborators documented hundreds of commons, some managed continuously for centuries, in which communities had devised rules that prevented exactly the collapse Hardin described. Swiss alpine pastures, Japanese village forests and Spanish irrigation systems all fell into this category. What Hardin had described was not a commons but an open-access resource with no governance at all, a situation that is real but far from universal. Ostrom's further contribution was to identify what the successful systems shared: clear boundaries, rules adapted to local conditions, cheap conflict resolution, and users who participated in making the rules that bound them. Her work earned a Nobel Prize and has been rather less widely absorbed than the essay it corrected.",
+   "key": [
+    "Hardin argued commonly held resources are inevitably destroyed by individual incentives",
+    "his conclusion favoured privatisation or state control and shaped development policy",
+    "Ostrom documented hundreds of commons managed sustainably for centuries",
+    "Hardin had actually described open-access resources without governance, not true commons",
+    "successful systems shared clear boundaries, locally adapted rules, cheap dispute resolution and user participation",
+    "the correction is far less widely absorbed than the original essay"
+   ]
+  },
+  {
+   "type": "swt",
+   "passage": "The index is a medieval invention that changed how books are read, and its arrival marks a shift from reading as a linear discipline to reading as retrieval. Before the thirteenth century a scholar approached a text from the beginning, and knowledge of where a passage sat depended entirely on memory, which was trained deliberately and to a degree now hard to imagine. The alphabetical index arose in the universities and preaching orders, where a friar preparing a sermon needed to locate every scriptural reference to a particular theme quickly, and had no time to read an entire volume to find them. Constructing one required an ordering principle that contemporaries found faintly disreputable, since alphabetical order deliberately ignores the logical or theological relationships between subjects and treats them as arbitrary. Several writers objected that this trained the mind to grasp fragments rather than wholes, an argument reproduced almost word for word in modern complaints about search engines. What the index actually accomplished was to make large books usable by people who had not memorised them, and in doing so it changed what a book could be: not a text to be absorbed entire, but a resource to be consulted.",
+   "key": [
+    "before the index, reading was linear and depended on trained memory",
+    "the alphabetical index arose in universities and preaching orders for rapid retrieval",
+    "alphabetical order was distrusted because it ignores logical relationships between subjects",
+    "contemporaries argued it trained the mind to grasp fragments, an argument echoed about search engines",
+    "the index made large books usable without memorising them and turned a book into a resource to consult"
+   ]
+  }
+ ],
+ "essay": [
+  {
+   "type": "we",
+   "prompt": "A number of companies have trialled a four-day working week with no reduction in pay. Supporters argue that shorter hours improve wellbeing without reducing output, while critics argue that the results do not transfer to every industry. Discuss both views and give your own opinion. Write 200-300 words."
+  }
+ ],
+ "reading": [
+  {
+   "type": "rwfib",
+   "text": "Deserts form for several distinct reasons, and confusing them leads to poor ___0___ about how they will change. Some lie in the rain shadow of a mountain range, where air that has already lost its moisture on the windward slope ___1___ dry. Others sit beneath the descending arm of a circulation cell, where sinking air ___2___ any cloud that forms. A third group is simply too far from any ocean for moist air to ___3___ them at all.",
+   "blanks": [
+    {
+     "options": [
+      "predictions",
+      "precautions",
+      "preferences",
+      "precedents"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "descends",
+      "dissents",
+      "dispenses",
+      "disperses"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "suppresses",
+      "supposes",
+      "supplies",
+      "supports"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "reach",
+      "reap",
+      "rear",
+      "read"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "type": "rwfib",
+   "text": "The alphabet was invented once. Every alphabetic script in use today ___0___ back to a single system devised by Semitic-speaking workers in Egypt around 1800 BC, who borrowed hieroglyphic signs and used them to ___1___ sounds rather than meanings. This was a radical ___2___, because it reduced the number of symbols a writer needed from many hundreds to a couple of dozen, and it made literacy ___3___ to people outside a professional scribal class.",
+   "blanks": [
+    {
+     "options": [
+      "traces",
+      "trades",
+      "trains",
+      "trawls"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "represent",
+      "reprimand",
+      "reproduce",
+      "repress"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "simplification",
+      "specification",
+      "specialisation",
+      "speculation"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "accessible",
+      "acceptable",
+      "accountable",
+      "adaptable"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "type": "rwfib",
+   "text": "Sound travels through a building by two routes that require entirely different ___0___. Airborne noise passes through gaps and thin partitions and is reduced by mass, so a heavy wall performs well. Impact noise, such as footsteps, ___1___ directly into the structure and travels through it, so mass achieves very little; what is needed is a resilient layer that ___2___ the two surfaces. Architects who treat the two as one problem routinely ___3___ money on the wrong remedy.",
+   "blanks": [
+    {
+     "options": [
+      "remedies",
+      "reminders",
+      "remainders",
+      "reminiscences"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "couples",
+      "copes",
+      "carves",
+      "curbs"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "separates",
+      "saturates",
+      "stimulates",
+      "speculates"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "waste",
+      "waive",
+      "wade",
+      "ward"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "type": "rwfib",
+   "text": "Insects colonise a body in a ___0___ sequence, and this makes them useful to investigators. Particular species arrive within hours, others only after decomposition has ___1___ to a later stage, and because development rates depend on temperature in a well-documented way, the age of the larvae present can be converted into an ___2___ of elapsed time. The method is ___3___ by anything that delays access, such as burial or wrapping, which is why the estimate is stated as a minimum rather than an exact figure.",
+   "blanks": [
+    {
+     "options": [
+      "predictable",
+      "preferable",
+      "perishable",
+      "permissible"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "progressed",
+      "professed",
+      "projected",
+      "prospered"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "estimate",
+      "estimation",
+      "esteem",
+      "establishment"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "complicated",
+      "compensated",
+      "competed",
+      "compiled"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "type": "rwfib",
+   "text": "Railway gauge was ___0___ by accident in most countries and by decree in a few. Where private companies built lines independently, each chose a width that suited its engineer, and the resulting ___1___ became apparent only when networks met and freight had to be unloaded and reloaded at the ___2___. Standardisation was achieved in Britain by legislation and in the United States largely by a single coordinated weekend in 1886, when thousands of miles of track were ___3___ inward by hand.",
+   "blanks": [
+    {
+     "options": [
+      "determined",
+      "deteriorated",
+      "detained",
+      "deterred"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "incompatibility",
+      "incapability",
+      "incredibility",
+      "incivility"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "boundary",
+      "bounty",
+      "boulevard",
+      "bottleneck"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "shifted",
+      "shattered",
+      "sheltered",
+      "shepherded"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "type": "rmcma",
+   "passage": "The wisdom of crowds is real but conditional, and the conditions are routinely ignored by people invoking it. The classic demonstration involves a large number of independent guesses about a quantity, whose average proves more accurate than almost any individual estimate. The mechanism is straightforward: errors in opposite directions cancel, provided they are genuinely independent. That proviso does most of the work. When participants can see one another's answers, independence collapses, estimates converge, and the group becomes confident and wrong at the same time. Experiments in which guessers were shown the running average produced tighter clustering and worse accuracy than experiments in which they were kept apart. The practical implication runs against ordinary intuition about meetings: a group that discusses a question before estimating it will typically do worse than the same group estimating privately first and discussing afterwards. Aggregation is powerful, but it is aggregation of independent judgements, and a discussion is precisely the mechanism that destroys the independence it depends on.",
+   "q": "Which of the following are stated or clearly implied by the passage?",
+   "options": [
+    "The accuracy of a crowd's average depends on the independence of individual estimates.",
+    "Showing participants a running average produced tighter clustering but worse accuracy.",
+    "Groups estimate more accurately after discussing the question together.",
+    "Estimating privately before discussion is likely to outperform discussing first.",
+    "The author concludes that group judgement is generally worthless."
+   ],
+   "answers": [
+    0,
+    1,
+    3
+   ]
+  },
+  {
+   "type": "ro",
+   "paras": [
+    "By 1922 the Valley of the Kings was widely believed to have been exhausted, and Lord Carnarvon had decided to stop funding the search.",
+    "Howard Carter persuaded him to underwrite a single further season, concentrating on a small triangle of ground that earlier excavators had covered with rubble.",
+    "Within days his workmen uncovered a step cut into the rock, and then a sealed doorway bearing a name that had barely appeared in the historical record.",
+    "Carter waited three weeks for Carnarvon to arrive from England before breaking through, an act of restraint that later commentators found remarkable.",
+    "What lay beyond was the only substantially intact royal burial ever recovered from the valley."
+   ]
+  },
+  {
+   "type": "ro",
+   "paras": [
+    "Smallpox is the only human disease to have been deliberately driven to extinction.",
+    "The campaign began in 1967 with an assumption that proved wrong: that eradication would require vaccinating almost everyone on earth.",
+    "A shortage of vaccine in eastern Nigeria forced a team to improvise, tracing each case and vaccinating only the people around it.",
+    "The outbreak stopped despite coverage well below half, and surveillance and containment replaced mass vaccination as the strategy.",
+    "The last naturally occurring case was recorded in Somalia in 1977."
+   ]
+  },
+  {
+   "type": "rfib",
+   "text": "Ice floats because water is one of the very few substances that ___0___ when it freezes. The molecules lock into an open lattice held apart by hydrogen bonds, so solid water is about nine per cent less ___1___ than liquid water at the same temperature. The consequence for life is difficult to ___2___. A lake freezing from the bottom upward would kill everything in it, and in a cold climate might never fully ___3___; because ice forms on the surface instead, it ___4___ the water beneath and the lake remains habitable all winter.",
+   "bank": [
+    "expands",
+    "dense",
+    "overstate",
+    "thaw",
+    "insulates",
+    "contracts",
+    "heavy",
+    "explain",
+    "freeze",
+    "separates"
+   ],
+   "answers": [
+    "expands",
+    "dense",
+    "overstate",
+    "thaw",
+    "insulates"
+   ]
+  },
+  {
+   "type": "rfib",
+   "text": "The Dead Sea Scrolls were preserved by a combination of ___0___ that is unlikely to occur again. The caves are extremely dry, the temperature is stable, and the manuscripts were stored in sealed jars that ___1___ them from light and insects. Once removed, several fragments began to ___2___ within months, and early conservators accelerated the damage by applying adhesive tape, a decision that has taken decades to ___3___. The episode is now used in training as a reminder that intervention carries its own ___4___.",
+   "bank": [
+    "conditions",
+    "protected",
+    "deteriorate",
+    "reverse",
+    "risks",
+    "materials",
+    "removed",
+    "dissolve",
+    "repeat",
+    "benefits"
+   ],
+   "answers": [
+    "conditions",
+    "protected",
+    "deteriorate",
+    "reverse",
+    "risks"
+   ]
+  },
+  {
+   "type": "rfib",
+   "text": "Artificial light has become a serious ___0___ for astronomy, but the damage extends well beyond observatories. Migrating birds ___1___ by the stars are drawn off course by illuminated buildings, and hatchling turtles crawl inland toward streetlights instead of toward the sea. Most of the harm comes from light that ___2___ upward or sideways and serves no purpose at all, which means the cheapest ___3___ is simply to point fixtures downward and shield them. Several towns have cut their lighting bills while ___4___ the night sky.",
+   "bank": [
+    "problem",
+    "navigating",
+    "escapes",
+    "remedy",
+    "restoring",
+    "subject",
+    "travelling",
+    "reflects",
+    "penalty",
+    "reducing"
+   ],
+   "answers": [
+    "problem",
+    "navigating",
+    "escapes",
+    "remedy",
+    "restoring"
+   ]
+  },
+  {
+   "type": "rfib",
+   "text": "The wristwatch was regarded as a woman's ___0___ until the First World War. Men carried pocket watches and considered anything strapped to the wrist faintly ___1___, but an officer coordinating an artillery barrage could not fumble in a pocket, and the wristwatch became standard ___2___ within a few years. The shift is a familiar one: an object confined to one group by ___3___ rather than function is adopted universally once a practical demand ___4___ the objection.",
+   "bank": [
+    "ornament",
+    "ridiculous",
+    "issue",
+    "convention",
+    "overrides",
+    "instrument",
+    "expensive",
+    "practice",
+    "necessity",
+    "confirms"
+   ],
+   "answers": [
+    "ornament",
+    "ridiculous",
+    "issue",
+    "convention",
+    "overrides"
+   ]
+  },
+  {
+   "type": "rmcsa",
+   "passage": "Gamification, the practice of adding points, badges and leaderboards to activities that are not games, has produced results that are strong in the short term and unreliable afterwards. The reliable finding is that extrinsic rewards increase the rewarded behaviour while they are present. The less convenient finding is what happens when they are withdrawn: participants frequently perform below their original baseline, apparently because the reward has reframed an activity that was previously done for its own sake into work performed for payment. Designers who understand this build systems in which the points track progress toward a goal the user already had, rather than substituting for one. Those who do not tend to produce applications with excellent engagement metrics for six weeks and an abandonment rate that nobody includes in the case study.",
+   "q": "What does the passage identify as the central risk of gamification?",
+   "options": [
+    "Rewards can displace an existing intrinsic motivation, leaving behaviour worse than before once they stop.",
+    "Points and badges have no measurable effect on behaviour at any stage.",
+    "Users find leaderboards demotivating because they encourage comparison.",
+    "Gamified systems are more expensive to build than conventional ones."
+   ],
+   "answer": 0
+  },
+  {
+   "type": "rmcsa",
+   "passage": "Broken windows policing rests on a proposition that is intuitively appealing and empirically fragile: that visible disorder signals an absence of control and thereby invites serious crime. Cities that adopted the approach in the 1990s did see crime fall, which is the evidence usually cited. The difficulty is that crime fell across almost every large city in the same period, including those that adopted no such policy and several that reduced policing levels. When researchers have attempted to isolate the effect using variation in enforcement intensity between comparable neighbourhoods, the estimated impact on serious crime has been small or indistinguishable from zero, while the measurable costs, in arrests for minor offences concentrated in particular communities, have been substantial and unevenly distributed.",
+   "q": "What is the author's main argument?",
+   "options": [
+    "The crime decline attributed to the policy occurred in cities that did not adopt it, weakening the causal claim.",
+    "Visible disorder has been proven to have no relationship with serious crime.",
+    "The policy was effective but was applied too aggressively in some cities.",
+    "Researchers have been unable to measure enforcement intensity in any neighbourhood."
+   ],
+   "answer": 0
+  }
+ ],
+ "listening": [
+  {
+   "type": "sst",
+   "transcript": "I want to talk about why election polling goes wrong, because the usual explanation, that people lie to pollsters, is the least important of the actual reasons. Start with the sampling problem. A poll needs a sample that resembles the electorate, and getting one has become extraordinarily difficult. Response rates to telephone polls have fallen from around thirty-six per cent in the late nineteen nineties to under six per cent now. That does not automatically bias the result, but it means the people who do answer differ from those who do not in ways the pollster has to guess at and correct for. Those corrections are called weighting, and they are where most of the trouble lives. If you weight by age, sex and region, you are assuming that within each of those categories the respondents resemble the non-respondents. Recent evidence suggests they do not: people who answer surveys are systematically more socially trusting and more politically engaged than people who do not, and no amount of demographic weighting fixes a difference on a variable you have not measured. Then there is the turnout problem, which is separate and arguably worse. A poll measures preference among people surveyed; an election measures the preference of people who actually vote. Bridging that gap requires a model of who will turn out, and turnout models are built from previous elections, which means they systematically fail in exactly the elections where turnout patterns change. And that is precisely when everyone is paying attention. What I want you to notice is that none of these are errors of arithmetic. The margin of error quoted in the newspaper describes only the sampling variation, and it is almost always the smallest of the uncertainties involved.",
+   "key": [
+    "the common explanation that respondents lie is the least important reason",
+    "telephone response rates have collapsed from about thirty-six per cent to under six",
+    "weighting assumes respondents resemble non-respondents within demographic categories, which evidence contradicts",
+    "survey respondents are more socially trusting and politically engaged on variables not measured",
+    "turnout models are built from past elections and fail when turnout patterns change",
+    "the published margin of error covers only sampling variation, the smallest of the uncertainties"
+   ]
+  },
+  {
+   "type": "lmcma",
+   "transcript": "Some changes to library services from next month. The short loan collection is being discontinued, and those titles are moving into the general stock with a standard three-week loan, which most of you asked for. Group study rooms can now be booked up to two weeks ahead rather than three days, but a booking that goes unclaimed for fifteen minutes will be released automatically. The twenty-four-hour opening in the exam period stays, and we have added the two weeks before it as well. Printing credit no longer expires at the end of the year; it carries over for as long as you are registered. What is not changing, despite a number of requests, is the food policy. Covered drinks yes, everything else no, and that applies in the group rooms too.",
+   "q": "According to the announcement, which of the following are true?",
+   "options": [
+    "Short loan titles are moving to a standard three-week loan.",
+    "Study rooms can be booked further in advance than before.",
+    "Unclaimed room bookings are released automatically after a short period.",
+    "The food policy is being relaxed in group study rooms.",
+    "Printing credit will still expire at the end of each year."
+   ],
+   "answers": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "type": "lfib",
+   "transcript": "The QWERTY layout is often said to have been designed to slow typists down, which is not quite [accurate]. Early typewriters jammed when adjacent levers were struck in quick [succession], so the designer separated pairs of letters that commonly occur together in English. The aim was to prevent the [collision] rather than to reduce speed as such. What is genuinely surprising is the layout's [persistence]: mechanical jamming ceased to be a problem more than a century ago, yet no alternative has ever achieved meaningful [adoption]."
+  },
+  {
+   "type": "lfib",
+   "transcript": "Noise-cancelling headphones work by [addition] rather than by blocking. A microphone samples the incoming sound, the electronics generate a wave of identical shape but opposite [phase], and the two cancel where they meet at the ear. The technique works well for steady low-frequency noise such as an aircraft [engine], and poorly for speech, because a voice changes too [quickly] for the system to track. This is why the cabin roar disappears while the conversation behind you remains perfectly [audible]."
+  },
+  {
+   "type": "hcs",
+   "transcript": "I want to deal with the claim that Napoleon was unusually short, because it is a useful example of how a piece of misinformation can be manufactured. Contemporary records give his height as five feet two inches in French units, which converts to roughly five feet six or seven in English measure, slightly above the average for a Frenchman of his generation. The confusion between the two systems accounts for part of the story. The rest is deliberate. British caricaturists, Gillray in particular, drew him as a tiny figure in oversized boots for two decades, and the image was effective propaganda precisely because it was ridiculous rather than fearsome. So the myth has two ingredients: a genuine unit conversion error, and a sustained political campaign that had every reason to encourage it.",
+   "options": [
+    "Napoleon's recorded height in French units converts to slightly above average for the time, and the myth of his shortness combines a unit conversion error with sustained British caricature.",
+    "Napoleon was indeed considerably shorter than average, which British caricaturists accurately depicted in their published work over two decades.",
+    "The speaker argues that all contemporary records of Napoleon's height were falsified by his own government for propaganda purposes.",
+    "Historians remain unable to determine Napoleon's height because no contemporary measurements of any kind have survived."
+   ],
+   "answer": 0
+  },
+  {
+   "type": "lmcsa",
+   "transcript": "A word about laboratory notebooks, which I know feels like an administrative imposition until the first time it saves you. Write down what you actually did, not what the protocol says you should have done. If you used a different buffer because the right one had run out, that goes in the book. If the incubation ran forty minutes instead of thirty because you were called away, that goes in too. The temptation is always to record the idealised version, because the real version looks careless. But the whole value of the notebook is that when an experiment fails to replicate three months later, the difference between the two runs is sitting in the record, and it is almost always one of these small deviations that felt too trivial to mention.",
+   "q": "What is the speaker's main point about laboratory notebooks?",
+   "options": [
+    "Record what was actually done, including small deviations from the protocol.",
+    "Notebooks should follow the published protocol exactly to remain credible.",
+    "Notebooks are primarily an administrative requirement with little scientific value.",
+    "Experiments that fail to replicate should be excluded from the record."
+   ],
+   "answer": 0
+  },
+  {
+   "type": "smw",
+   "transcript": "Engineers designing systems that must not fail rarely make a single component stronger. They duplicate it, and they duplicate it in a way that means the two copies will not fail for the same reason: different manufacturers, different materials, sometimes different physical principles altogether. A backup identical to the original protects against wear but not against a design flaw, so what is really being purchased is not duplication but [BEEP].",
+   "options": [
+    "diversity",
+    "strength",
+    "capacity",
+    "simplicity"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "hiw",
+   "spoken": "An octopus can change the colour and texture of its skin in under a second yet the animal is almost certainly colour blind It has a single visual pigment, which should make discrimination between wavelengths impossible One proposed explanation is that the unusual shape of the pupil spreads different colours to different depths, so the animal could judge colour by adjusting focus rather than by comparing receptors. The skin itself also contains light-sensitive proteins which may allow it to sense its background directly.",
+   "swaps": {
+    "14": "minute,",
+    "22": "deaf.",
+    "35": "difficult.",
+    "47": "focuses",
+    "65": "combining",
+    "73": "cells,"
+   }
+  },
+  {
+   "type": "hiw",
+   "spoken": "The first reasonably accurate measurement of the speed of light came from astronomy rather than from any laboratory In 1676 Rømer noticed that the eclipses of Jupiter's moons ran late when the earth was furthest from Jupiter and early when it was nearest. He correctly inferred that the difference was the time light took to cross the extra distance and derived a figure within about a quarter of the modern value at a time when many astronomers still assumed light travelled instantly",
+   "swaps": {
+    "3": "acceptable",
+    "17": "observatory.",
+    "29": "early",
+    "44": "broadly",
+    "58": "diameter,",
+    "70": "figure,",
+    "81": "immediately."
+   }
+  },
+  {
+   "type": "wfd",
+   "text": "The revised guidelines will take effect at the start of next month."
+  },
+  {
+   "type": "wfd",
+   "text": "Very little research has examined the long-term effects of the treatment."
+  },
+  {
+   "type": "wfd",
+   "text": "Students may borrow equipment for a maximum of seven days."
+  }
+ ]
+}
